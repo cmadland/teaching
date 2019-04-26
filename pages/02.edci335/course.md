@@ -1,5 +1,5 @@
 ---
-title: EDCI 335
+title: EDCI335
 published: true
 visible: false
 course_list_description: This would be a short description of the CPT363 course.
