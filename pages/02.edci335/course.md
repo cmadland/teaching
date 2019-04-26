@@ -1,5 +1,5 @@
 ---
-title: EDCI335
+title: EDCI 335
 published: true
 visible: false
 course_list_description: >-
