@@ -5,8 +5,9 @@ published: true
 visible: false
 ---
 
-# Important Reminders
+# Welcome
 
-- EDCI will start on Monday, May 13
-- I will post instructions for accessing course materials here.
+- EDCI 335 will start on Monday, May 13.
+- There are no textbooks to purchase for this course.
+- I will post instructions for accessing course materials here shortly before the beginning of the course.
 - Looking forward to meeting you all! ~Colin
