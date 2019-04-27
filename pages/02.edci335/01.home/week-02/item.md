@@ -9,7 +9,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 header_image_alt_text: Information architecture
 ---
 
-[plugin:content-inject](../home/_important-reminders)
+[plugin:content-inject](/edci335/home/_important-reminders)
 
 # What does a holistic user experience design process look like?
 
