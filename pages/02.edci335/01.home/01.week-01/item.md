@@ -6,11 +6,13 @@ header_image_alt_text: SFU Academic Quadrangle
 header_image_credit: 'Julian Schüngel, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
 hide_from_post_list: false
-continue_link: false
+continue_link: true
 hide_git_sync_repo_link: true
 ---
 
 [plugin:content-inject](/edci335/home/_important-reminders)
+
+===
 
 # What is usability and user experience design?
 
