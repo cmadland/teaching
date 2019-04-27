@@ -5,46 +5,48 @@ show_sidebar: false
 hide_git_sync_repo_link: false
 ---
 
-## Course Description
-In this course we will explore the art and science of designing usable, useful and enjoyable human-computer interfaces, with an emphasis on user-centered design techniques. The importance and necessity of effective interaction design techniques will be highlighted, and current design methodologies and principles across multiple platforms will be discussed. Students will gain valuable knowledge and experience by working in groups on a term-long design project.
+!!! This page contains highlights of the official syllabus, which is [posted as a PDF in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414).
 
-_Effectively working in a team and both verbal and written communication skills are essential to do well in this course._
+# Calendar Description
 
-## Course Objectives
-* Describe and apply key UI/UX concepts, techniques, and principles
-* Assess and describe the usability and UX of a digital interface
-* Plan, conduct, and analyze user research for a digital product
-* Conceptualize, design, and prototype a digital product
-* Plan, conduct, and analyze a usability test of a digital product
-* Participate and contribute as a member of a team
-* Care about how people feel about and experience technology
+An introduction to the practice of learning design and its application to interactive learning environments. Students will explore the principles of learning design; examine how they can maximize the effectiveness, efficiency and appeal of learning experiences for learners; and teach for understanding. Students will have the opportunity to plan, design, and develop an interactive learning environment using the latest technology tools specifically for teaching and learning.
 
-## Topic Schedule
-1. What is usability and user experience design?
-1. What does a holistic user experience design process look like?
-1. How to make more strategic design decisions?
-1. How to conduct a usability inspection?
-1. How to plan, conduct, and summarize usability tests?
-1. How to understand and communicate people's needs and behaviours?
-1. How to explore and communicate possible design solutions?
-1. How to design products for how people think, learn and feel?
-1. How to design for mobile and multi-device usage?
-1. What are the essentials of effective visual communication?
+# Course Description/Goals
 
-## Course Assignments (tentative)
-Individual (50%)
-* Weekly Reading Quizzes: 5%
-* Reflective Log: 5%
-* Journey Map: 15%
-* Usability Inspection: 25%
+Upon successful completion of this course, learners should be able to
 
-Group (25%)
-* User Research Report: 25%
+- plan and design interactive learning experiences using technology tools;
+- reflect on and assess progress towards learning goals in relation to their own work and the work of others;
+- exercise personal freedom and responsibility in digitally networked learning environments;
+- describe the role of technology in equitable learning environments;
+- critique traditional, teacher-centred learning environments in light of learning models that prioritize learner agency;
 
-Team or Group (25%)
-* Usability Tested Mockups: 25%
+It is possible that you will not be moving towards a career as a teacher in a public school, as is common for people taking courses in education, but rather as a marketer, economist, psychologist, brain surgeon, rocket scientist, or parent. Regardless of your personal career and life goals, there will be times where you will be called upon to think carefully about how people learn things and how technology shapes modern learning environments. This course is intended to give you the opportunity to begin to develop some knowledge, skills, and attitudes to be able to create, and sometimes advocate for, digital learning environments that are not only effective for learning, but are also equitable and just.
 
-Reading quizzes must be submitted no later than 10:00am class day - no exceptions. Late assignments will not be accepted without valid documentation (e.g. medical certificate).
+# Territory Acknowledgement
 
-## Required Textbook
-Are you kidding me, in 2018? All required readings will be available on-line.   
+I acknowledge with respect the Lkwungen-speaking peoples on whose traditional territory the university stands and the Songhees, Esquimalt and WSÁNEĆ peoples whose historical relationships with the land continue to this day.
+
+I also acknowledge with regret that education has been used as a weapon against the lives and cultures of the Indigenous Peoples in Canada and commit myself to promoting Indigenous self-determination and reconciliation between Indigenous and settler communities.
+
+# Diversity and Equity Statement
+
+Our Faculty of Education embraces an inclusive learning community that respects and recognizes that we are enriched and strengthened by diversity including, but not limited to, ethnicity and national origins, language, gender and gender identity, sexuality, ability, age, socioeconomic status, and spirituality. We are committed to increasing the participation of people who have been historically and systemically excluded from higher education and welcome all who share this aspiration. We are committed to answering the Calls to Action from the Truth and Reconciliation Commission of Canada. We are a campus that educates for and encourages respect, acceptance of others, inclusion and diversity, with one principal limit: acts that incite hatred, espouse or encourage bigotry, either implied or explicit, will not be tolerated.
+
+# Text/Reading List
+
+You are **NOT** required to purchase a textbook for this course. All readings will either be openly available on the web or will be accessible through the University of Victoria library.
+
+Bates, A. W. (2015). Teaching in a digital age. Retrieved from <https://opentextbc.ca/teachinginadigitalage/> [Open online]
+
+Vaughan, N. D., Garrison, D. R., & Cleveland-Innes, M. (2013). Teaching in blended learning environments: creating and sustaining communities of inquiry. Retrieved from <http://www.aupress.ca/index.php/books/120229> [Open Online]
+
+# Assignments
+
+**Due date (end of the day listed)**                 | **Details**                                                  | **Grade Allotment**
+---------------------------------------------------- | ------------------------------------------------------------ | -------------------
+Sunday, May 26                                       | Learning Design Blueprint (Cooperative)                      | 15%
+**Draft:** Sunday, June 9 **Final:** Friday, June 28 | Interactive Learning Resource (Cooperative)                  | 35%
+Friday, June 28                                      | Cooperative Group Assessment (Individual)                    | 5%
+End of weeks 1-4 and 6                               | Personal Learning Challenge/Reflective Practice (Individual) | 5@7% - 35%
+Sunday, June 23                                      | Interactive Learning Resource Peer Review (Individual)       | 10%
