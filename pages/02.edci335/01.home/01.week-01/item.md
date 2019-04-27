@@ -10,9 +10,9 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
-[plugin:content-inject](/edci335/home/_important-reminders)
-
 # What is usability and user experience design?
+
+[plugin:content-inject](/edci335/home/_important-reminders)
 
 ## What is this course all about?
 
