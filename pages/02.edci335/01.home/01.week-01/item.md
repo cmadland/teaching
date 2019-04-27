@@ -10,9 +10,10 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
+[plugin:content-inject](../home/_important-reminders)
+
 # What is usability and user experience design?
 
-[plugin:content-inject](/_important-reminders)
 
 ## What is this course all about?
 
