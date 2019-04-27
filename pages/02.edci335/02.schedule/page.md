@@ -10,7 +10,7 @@ cache_enable: false
 
 **What is usability and user experience design?**<br>
 :fa-desktop:[Course Overview](../presentations/placeholder-slide?target=_blank)<br>
-:fa-question-circle:[Introduction to UX Design](../presentations/placeholder-slide?target=_blank)<br>
+:fa-question:[Introduction to UX Design](../presentations/placeholder-slide?target=_blank)<br>
 :fa-book:[Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)
