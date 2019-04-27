@@ -12,7 +12,8 @@ cache_enable: false
 :fa-desktop:Blog Setup<br>
 :fa-question:How does digital technology influence society? You?<br>
 :fa-question:What does it mean to learn something?<br>
-:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage) :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry (Ch. 2)](http://aupress.ca/index.php/books/120229)
+:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
+:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry (Ch. 2)](http://aupress.ca/index.php/books/120229)
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)
 
