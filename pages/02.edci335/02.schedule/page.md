@@ -8,10 +8,11 @@ cache_enable: false
 
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
-**What is usability and user experience design?**<br>
+**What is learning design?**<br>
 :fa-desktop:Blog Setup<br>
 :fa-question:How does digital technology influence society? You?<br>
-:fa-book:[Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+:fa-question:What does it mean to learn something?<br>
+:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage) :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry (Ch. 2)](http://aupress.ca/index.php/books/120229)
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)
 
