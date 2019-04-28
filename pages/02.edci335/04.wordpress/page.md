@@ -56,4 +56,4 @@ When you're ready to start customizing your blog and putting content in, check o
 
 - TIP: You can access a better "dashboard" (an admin panel) by adding "/wp-admin" to the end of your WordPress URL. For example, if your blog address is: <http://myname.wordpress.com> then type in <http://myname.wordpress.com/wp-admin> to access the improved black dashboard.
 
-How to use blog post categories to make a menu (Youtube video) [plugin:youtube](https://www.youtube.com/watch?v=f2X6DUPMkUw)
+The video below shows how to use blog post categories to make a menu. [plugin:youtube](https://www.youtube.com/watch?v=f2X6DUPMkUw)
