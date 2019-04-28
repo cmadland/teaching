@@ -6,13 +6,13 @@ hide_git_sync_repo_link: true
 child_type: section
 sections_nav_align: left
 hide_next_prev_page_buttons: false
-show_sidebar: false
+show_sidebar: true
 content:
     items: '@self.children'
     order:
         by: folder
         dir: asc
-    limit: 0 
+    limit: 0
 ---
 
 ### Assignments
