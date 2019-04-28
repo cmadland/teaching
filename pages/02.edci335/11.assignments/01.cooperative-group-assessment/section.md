@@ -5,9 +5,6 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-
-
-
 ### Assignment Details
 
 ### Personal Learning Challenge/Reflective Practice (Individual) - 5 posts @ 7% = 35%
