@@ -5,10 +5,6 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-
-
-
-
 ### Interactive Learning Resource (Cooperative) - 35%
 
 Your task in this assignment is to create a learning resource related to the topic of your choice (ideally a topic within your academic major). The resource should take approximately 1-2 hours for a learner to complete.
