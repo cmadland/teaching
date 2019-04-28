@@ -30,7 +30,7 @@ cache_enable: false
 
 # [:fa-calendar-o:Week 3 (May 27 - June 2)](http://edtechuvic.ca/edci335/blog/week-3-may-27-june-2/)
 
-#### What is involved with designing learning experiences?<br> 
+#### What is involved with designing learning experiences?<br>
 :fa-youtube:[Teaching teaching and understanding understanding](https://youtu.be/iMZA80XpP6Y)<br>
 :fa-book:[Teaching in Blended Learning Environments, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
 :fa-wordpress:Blog Post #3<br>
@@ -46,7 +46,7 @@ cache_enable: false
 # [:fa-calendar-o:Week 5 (Jun 10-16)](http://edtechuvic.ca/edci335/blog/week-5-june-10-16/)
 
 #### How is learning assessed?<br>
-:fa-question:Why is reflection important for learning?<br>
+:fa-question:Why is *reflection* important for learning?<br>
 :fa-book:[Teaching in Blended Learning Environments, Ch. 5](http://aupress.ca/index.php/books/120229)<br>
 :fa-pencil:[Interactive Learning Resource - Draft](http://edtechuvic.ca/edci335/interactive-learning-resource)<br>
 :fa-wordpress:No blog post this week.<br>
@@ -54,7 +54,13 @@ cache_enable: false
 
 # [:fa-calendar-o:Week 6 (Jun 17-23)](http://edtechuvic.ca/edci335/blog/week-6-june-17-23/)
 
-#### Peer review of Interactive learning resources.<br>
+#### :fa-pencil:Peer review of interactive learning resources.<br>
+:fa-wordpress:Blog Post #5<br>
+
 
 
 # [:fa-calendar-o:Week 7 (Jun 24-28)](http://edtechuvic.ca/edci335/blog/week-7-june-24-28/)
+
+#### Summary<br>
+:fa-pencil:Interactive Learning Resource - Final Submission
+:fa-pencil:Course Experience Survey
