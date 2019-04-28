@@ -5,7 +5,6 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-
 ### Personal Learning Challenge/Reflective Practice (Individual) - 5 posts @ 7% = 35%
 
 Beginning in the second week of the course, you will embark on a personal learning challenge where you will challenge yourself to learn a new skill. You are free to identify any safe and legal activity which you would like to learn and you will have four weeks to practice.
