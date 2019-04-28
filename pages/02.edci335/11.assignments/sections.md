@@ -12,7 +12,7 @@ content:
     order:
         by: folder
         dir: asc
-    limit: 0 
+    limit: 0
 ---
 
 ### Assignments
