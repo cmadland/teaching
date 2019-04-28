@@ -29,7 +29,7 @@ In your groups, you need to collectively identify a concept or topic that you wa
 - a list of resources that your learners will need to access such as:
   1. textbooks (see: [open.bccampus.ca](https://open.bccampus.ca/)),
   2. scholarly articles (accessible through the UVic library)
-  3. &#39;grey literature&#39; (professional resources, blogs, videos, etc)
+  3. 'grey literature' (professional resources, blogs, videos, etc)
   4. technology tools (WordPress, Etherpad, Moodle, etc)
 
 There are multiple ways you might want to organize this information. Options include a table, a kanban board, a concept map, or another medium that you find more appropriate. The important thing is that the blueprint is easy to access and displays the information you need in a quickly readable format.
