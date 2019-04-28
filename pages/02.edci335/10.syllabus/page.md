@@ -37,16 +37,16 @@ Our Faculty of Education embraces an inclusive learning community that respects 
 
 You are **NOT** required to purchase a textbook for this course. All readings will either be openly available on the web or will be accessible through the University of Victoria library.
 
-Bates, A. W. (2015). Teaching in a digital age. Retrieved from <https://opentextbc.ca/teachinginadigitalage/> [Open online]
+Bates, A. W. (2015). Teaching in a digital age. Retrieved from [https://opentextbc.ca/teachinginadigitalage/](https://opentextbc.ca/teachinginadigitalage/) [Open online]
 
-Vaughan, N. D., Garrison, D. R., & Cleveland-Innes, M. (2013). Teaching in blended learning environments: creating and sustaining communities of inquiry. Retrieved from <http://www.aupress.ca/index.php/books/120229> [Open Online]
+Vaughan, N. D., Garrison, D. R., & Cleveland-Innes, M. (2013). Teaching in blended learning environments: creating and sustaining communities of inquiry. Retrieved from [http://www.aupress.ca/index.php/books/120229](http://www.aupress.ca/index.php/books/120229) [Open Online]
 
 # Assignments
 
 **Due date (end of the day listed)**                 | **Details**                                                  | **Grade Allotment**
 ---------------------------------------------------- | ------------------------------------------------------------ | -------------------
 Sunday, May 26                                       | Learning Design Blueprint (Cooperative)                      | 15%
-**Draft:** Sunday, June 9 **Final:** Friday, June 28 | Interactive Learning Resource (Cooperative)                  | 35%
+**Draft:** Sunday, June 9<br> **Final:** Friday, June 28 | Interactive Learning Resource (Cooperative)                  | 35%
 Friday, June 28                                      | Cooperative Group Assessment (Individual)                    | 5%
 End of weeks 1-4 and 6                               | Personal Learning Challenge/Reflective Practice (Individual) | 5@7% - 35%
 Sunday, June 23                                      | Interactive Learning Resource Peer Review (Individual)       | 10%
