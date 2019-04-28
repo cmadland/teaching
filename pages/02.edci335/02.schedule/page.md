@@ -18,6 +18,9 @@ cache_enable: false
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)
 
+**How do people learn?**<br>
+:fa-desktop:
+
 # [:fa-calendar-o:Week 3 (May 27 - June 2)](http://edtechuvic.ca/edci335/blog/week-3-may-27-june-2/)
 
 # [:fa-calendar-o:Week 4 (Jun 3-9)](http://edtechuvic.ca/edci335/blog/week-4-june-3-9/)
