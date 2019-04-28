@@ -7,6 +7,12 @@ child_type: section
 sections_nav_align: left
 hide_next_prev_page_buttons: false
 show_sidebar: false
+content:
+    items: '@self.children'
+    order:
+        by: folder
+        dir: asc
+    limit: 0 
 ---
 
 ### Assignments
