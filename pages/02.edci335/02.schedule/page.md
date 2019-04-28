@@ -14,7 +14,8 @@ cache_enable: false
 :fa-question:How does digital technology influence society? You?<br>
 :fa-question:What does it mean to learn something?<br>
 :fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry (Ch. 2)](http://aupress.ca/index.php/books/120229) :fa-wordpress:Blog Post #1<br>
+:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry (Ch. 2)](http://aupress.ca/index.php/books/120229)<br>
+:fa-wordpress:Blog Post #1<br>
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)
 
@@ -22,7 +23,8 @@ cache_enable: false
 :fa-desktop:[Clarissa Sorenson-Unruh Post](https://clarissasorensenunruh.com/2019/04/20/5r-adult-learning-assignment-learning-the-neuroscience-and-the-neuromyths/)<br>
 :fa-youtube:[Backwards Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)<br>
 :fa-book:[Teaching in a Digital Age (Ch. 3-4)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-pencil:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/) :fa-wordpress:Blog Post #2<br>
+:fa-pencil:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
+:fa-wordpress:Blog Post #2<br>
 
 # [:fa-calendar-o:Week 3 (May 27 - June 2)](http://edtechuvic.ca/edci335/blog/week-3-may-27-june-2/)
 
