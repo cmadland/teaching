@@ -22,7 +22,7 @@ You must include the following in your resource:
 - An overview of the resource
 - 2-4 learning outcomes (copied or revised from your blueprint)
 - Brief commentary about each topic and activity
-- ne **interactive** activity for each learning outcome/topic based on a resource aligned with that topic (blog post, video, article, etc)
+- One **interactive** activity for each learning outcome/topic based on a resource aligned with that topic (blog post, video, article, etc)
 - A bibliography or reference list of all resources cited and/or required for your students;
   - Use whatever citation format you are comfortable with (APA, MLA, etc) but please be consistent throughout.
 - The following pages separate from your learning resource

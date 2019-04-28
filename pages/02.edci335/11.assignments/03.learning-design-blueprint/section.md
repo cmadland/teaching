@@ -24,7 +24,9 @@ In your groups, you need to collectively identify a concept or topic that you wa
 !!! NOTE: the concept analysis may require more than one person to ensure equitable participation.
 
 - 2-4 learning outcomes related to your concept
-\*\*SUGGESTION: identify as many learning outcomes as there are people in your group.
+
+!!! SUGGESTION: identify as many learning outcomes as there are people in your group.
+
 - a list of sub-topics that form a progression through your lesson
 - a list of resources that your learners will need to access such as:
   1. textbooks (see: [open.bccampus.ca](https://open.bccampus.ca/)),
