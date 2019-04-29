@@ -20,7 +20,7 @@ Please contact me if you would like to set up a web conference or phone call.
 [Course Syllabus](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)<br>
 [Course Schedule](https://edtechuvic.ca/edci335/schedule)<br>
 [Assignment Details](https://edtechuvic.ca/edci335/assignments)<br>
-[Assignment Dropboxes](https://coursespaces.uvic.ca/course/view.php?id=61414&section=1)<br>  
+[Assignment Dropboxes](https://coursespaces.uvic.ca/course/view.php?id=61414&section=1) 
 [Grades](https://coursespaces.uvic.ca/grade/report/overview/index.php)<br>  
 
 #### Twitter Feed
