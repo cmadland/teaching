@@ -5,5 +5,5 @@ published: true
 visible: false
 ---
 
-## Important Reminders
-* Class quiz on Jun 20th
+## Welcome
+* EDCI 339 begins July 26, 2019.
