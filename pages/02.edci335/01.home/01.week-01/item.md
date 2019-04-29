@@ -32,27 +32,10 @@ To begin, you need to carefully read the syllabus for this course, [which can be
 
 You should realize by now that this course is not only happening in CourseSpaces, but there is also a significant portion of the course that is on a different site at [edtechuvic.ca/edci335](https://edtechuvic.ca/edci335). This means that the *content* of the site is open on the web. Anyone with a web browser can access this page. You are also *invited* to post your work on an open website using WordPress, but you are not *required* to do so. Please read through the [WordPress Resources page](http://edtechuvic.ca/edci335/wordpress/).
 
-There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy.
+There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy as outlined on the WordPress resources page.
 
-## Summaries and Questions
+#### Course Blog - [https://edtechuvic.ca/edci335](https://edtechuvic.ca/edci335)
 
-[May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519517)
+Course updates, information about weekly readings, learning activities and assessments are posted [here on the course blog](https://edtechuvic.ca/edci335). Please bookmark this site and ***check at least daily***. It is strongly recommended that you subscribe to updates so that you receive an email everytime I publish an update post.
 
-## Presented Slides
-
-Course Overview [presentation="/presentations/placeholder-slide"]
-
-Introduction to UX Design [presentation="/presentations/placeholder-slide"]
-
-## Supplemental Materials
-
-[Interaction Design History](http://www.slideshare.net/mrettig/interaction-design-history)<br>
-[iframe url="<https://www.slideshare.net/slideshow/embed_code/key/aTtcFNn7i55UVK>"]
-
-## Handouts
-
-[Course Overview](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Course%20Overview)
-
-## Recommended Reading
-
-[embedly url="<http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/>"]
+I will post weekly updates and commentary here on the course blog every Monday morning by 7:00 am. You will also be able to see course announcements on the right side of the course blog homepage.
