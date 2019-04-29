@@ -20,8 +20,8 @@ Please contact me if you would like to set up a web conference or phone call.
 [Course Syllabus](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)<br>
 [Course Schedule](https://edtechuvic.ca/edci335/schedule)<br>
 [Assignment Details](https://edtechuvic.ca/edci335/assignments)<br>
-[Assignment Dropboxes](https://coursespaces.uvic.ca/course/view.php?id=61414&section=1)<br>   
+[Assignment Dropboxes](https://coursespaces.uvic.ca/course/view.php?id=61414&section=1)  
 [Grades](https://coursespaces.uvic.ca/grade/report/overview/index.php)<br>  
 
 #### Twitter Feed
-[twitter url="https://twitter.com/colinmadland" text="A Twitter feed by @colinmadland; mostly education nerdery." height="600"]
+[twitter url="https://twitter.com/colinmadland" text="Colin's Twitter feed, mostly education nerdery." height="600"]
