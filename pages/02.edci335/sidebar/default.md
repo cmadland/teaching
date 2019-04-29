@@ -1,7 +1,7 @@
 ---
 title: Sidebar
-routable: false
-visible: false
+routable: true
+visible: true
 position: top
 ---
 
