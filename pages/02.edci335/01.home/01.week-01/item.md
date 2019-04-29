@@ -24,13 +24,13 @@ Hello everyone, and welcome to EDCI 335, *Learning Design*.
 
 I'm looking forward to spending the next seven weeks with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
 
-To begin, you need to carefully read the syllabus for this course, [which can be found in the CourseSpaces site.](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0) The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
+To begin, you need to carefully read the syllabus for this course, [which can be found on the CourseSpaces site.](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0) The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
 
 ! You are responsible for reading and understanding the syllabus. If you have a question about the course, please check the syllabus first, and if you can't find your answer there, feel free to reach out to me.
 
 ### How to follow this course.
 
-You should realize by now that this course is not only happening in CourseSpaces, but there is also a significant portion of the course that is on a different site at [edtechuvic.ca/edci335](https://edtechuvic.ca/edci335). This means that the *content* of the site is open on the web. Anyone with a web browser can access this page. You are also *invited* to post your work on an open website using WordPress, but you are not *required* to do so. Please read through the [WordPress]()
+You should realize by now that this course is not only happening in CourseSpaces, but there is also a significant portion of the course that is on a different site at [edtechuvic.ca/edci335](https://edtechuvic.ca/edci335). This means that the *content* of the site is open on the web. Anyone with a web browser can access this page. You are also *invited* to post your work on an open website using WordPress, but you are not *required* to do so. Please read through the [WordPress Resources page](http://edtechuvic.ca/edci335/wordpress/).
 
 There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy.
 
