@@ -6,7 +6,7 @@ position: top
 ---
 
 ## Announcements
-[plugin:page-inject](../_important-reminders)
+[plugin:content-inject](/edci335/home/_important-reminders)
 
 ## Course Instructor
 [Colin Madland](mailto:cmadland@uvic.ca)
