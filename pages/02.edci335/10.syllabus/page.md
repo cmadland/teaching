@@ -5,7 +5,7 @@ show_sidebar: false
 hide_git_sync_repo_link: false
 ---
 
-!!! This page contains highlights of the official syllabus, which is [posted as a PDF in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414).
+!!!! This page contains highlights of the official syllabus, which is [posted as a PDF in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414).
 
 # Calendar Description
 
