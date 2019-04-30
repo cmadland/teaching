@@ -11,12 +11,11 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
+### Important Reminders
 [plugin:content-inject](/edci335/home/_important-reminders)
 
 
 ===
-[plugin:content-inject](/edci335/home/_important-reminders)
-
 
 # Welcome!
 
