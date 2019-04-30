@@ -44,3 +44,5 @@ I will post weekly updates and commentary here on the course blog every Monday m
 You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential forum.
 
 !! You will not find any course updates in CourseSpaces.
+
+---
