@@ -15,6 +15,7 @@ hide_git_sync_repo_link: true
 
 
 ===
+[plugin:content-inject](/edci335/home/_important-reminders)
 
 
 # Welcome!
