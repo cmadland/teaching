@@ -14,7 +14,9 @@ position: top
 #### Best times to contact me:  
 I will check my Uvic email every morning between 5:30 and 7:00 am PDT, and then again in the evening after 8:00 pm.
 
-Please contact me if you would like to set up a web conference or phone call.
+Please contact me if you would like to set up a web conference or phone call. Please see CourseSpaces for info on how to contact me.
+
+Please note that I am employed full time outside of UVic, and may not be able to respond to your messages between 8:00 am and 6:00 pm on weekdays.
 
 #### Important Links
 [Course Syllabus](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)<br>
