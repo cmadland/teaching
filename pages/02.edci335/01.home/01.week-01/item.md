@@ -35,13 +35,17 @@ There are some people who simply cannot have a web presence. If this is you, I a
 
 #### Course Blog - [https://edtechuvic.ca/edci335](https://edtechuvic.ca/edci335)
 
-Course updates, information about weekly readings, learning activities and assessments are posted [here on the course blog](https://edtechuvic.ca/edci335). Please bookmark this site and ***check at least daily***. It is strongly recommended that you subscribe to updates so that you receive an email everytime I publish an update post.
+Course updates, information about weekly readings, learning activities and assessments are posted [here on the course blog](https://edtechuvic.ca/edci335). Please bookmark this site and ***check at least daily***. It is strongly recommended that you subscribe to updates so that you receive an email every time I publish an update post.
 
 I will post weekly updates and commentary here on the course blog every Monday morning by 7:00 am. You will also be able to see course announcements on the right side of the course blog homepage.
+
+The sidebar of the home page of this site includes information about how to contact me and when you can expect responses. Generally, if you don't receive a response within 24 hours, you should feel free to send a follow-up email, or you can send me a [DM on Twitter](https://twitter.com/colinmadland)
 
 #### [CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)
 
 You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential forum.
+
+I have posted my contact info in CourseSpaces.
 
 !! You will not find any course updates in CourseSpaces.
 

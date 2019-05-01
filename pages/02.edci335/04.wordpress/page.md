@@ -43,7 +43,7 @@ Once you have done all the reflections on these 5 steps, you can move forward wi
 
 - WordPress at [UVic](https://oac.uvi.ca)
 - WordPress at [opened.ca](https://opened.ca)
-- [WordPress.com](https://wordpress.com) (hosted outside of Canada, select free plan)
+- [WordPress.com](https://wordpress.com) (hosted outside of Canada, select the free plan)
 - Buy a domain and use WordPress installed on a Web Hosting Service you purchase, like Canadian Web Hosting (Canadian, $50/yr CAD) or [Reclaim Hosting](https://reclaimhosting.com) (US servers, $30/yr USD) (advanced)
 
 ## Wordpress Tutorials
