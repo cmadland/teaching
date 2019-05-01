@@ -20,6 +20,6 @@ I currently live in Richmond, BC with my wife and 2 of our 3 children. We have a
 
 ### Cat Tax
 
-Here's a picture of me trying to get some writing done while being judged by my cat.
+Here's a picture of me trying to get some writing done while being judged by one of our 2 cats.
 
 ![](cat-tax.jpeg)
