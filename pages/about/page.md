@@ -8,7 +8,7 @@ hide_git_sync_repo_link: false
 
 Hi everyone!
 
-I'm your instructor for this course. During the Summer of 2019, I'm teaching EDCI 335 (May-June) and EDCI 339 (July-August) at the University of Victoria.
+I'm Colin Madland, your instructor for this course. During the Summer of 2019, I'm teaching EDCI 335 (May-June) and EDCI 339 (July-August) at the University of Victoria.
 
 My day job is *Manager of Online Learning and Instructional Technology* at a university in the Lower Mainland, which has me working directly at the intersection of technology and learning every day.
 
