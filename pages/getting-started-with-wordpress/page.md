@@ -17,3 +17,17 @@ One of the first things you should do on your new blog is to create a course cat
 ##### On your Dashboard, tap 'Posts', then choose 'Categories'.
 
 ![](wp-setup-1.png)
+
+##### On the 'Categories' page, add a new category 'edci335'.
+- no spaces
+- lowercase
+- leave the 'slug' blank
+- exactly as you see it below*
+
+!! \*If you are in a different course, like EDCI 339, then use that course number.
+
+![](wp-setup-2.png)
+
+##### Tap 'Add New Category'.
+
+!!! Every time you publish a post for this course, you **MUST** use the category for this course. If you are taking EDCI335, then use the category 'edci335' on every post.

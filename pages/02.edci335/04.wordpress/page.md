@@ -19,7 +19,7 @@ With that decision made, proceed to step 3.
 
 # Decide if you would like your blog to be hosted outside of Canada or inside of Canada.
 
-Two options are provided. You can create a blog on the UVic installation of WordPress at [http://oac.uvic.ca](https://oac.uvic.ca) or at [opened.ca](https://opened.ca) which are both hosted within Canada and are completely free for you to use. Alternatively, you can create a blog on the commercial entity of WordPress at <http://wordpress.com>, which is hosted outside of Canada. There is also a third option, where you purchase space with a web hosting company that installs WordPress for you. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting). The benefit of this route is that you can purchase your own domain (e.g., <http://yourname.ca> or <http://westcoastteacher.ca>).
+Two options are provided. You can create a blog on the UVic installation of WordPress at [http://oac.uvic.ca](https://onlineacademiccommunity.uvic.ca/what-is-the-oac/) or at [opened.ca](https://opened.ca) which are both hosted within Canada and are completely free for you to use. Alternatively, you can create a blog on the commercial entity of WordPress at <http://wordpress.com>, which is hosted outside of Canada. There is also a third option, where you purchase space with a web hosting company that installs WordPress for you. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting). The benefit of this route is that you can purchase your own domain (e.g., <http://yourname.ca> or <http://westcoastteacher.ca>).
 
 Be sure you review the resources under the Privacy section of this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
 
@@ -41,7 +41,7 @@ The wonderful thing about WordPress is that you can import that exported file in
 
 Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Your options:
 
-- WordPress at [UVic](https://oac.uvi.ca)
+- WordPress at [UVic](https://onlineacademiccommunity.uvic.ca/what-is-the-oac/)
 - WordPress at [opened.ca](https://opened.ca)
 - [WordPress.com](https://wordpress.com) (hosted outside of Canada, select the free plan)
 - Buy a domain and use WordPress installed on a Web Hosting Service you purchase, like Canadian Web Hosting (Canadian, $50/yr CAD) or [Reclaim Hosting](https://reclaimhosting.com) (US servers, $30/yr USD) (advanced)
