@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 cache_enable: false
 ---
 
-# [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/) <a id="week-1"></a>
+# [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
 #### What is learning design?<br>
 :fa-desktop:Blog Setup<br>
