@@ -9,10 +9,10 @@ cache_enable: false
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/) <a id="week-1"></a>
 
 #### What is learning design?<br>
-- :fa-desktop:Blog Setup<br>
-- :fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
-- :fa-question-circle:How does digital technology influence society? You?<br>
-- :fa-question-circle:What does it mean to learn something?<br>
+:fa-desktop:Blog Setup<br>
+:fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
+:fa-question-circle:How does digital technology influence society? You?<br>
+:fa-question-circle:What does it mean to learn something?<br>
 :fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
 :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
 :fa-wordpress:Blog Post #1<br>
