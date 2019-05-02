@@ -12,37 +12,6 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](/edci335/home/_important-reminders)
 
-# What does a holistic user experience design process look like?
 
-[Software Development Processes](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)<br>
-[User Experience Design Processes](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)<br>
-[Our Design Process (aka Toolkit)](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)
 
 ===
-
-# **What does a holistic user experience design process look like?**
-
-## Summaries and Questions
-
-[May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519525)
-
-## Presented Slides
-
-The Process of UX Design<br>
-[presentation="presentations/placeholder-slide"]
-
-## CPT-363 UX Design Process/Toolkit
-
-![CPT-363 UX Design Process/Toolkit Diagram](ux-design-process-v4.png)
-
-## Handouts
-
-[Product Reaction Cards](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Product%20Reaction%20Cards)
-
-## Assignments
-
-[Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)
-
-## Recommended Reading
-
-[embedly url="<https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b>"]
