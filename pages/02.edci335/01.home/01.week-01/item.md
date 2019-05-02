@@ -14,8 +14,6 @@ hide_git_sync_repo_link: true
 ### Important Reminders
 [plugin:content-inject](/edci335/home/_important-reminders)
 
-:fa-question-circle:Why is learning so difficult?
-:fa-question:Why is _interaction_ so important?<br>
 
 ===
 
