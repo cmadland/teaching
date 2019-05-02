@@ -1,3 +1,27 @@
+# v2.1.6
+## 05/01/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.1.5
+## 04/27/2019
+
+1. [](#improved)
+    * Adjust display of course list items for better display on smaller screens
+
+# v2.1.4
+## 04/26/2019
+
+1. [](#improved)
+    * Further improvements to the display of course list page with larger number of courses
+
+# v2.1.3
+## 04/26/2019
+
+1. [](#improved)
+    * Improvements to the display of course list page with larger number of courses
+
 # v2.1.2
 ## 04/25/2019
 
