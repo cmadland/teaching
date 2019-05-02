@@ -56,6 +56,10 @@ Tap `Customize` in the Admin Bar (top of the page) and you will get a menu of it
 
 Some themes will have a template that you can use to include links to your social media profiles. You can often find these settings under `Appearance > Menus`
 
+#### Add (or remove) a widget.
+
+You can customize your sidebar, footer, and sometimes header of your site by going to `Appearance > Widgets` and adding or removing widgets from those areas.
+ 
 ! One caution! Don't spend too much time fiddling with the appearance of your site. It can be very easy to get sucked into a vortex of trying to get the appearance *exactly* how you want it. It is best to focus on content first, then the appearance.
 
 ---
