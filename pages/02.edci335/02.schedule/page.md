@@ -10,6 +10,7 @@ cache_enable: false
 
 #### What is learning design?<br>
 :fa-desktop:Blog Setup<br>
+
 :fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
 :fa-question:How does digital technology influence society? You?<br>
 :fa-question:What does it mean to learn something?<br>
