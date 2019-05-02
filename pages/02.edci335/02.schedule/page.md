@@ -11,8 +11,8 @@ cache_enable: false
 #### What is learning design?<br>
 :fa-desktop:Blog Setup<br>
 :fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
-:fa-question:How does digital technology influence society? You?<br>
-:fa-question:What does it mean to learn something?<br>
+:fa-question-circle:How does digital technology influence society? You?<br>
+:fa-question-circle:What does it mean to learn something?<br>
 :fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
 :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
 :fa-wordpress:Blog Post #1<br>
@@ -20,8 +20,8 @@ cache_enable: false
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)<a id="week-2"></a>
 
 #### How do people learn?<br>
-:fa-question:Why is learning so difficult?<br>
-:fa-question:Why is _interaction_ so important?<br>
+:fa-question-circle:Why is learning so difficult?<br>
+:fa-question-circle:Why is _interaction_ so important?<br>
 :fa-desktop:[Clarissa Sorenson-Unruh Post](https://clarissasorensenunruh.com/2019/04/20/5r-adult-learning-assignment-learning-the-neuroscience-and-the-neuromyths/)<br>
 :fa-youtube:[Backwards Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)<br>
 :fa-book:[Teaching in a Digital Age (Ch. 3-4)](https://opentextbc.ca/teachinginadigitalage)<br>
@@ -39,14 +39,14 @@ cache_enable: false
 
 #### How does technology influence learning?<br>
 
-:fa-question:Which technologies are most effective for learning?<br>
+:fa-question-circle:Which technologies are most effective for learning?<br>
 :fa-book:[Teaching in a Digital Age, Ch. 6-7](https://opentextbc.ca/teachinginadigitalage)<br>
 :fa-wordpress:Blog Post #4<br>
 
 # [:fa-calendar-o:Week 5 (Jun 10-16)](http://edtechuvic.ca/edci335/blog/week-5-june-10-16/)<a id="week-5"></a>
 
 #### How is learning assessed?<br>
-:fa-question:Why is *reflection* important for learning?<br>
+:fa-question-circle:Why is *reflection* important for learning?<br>
 :fa-book:[Teaching in Blended Learning Environments, Ch. 5](http://aupress.ca/index.php/books/120229)<br>
 :fa-pencil:[Interactive Learning Resource - Draft](http://edtechuvic.ca/edci335/interactive-learning-resource)<br>
 :fa-wordpress:No blog post this week.<br>
