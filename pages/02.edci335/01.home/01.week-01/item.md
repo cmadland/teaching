@@ -27,6 +27,8 @@ To begin, you need to carefully read the syllabus for this course, [which can be
 
 ! You are responsible for reading and understanding the syllabus. If you have a question about the course, please check the syllabus first, and if you can't find your answer there, feel free to reach out to me.
 
+Make sure you spend a few minutes to familiarize yourself with the layout of this site so that you know where to find the information that you will need.
+
 ### How to follow this course.
 
 You should realize by now that this course is not only happening in CourseSpaces, but there is also a significant portion of the course that is on a different site at [edtechuvic.ca/edci335](https://edtechuvic.ca/edci335). This means that the *content* of the site is open on the web. Anyone with a web browser can access this page. You are also *invited* to post your work on an open website using WordPress, but you are not *required* to do so. Please read through the [WordPress Resources page](http://edtechuvic.ca/edci335/wordpress/).
@@ -48,5 +50,10 @@ You can also find some key things in CourseSpaces such as the course syllabus an
 I have posted my contact info in CourseSpaces.
 
 !! You will not find any course updates in CourseSpaces.
+
+### Things to do this week!
+
+As you know, this is a short course, so we need to dive into things relatively quickly. [Here is a checklist of tasks for you this week.](https://edtechuvic.ca/edci335/schedule#week-1)
+
 
 ---
