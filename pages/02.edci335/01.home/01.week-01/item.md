@@ -25,6 +25,7 @@ hide_git_sync_repo_link: true
 :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
 :fa-wordpress:Blog Post #1<br>
 
+
 ===
 
 # Welcome!
