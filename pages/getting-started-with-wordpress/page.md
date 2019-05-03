@@ -12,7 +12,7 @@ There are some things that you *MUST* to do to make this model of course work pr
 
 ### Categories
 
-One of the first things you should do on your new blog is to create a course category.
+One of the first things you should do on your new blog is to create a course category. If you don't set this up properly, your posts won't get aggregated on the course blog.
 
 ##### On your Dashboard, tap `Posts`, then choose `Categories`.
 
@@ -34,7 +34,11 @@ One of the first things you should do on your new blog is to create a course cat
 
 [Click here to learn more about using categories to organize your site.](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials-the-dashboard/wordpress-tutorials-organizing-content/)
 
-### Customizing your site.
+##### Email me your blog URL.
+
+I will add the feed for your `edci335` category to the course blog so that every post you make with that category will become visible on the course blog.
+
+### Customizing your site. (Optional)
 
 There are thousands of ways that you can customize your site, and you are encouraged to do so. Consider this *your* site, the beginnings of your domain on the web.
 
@@ -59,7 +63,7 @@ Some themes will have a template that you can use to include links to your socia
 #### Add (or remove) a widget.
 
 You can customize your sidebar, footer, and sometimes header of your site by going to `Appearance > Widgets` and adding or removing widgets from those areas.
- 
+
 ! One caution! Don't spend too much time fiddling with the appearance of your site. It can be very easy to get sucked into a vortex of trying to get the appearance *exactly* how you want it. It is best to focus on content first, then the appearance.
 
 ---
