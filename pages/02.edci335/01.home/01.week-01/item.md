@@ -13,9 +13,8 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](/edci335/home/_important-reminders)
 
-# [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
-#### What is learning design?<br>
+#### :fa-question-circle:What is learning design?<br>
 :fa-desktop:[Blog Setup](http://edtechuvic.ca/edci335/wordpress)<br>
 :fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
 :fa-question-circle:How does digital technology influence society? You?<br>
