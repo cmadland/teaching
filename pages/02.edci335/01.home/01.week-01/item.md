@@ -11,7 +11,6 @@ continue_link: true
 hide_git_sync_repo_link: true
 ---
 
-### Important Reminders
 [plugin:content-inject](/edci335/home/_important-reminders)
 
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
