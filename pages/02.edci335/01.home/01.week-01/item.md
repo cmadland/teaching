@@ -35,7 +35,7 @@ You should realize by now that this course is not only happening in CourseSpaces
 
 There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy as outlined on the WordPress resources page.
 
-#### Course Blog - [https://edtechuvic.ca/edci335](https://edtechuvic.ca/edci335)
+#### Course Blog - https://edtechuvic.ca/edci335 (this site)
 
 Course updates, information about weekly readings, learning activities and assessments are posted here on the course blog. Please bookmark this site and ***check at least daily***. It is strongly recommended that you subscribe to updates so that you receive an email every time I publish an update post.
 
@@ -43,7 +43,7 @@ I will post weekly updates and commentary here on the course blog every Monday m
 
 The sidebar of the home page of this site includes information about how to contact me and when you can expect responses. Generally, if you don't receive a response within 24 hours, you should feel free to send a follow-up email, or you can send me a [DM (Direct Message) on Twitter](https://twitter.com/colinmadland)
 
-#### [CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)
+#### [CourseSpaces (Moodle)](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)
 
 You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential forum.
 
@@ -53,7 +53,7 @@ I have posted my contact info in CourseSpaces.
 
 ### Things to do this week!
 
-As you know, this is a short course, so we need to dive into things relatively quickly. [Here is a checklist of tasks for you this week.](https://edtechuvic.ca/edci335/schedule#week-1)
+As you know, this is a short course, so we need to dive into things relatively quickly. [Check the Schedule page for a checklist of tasks for you this week.](https://edtechuvic.ca/edci335/schedule)
 
 
 ---
