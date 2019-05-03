@@ -37,6 +37,9 @@ I'm looking forward to spending the next seven weeks with you talking about how 
 :fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
 :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
 :fa-wordpress:Blog Post #1<br>
+
+## Getting started
+
 To begin, you need to carefully read the syllabus for this course, [which can be found on the CourseSpaces site (UVic's Moodle installation; login required)](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0) The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
 
 ! You are responsible for reading and understanding the syllabus. If you have a question about the course, please check the syllabus first, and if you can't find your answer there, feel free to reach out to me.
