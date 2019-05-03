@@ -55,5 +55,7 @@ I have posted my contact info in CourseSpaces.
 
 As you know, this is a short course, so we need to dive into things relatively quickly. [Check the Schedule page for a checklist of tasks for you this week.](https://edtechuvic.ca/edci335/schedule)
 
+[Click here to get started with Week 1!](https://edtechuvic.ca/home/week-1)
+
 
 ---
