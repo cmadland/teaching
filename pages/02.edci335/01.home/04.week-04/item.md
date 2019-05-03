@@ -13,3 +13,6 @@ hide_git_sync_repo_link: true
 
 
 ===
+
+<a class="embedly-card" data-card-controls="0" href="https://slate.com/technology/2019/05/zuckerberg-funded-summit-learning-cant-save-public-education.html">Why a Mark Zuckerberg-Funded Education Program Is Flailing in Small-Town Kansas</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
