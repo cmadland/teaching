@@ -16,14 +16,7 @@ hide_git_sync_repo_link: true
 [plugin:content-inject](/edci335/home/_important-reminders)
 
 
-#### :fa-question-circle:What is learning design?<br>
-:fa-desktop:[Blog Setup](http://edtechuvic.ca/edci335/wordpress)<br>
-:fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
-:fa-question-circle:How does digital technology influence society? You?<br>
-:fa-question-circle:What does it mean to learn something?<br>
-:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
-:fa-wordpress:Blog Post #1<br>
+
 
 
 ===
@@ -34,6 +27,16 @@ Hello everyone, and welcome to EDCI 335, *Learning Design*.
 
 I'm looking forward to spending the next seven weeks with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
 
+# What's up this week?
+
+#### :fa-question-circle:What is learning design?<br>
+:fa-desktop:[Blog Setup](http://edtechuvic.ca/edci335/wordpress)<br>
+:fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
+:fa-question-circle:How does digital technology influence society? You?<br>
+:fa-question-circle:What does it mean to learn something?<br>
+:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
+:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
+:fa-wordpress:Blog Post #1<br>
 To begin, you need to carefully read the syllabus for this course, [which can be found on the CourseSpaces site (UVic's Moodle installation; login required)](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0) The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
 
 ! You are responsible for reading and understanding the syllabus. If you have a question about the course, please check the syllabus first, and if you can't find your answer there, feel free to reach out to me.
