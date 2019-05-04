@@ -52,7 +52,7 @@ There are some people who simply cannot have a web presence. If this is you, I a
 
 #### Course Blog - https://edtechuvic.ca/edci335 (this site)
 
-Course updates, information about weekly readings, learning activities and assessments are posted here on the course blog. Please bookmark this site and ***check at least daily***. It is strongly recommended that you subscribe to updates so that you receive an email every time I publish an update post.
+Course updates, information about weekly readings, learning activities and assessments are posted here on the course blog. Please bookmark this site and ***check at least daily***. It is strongly recommended that you subscribe to updates so that you receive an email every time I publish an update post. You can find a widget in the footer of this site where you can enter your email address to subscribe.
 
 I will post weekly updates and commentary here on the course blog every Monday morning by 7:00 am. You will also be able to see course announcements on the right side of the course blog homepage.
 
@@ -68,7 +68,7 @@ I have posted my contact info in CourseSpaces.
 
 ### Things to do this week!
 
-As you know, this is a short course, so we need to dive into things relatively quickly. 
+As you know, this is a short course, so we need to dive into things relatively quickly.
 
 [Click here to get started with Week 1!](https://edtechuvic.ca/home/week-1)
 
