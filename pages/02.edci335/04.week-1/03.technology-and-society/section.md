@@ -15,4 +15,4 @@ Here is a list of things you should have completed this week:
 :fa-question-circle:What does it mean to learn something?<br>
 :fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
 :fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
-:fa-wordpress:Blog Post #1 :fa-check-circle:<br>
+:fa-wordpress:Blog Post #1 <br>
