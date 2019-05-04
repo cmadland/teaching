@@ -5,8 +5,7 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-Before we get continue, and now that you have set up your blog, please take a few moments to publish an introductory post on your blog. Tell me and your colleagues in the course a little about yourself as you feel comfortable sharing.
+As this course is being hosted on a public website, you need to make some decisions about how you would like to engage with me and your classmates.
 
-Please also include a brief story about one of your favourite learning experiences.
-
-! Remember to use the category `edci335`.
+- [ ] Please [read the information about your options with WordPress](https://edtechuvic.ca/wordpress) before you sign up.
+- [ ] Once you have signed up for WordPress (or contacted me if you cannot use WordPress), [start personalizing your site.](http://edtechuvic.ca/edci335/getting-started-with-wordpress/)
