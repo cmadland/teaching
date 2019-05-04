@@ -10,3 +10,9 @@ As this course is being hosted on a public website, you need to make some decisi
 - [ ] Please [read the information about your options with WordPress](https://edtechuvic.ca/wordpress) before you sign up.
 - [ ] Once you have signed up for WordPress (or contacted me if you cannot use WordPress), [start personalizing your site.](http://edtechuvic.ca/edci335/getting-started-with-wordpress/)
 - [ ] Make sure you create an `edci335` category.
+
+Now that you have set up your blog, please take a few moments to publish an introductory post on your blog. Tell me and your colleagues in the course a little about yourself as you feel comfortable sharing.
+
+Please also include a brief story about one of your favourite learning experiences.
+
+!!! Remember to use the category `edci335`.
