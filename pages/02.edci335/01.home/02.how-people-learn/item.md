@@ -1,5 +1,5 @@
 ---
-title: 'Week 2 (May 16 - 22)'
+title: 'How People Learn'
 published: true
 date: '16-05-2018 00:00'
 header_image_alt_text: 'Information architecture'

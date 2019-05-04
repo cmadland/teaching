@@ -1,5 +1,5 @@
 ---
-title: 'Week 4 (May 30 - Jun 5)'
+title: 'Technology and Learning'
 published: true
 date: '30-05-2018 00:00'
 header_image_alt_text: 'Paper-based prototype'

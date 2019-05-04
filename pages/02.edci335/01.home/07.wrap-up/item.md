@@ -1,5 +1,5 @@
 ---
-title: 'Week 7 (Jun 20 - 26)'
+title: 'Wrap-up'
 published: true
 date: '20-06-2018 00:00'
 header_image_alt_text: 'iOS family of devices pile (2015)'

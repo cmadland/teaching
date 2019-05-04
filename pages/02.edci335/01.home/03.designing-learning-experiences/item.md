@@ -1,5 +1,5 @@
 ---
-title: 'Week 3 (May 23 - 29)'
+title: 'Designing Learning Experiences'
 published: true
 date: '23-05-2018 00:00'
 header_image_alt_text: Bullseye

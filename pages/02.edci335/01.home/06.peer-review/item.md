@@ -1,5 +1,5 @@
 ---
-title: 'Week 6 (Jun 13 - 19)'
+title: 'Peer Review of Learning'
 published: true
 date: '13-06-2018 00:00'
 header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clinic'

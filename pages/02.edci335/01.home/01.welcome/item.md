@@ -1,5 +1,5 @@
 ---
-title: 'Week 1 (May 13-20)'
+title: 'Welcome'
 published: true
 date: '09-05-2018 00:00'
 header_image_file: /edci335/home/week-01/7329695128_a60970e43e_o.jpg
@@ -32,6 +32,7 @@ I'm looking forward to spending the next seven weeks with you talking about how 
 #### :fa-question-circle:What is learning design?<br>
 :fa-desktop:[Blog Setup](http://edtechuvic.ca/edci335/wordpress)<br>
 :fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
+:fa-wordpress:Self-Introduction Post<br>
 :fa-question-circle:How does digital technology influence society? You?<br>
 :fa-question-circle:What does it mean to learn something?<br>
 :fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
