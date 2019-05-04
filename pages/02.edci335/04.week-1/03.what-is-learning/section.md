@@ -39,3 +39,4 @@ An implication of this for *your* learning in this and other classes is that you
 4. Rinse. Repeat.
 
 These strategies are much more effective than trying to memorize large amounts of disconnected information in a short period of time, and you won't waste time reading material that you already understand.
+---
