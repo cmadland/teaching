@@ -70,7 +70,7 @@ I have posted my contact info in CourseSpaces.
 
 As you know, this is a short course, so we need to dive into things relatively quickly.
 
-[Click here to get started with Week 1!](https://edtechuvic.ca/home/week-1)
+[Click here to get started with Week 1!](https://edtechuvic.ca/edci335/week-1)
 
 
 ---
