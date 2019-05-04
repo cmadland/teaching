@@ -1,5 +1,23 @@
 ---
 title: Hypothes.is
+content:
+    items: '@self.children'
+    limit: '5'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+hero_classes: ''
+hero_image: ''
+hero_scroll: '0'
+hide_page_title: false
+show_sidebar: true
+hide_post_summary: '0'
+post_icon: ''
+hide_post_date: '0'
+hide_post_taxonomy: '0'
+continue_link_as_button: '0'
+hide_git_sync_repo_link: false
 ---
 
 Hypothes.is is a very light-weight web service and browser extension that you can easily install in your own browser and then use to have conversations *in situ* on web documents such as blogs, articles, documents, websites, and other resources.
