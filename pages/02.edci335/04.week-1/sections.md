@@ -9,3 +9,6 @@ hide_next_prev_page_buttons: false
 show_sidebar: false
 ---
 
+In this first topic, we are going to get set up on two important web tools and then explore the idea of what learning is.
+
+You can navigate through the topic using the table of contents on the left or the navigation buttons at the bottom of the content.
