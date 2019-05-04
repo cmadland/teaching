@@ -15,10 +15,6 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](/edci335/home/_important-reminders)
 
-
-
-
-
 ===
 
 # Welcome!
@@ -29,15 +25,16 @@ I'm looking forward to spending the next seven weeks with you talking about how 
 
 # What's up this week?
 
-#### :fa-question-circle:What is learning design?<br>
-:fa-desktop:[Blog Setup](http://edtechuvic.ca/edci335/wordpress)<br>
-:fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
-:fa-wordpress:Self-Introduction Post<br>
-:fa-question-circle:How does digital technology influence society? You?<br>
-:fa-question-circle:What does it mean to learn something?<br>
-:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
-:fa-wordpress:Blog Post #1<br>
+This is a busy week, so it is in your best interest to get started early. You will need to:
+
+- [ ] Get oriented to how the course works.
+- [ ] Sign up for a WordPress blog.
+- [ ] Email me your blog URL.
+- [ ] Customize your blog.
+- [ ] Post a self-introduction.
+- [ ] Read two relatively short chapters.
+- [ ] Publish your first 'official' post.
+
 
 ## Getting started
 
@@ -63,15 +60,15 @@ The sidebar of the home page of this site includes information about how to cont
 
 #### [CourseSpaces (Moodle)](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)
 
-You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential forum.
+You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential manner.
 
 I have posted my contact info in CourseSpaces.
 
-!! You will not find any course updates in CourseSpaces.
+!! You will not find any course updates in CourseSpaces. Make sure you check here!
 
 ### Things to do this week!
 
-As you know, this is a short course, so we need to dive into things relatively quickly. [Check the Schedule page for a checklist of tasks for you this week.](https://edtechuvic.ca/edci335/schedule)
+As you know, this is a short course, so we need to dive into things relatively quickly. 
 
 [Click here to get started with Week 1!](https://edtechuvic.ca/home/week-1)
 
