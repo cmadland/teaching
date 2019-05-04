@@ -25,4 +25,17 @@ Using hypothes.is like this to annotate a web resource is a strategy that you ca
 
 > Learning requires building new synapses in the brain to interconnect bits of information/data. These synapses are gaps (i.e. connections) that form between axons that grow from one neuron (presynaptic) to another neuron (postsynaptic).
 
-The trouble is, if you only do this once, that connection is very weak and it is easily broken. You can strengthen the connection by connecting it to your own past experiences and knowledge, otherwise known as `consolidation`.
+The trouble is, if you only do this once, that connection is very weak and it is easily broken. You can strengthen the connection by connecting it to your own past experiences and knowledge, otherwise known as `consolidation`. Another way to strengthen the connection is through `retrieval`, or recalling the information from your memory.
+
+An implication of this for *your* learning in this and other classes is that you can engage in these activities in purposeful ways. We all know that cramming is not an ideal practice for long-term memory and learning, so here is an alternative to that.
+
+:fa-check: **Write while you read.** Annotate, question, draw, or anything to use multiple brain regions to think about what you are reading.
+:fa-check: **Connect the content to something you already know**. Use phrases like 'This reminds me of...', or 'That's just like...but it's different because...'
+:fa-check: **Practice spaced repetition**. Practice retrieving your new knowledge in different contexts with increasing time intervals in between attempts.
+:fa-check: **Follow these study tips:**
+1. With your book/notes/source material closed, write down everything you can about the topic you are needing to recall.
+2. Compare what you wrote with the original source material and identify the gaps in your knowledge.
+3. Use the strategies above to aid in your `consolidation` and `retrieval` of the information in the gaps.
+4. Rinse. Repeat.
+
+These strategies are much more effective than trying to memorize large amounts of disconnected information in a short period of time, and you won't waste time reading material that you already understand.
