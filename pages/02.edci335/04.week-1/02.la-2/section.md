@@ -1,6 +1,9 @@
 ---
 title: hypothes.is Set-up
 date: '12:32 03-05-2019'
+taxonomy:
+    category:
+        - docs
 hide_page_title: false
 hide_git_sync_repo_link: false
 ---
@@ -13,4 +16,4 @@ Hypothes.is is very easy to use and allows you to keep track of your notes on ar
 
 !! This is a web service that stores information on servers outside of Canada. You are NOT required to use it, and if you do use it, you are NOT required to use your real name.
 
-!!! Remember to use the label `edci335`.
+!!! Remember to use the tag `edci335` so everyone in the class can filter our own annotations.
