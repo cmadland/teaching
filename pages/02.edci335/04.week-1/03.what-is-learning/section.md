@@ -31,7 +31,7 @@ An implication of this for *your* learning in this and other classes is that you
 
 :fa-check: **Write while you read.** Annotate, question, draw, or anything to use multiple brain regions to think about what you are reading.<br>
 :fa-check: **Connect the content to something you already know**. Use phrases like 'This reminds me of...', or 'That's just like...but it's different because...'<br>
-:fa-check: **Practice spaced repetition**. Practice retrieving your new knowledge in different contexts with increasing time intervals in between attempts.
+:fa-check: **Practice spaced repetition**. Practice retrieving your new knowledge in different contexts with increasing time intervals in between attempts.<br>
 :fa-check: **Follow these study tips:**<br>
 1. With your book/notes/source material closed, write down everything you can about the topic you are needing to recall.
 2. Compare what you wrote with the original source material and identify the gaps in your knowledge.
