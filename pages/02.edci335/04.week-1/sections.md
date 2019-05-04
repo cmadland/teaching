@@ -18,6 +18,6 @@ content:
     limit: 0  
 ---
 
-In this first topic, we are going to get set up on two important web tools and then explore the idea of what learning is.
+In this first topic, we are going to get set up on two important web tools and then explore the ideas of what learning is and some ways that technology influences us as a society, especially in the context of education.
 
 You can navigate through the topic using the table of contents on the left or the navigation buttons at the bottom of the content.
