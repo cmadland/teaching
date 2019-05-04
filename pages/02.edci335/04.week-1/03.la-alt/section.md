@@ -1,5 +1,5 @@
 ---
-title: hypothes.is Set-up
+title: hypothes.is Alternate
 date: '12:32 03-05-2019'
 taxonomy:
     category:
