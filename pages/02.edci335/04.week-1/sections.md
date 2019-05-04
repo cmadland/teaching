@@ -10,6 +10,12 @@ visible: true
 sections_nav_align: left
 hide_next_prev_page_buttons: false
 show_sidebar: false
+content:
+    items: '@self.children'
+    order:
+        by: folder
+        dir: asc
+    limit: 0  
 ---
 
 In this first topic, we are going to get set up on two important web tools and then explore the ideas of what learning is and some ways that technology influences us as a society, especially in the context of education.
