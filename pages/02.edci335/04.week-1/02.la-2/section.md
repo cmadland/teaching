@@ -1,5 +1,5 @@
 ---
-title: hypothes.is Sep-up
+title: hypothes.is Set-up
 date: '12:32 03-05-2019'
 taxonomy:
     category:
