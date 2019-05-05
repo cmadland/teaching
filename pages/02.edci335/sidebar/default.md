@@ -21,6 +21,3 @@ Please contact me if you would like to set up a web conference or phone call. Pl
 :fa-file:[Assignment Details](https://edtechuvic.ca/edci335/assignments)<br>
 :fa-upload:[Assignment Dropboxes](https://coursespaces.uvic.ca&section=1)<br>
 :fa-table:[Grades](https://coursespaces.uvic.ca/grade/report/overview/index.php)<br>  
-
-#### Twitter Feed
-:fa-twitter:[twitter url="https://twitter.com/colinmadland" text="Colin's Twitter feed, mostly education nerdery." height="600"]
