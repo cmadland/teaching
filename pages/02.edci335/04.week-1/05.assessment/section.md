@@ -34,8 +34,12 @@ You are not required to use any particular academic writing style like APA or ML
 
 You are encouraged to use the 'Featured Image' tool in WordPress, but please make sure that the image you use is licensed for reuse. You can ensure this by using search engines to search for Creative Commons images. Here are some options for you:
 
-:fa-search: [Creative Commons Search](https://search.creativecommons.org/)
-:fa-search: [Flickr Creative Commons Search](https://www.flickr.com/creativecommons)
+:fa-search: [Creative Commons Search](https://search.creativecommons.org/)<br>
+:fa-search: [Flickr Creative Commons Search](https://www.flickr.com/creativecommons)<br>
+:fa-search: [Unsplash.com](https://unsplash.com)<br>
+:fa-search: [Pexels.com](https://pexels.com)<br>
+
+The images you find on Unsplash and Pexels may be very large and you might not be able to upload them without first compressing them. I recommend you use [tinypng.com](https://tinypng.com) to compress images. This will help prevent your site from slowing down.
 
 # Week 1 Checklist
 Here is a list of things you should have completed this week:
