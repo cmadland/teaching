@@ -25,3 +25,9 @@ Did you watch the embedded video of BF Skinner? If not, here it is, it's short, 
 [plugin:youtube](http://www.youtube.com/watch?v=jTH3ob1IRFo)
 
 [h5p id="1"]
+
+### What is going on here?
+
+Educational technology is not new. BF Skinner was singing the praises of his *teaching machine* in the mid 1950s, and his ideas were not new either.
+
+<a href="https://www.azquotes.com/quote/702493" title="Thomas A. Edison quote"><img src="//www.azquotes.com/picture-quotes/quote-i-believe-that-the-motion-picture-is-destined-to-revolutionize-our-educational-system-thomas-a-edison-70-24-93.jpg" alt="I believe that the motion picture is destined to revolutionize our educational system and that in a few years it will supplant largely, if not entirely, the use of textbooks. - Thomas A. Edison"></a>
