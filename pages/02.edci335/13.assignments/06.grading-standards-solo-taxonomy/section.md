@@ -11,7 +11,7 @@ Assessment is research.You need to show me evidence that you have met the outcom
 
 This is a very tall order.
 
-One thing that you should consider is that my assessment of your work is not an assessment of you as a person. It is an assessment of what you have shown me in relation to the outcomes of the course. One way that you can ensure that you are providing reflections and creating work that is of high academic quality is to  use the SOLO taxonomy.
+One thing that you should consider is that my assessment of your work is not an assessment of you as a person. It is an assessment of what you have shown me in relation to the outcomes of the course. One way that you can ensure that you are providing reflections and creating work that is of high academic quality is to  use the SOLO Taxonomy.
 
 ### SOLO Taxonomy
 

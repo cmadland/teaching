@@ -18,8 +18,6 @@ content:
     limit: 0  
 ---
 
-
-
 In this first week, we are going to get set up on two important web tools and then explore the ideas of what learning is and some ways that technology influences us as a society, especially in the context of education.
 
 To get started, click on `WordPress Set-up` in the table of contents on the left. You can navigate through the materials using the table of contents or the navigation buttons at the bottom of the content.
