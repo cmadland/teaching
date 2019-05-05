@@ -19,5 +19,5 @@ Please contact me if you would like to set up a web conference or phone call. Pl
 :fa-info:[Course Syllabus](https://coursespaces.uvic.ca)<br>
 :fa-calendar:[Course Schedule](https://edtechuvic.ca/edci335/schedule)<br>
 :fa-file:[Assignment Details](https://edtechuvic.ca/edci335/assignments)<br>
-:fa-upload:[Assignment Dropboxes](https://coursespaces.uvic.ca&section=1)<br>
+:fa-upload:[Assignment Dropboxes](https://coursespaces.uvic.ca)<br>
 :fa-table:[Grades](https://coursespaces.uvic.ca/grade/report/overview/index.php)<br>  
