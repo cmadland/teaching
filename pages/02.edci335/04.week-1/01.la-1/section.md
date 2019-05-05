@@ -18,6 +18,8 @@ As this course is being hosted on a public website, you need to make some decisi
 
 !!!! **Important:** In order for your posts to be aggregated on the course blog, you need to send me your blog URL. Please do this in the ['Blog URLs' forum in CourseSpaces](https://coursespaces.uvic.ca/mod/forum/view.php?id=1187416).
 
+### Self-Introductions
+
 Now that you have set up your blog, please take a few moments to publish an introductory post on your blog. Tell me and your colleagues in the course a little about yourself as you feel comfortable sharing.
 
 Please also include a brief story about one of your favourite learning experiences.
