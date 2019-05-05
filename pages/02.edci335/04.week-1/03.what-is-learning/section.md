@@ -6,12 +6,11 @@ taxonomy:
         - docs
     tag:
         -all
-hide_page_title: false
 hide_git_sync_repo_link: false
 hide_page_title: true
 ---
 
-# :fa-question-circle: What is learning?
+### :fa-question-circle: What is learning?
 
 This is the million dollar question that needs to be answered before we can really talk about learning design. To get you started thinking about what it means to learn, please read the following post from Clarissa Sorenson-Unruh.
 

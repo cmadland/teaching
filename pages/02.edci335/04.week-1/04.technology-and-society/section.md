@@ -6,7 +6,6 @@ taxonomy:
         - docs
     tag:
         -all
-hide_page_title: false
 hide_git_sync_repo_link: false
 hide_page_title: true
 ---
@@ -34,6 +33,6 @@ Educational technology is not new. BF Skinner was singing the praises of his *te
 
 What is interesting about both of these examples is that they were both completely wrong. We don't see Skinner's teaching machines in classrooms, and motion pictures have certainly not *revolutionized* education or *supplanted textbooks entirely* or even partially. Right?
 
-Or maybe we do. Did you realize that the 'Fill-in-the-blanks' activity that you completed (maybe) was exactly the same as Skinner's teaching machine? Sure, it looks nicer, has an easier interface, and is much more portable. But it is the exact same activity. Students fill in a missing word or phrase, then do something to get feedback from the machine.
+Or maybe we do. Did you realize that the 'fill-in-the-blanks' activity that you completed (maybe, thanks for indulging me) was exactly the same as Skinner's teaching machine? Sure, it looks nicer, has an easier interface, and is much more portable. But it is the exact same activity. Students fill in a missing word or phrase, then do something to get feedback from the machine.
 
-Unfortunately, that leads us to the question of how technology is influencing education today. I would argue that the only difference between Skinner's machine and many modern educational technologies is the scale at which modern technologies can be deployed.
+Unfortunately, that leads us to the question of how technology is influencing education today. I would argue that the only difference between Skinner's machine and many modern educational technologies is the scale at which modern technologies can be deployed. If we thought that maybe Skinner's machine wasn't doing a good job of actually educating students, why would we think that putting it into a slick web interface will make it any more effective?
