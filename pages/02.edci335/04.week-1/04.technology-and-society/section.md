@@ -1,5 +1,5 @@
 ---
-title: 'Technology and Education'
+title: 'How does technology influence teaching?'
 date: '14:08 02-05-2019'
 taxonomy:
     category:
