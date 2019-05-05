@@ -33,6 +33,7 @@ This is a busy week, so it is in your best interest to get started early. You wi
 - [ ] Customize your blog.
 - [ ] Post a self-introduction.
 - [ ] Read two relatively short chapters.
+- [ ] Form your cooperative groups.
 - [ ] Publish your first 'official' post.
 
 
