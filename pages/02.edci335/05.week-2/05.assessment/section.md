@@ -11,7 +11,7 @@ hide_git_sync_repo_link: false
 ---
 
 
-### ;fa-wordpress: Post #1
+### ;fa-wordpress: Post #2
 
 !!! This post is your first graded assessment for the course and is worth 7% of your final grade.
 
