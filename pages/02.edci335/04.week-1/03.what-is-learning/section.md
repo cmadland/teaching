@@ -29,7 +29,7 @@ The trouble is, if you only do this once, that connection is very weak and it is
 
 An implication of this for *your* learning in this and other classes is that you can engage in these activities in purposeful ways. We all know that cramming is not an ideal practice for long-term memory and learning, so here is an alternative to that.
 
-:fa-check: **Write while you read.** Annotate, question, draw, or anything to use multiple brain regions to think about what you are reading.<br>
+:fa-check: **Write while you read.** Annotate, question, draw, or whatever to use multiple brain regions to think about what you are reading.<br>
 :fa-check: **Connect the content to something you already know**. Use phrases like 'This reminds me of...', or 'That's just like...but it's different because...'<br>
 :fa-check: **Practice spaced repetition**. Practice retrieving your new knowledge in different contexts with increasing time intervals in between attempts.<br>
 :fa-check: **Follow these study tips:**<br>

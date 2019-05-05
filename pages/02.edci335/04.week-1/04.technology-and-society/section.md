@@ -10,14 +10,11 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-# Week 1 Checklist
-Here is a list of things you should have completed this week:
+# Topic 2
 
-:fa-desktop:[Blog Setup](http://edtechuvic.ca/edci335/wordpress)<br>
-:fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
-:fa-wordpress:Self-Introduction Post<br>
-:fa-question-circle:What does it mean to learn something?<br>
-:fa-question-circle:How does digital technology influence society? You?<br>
-:fa-book:[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-book:[Teaching in blended learning environments: creating and sustaining communities of inquiry, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
-:fa-wordpress:Blog Post #1 <br>
+We are going to dig a little deeper into what learning is and how it happens in this topic. You'll read a chapter from an online book, and begin to think about how technology can impact learning for better or for worse.
+
+The chapter is linked below, please take a few minutes to read and [annotate](https://edtechuvic.ca/edci335/hypothesis) as you go.
+
+<a class="embedly-card" data-card-controls="0" href="https://opentextbc.ca/teachinginadigitalage/part/chapter-2-the-nature-of-knowledge-and-the-implications-for-teaching/">Chapter 2: The nature of knowledge and the implications for teaching</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
