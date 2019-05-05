@@ -10,7 +10,7 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-To wrap up this week, we need to get ready for your [major project](https://edtechuvic.madland.ca/edci335/assignments) for the course, where you will plan, design, and deploy an interactive, online learning experience. To do that well, you will be encouraged to work in cooperative groups of 2-4 people [^1]
+To wrap up this week, we need to get ready for your [major project](https://edtechuvic.madland.ca/edci335/assignments) for the course, where you will plan, design, and deploy an interactive, online learning experience. To do that well, you will be encouraged to work in cooperative groups of 2-4 people*.
 
 # Week 1 Checklist
 Here is a list of things you should have completed this week:
@@ -26,4 +26,4 @@ Here is a list of things you should have completed this week:
 :fa-wordpress:Blog Post #1 <br>
 
 
-[^1](If your personal circumstances are such that you cannot work with a group, please let me know.)
+\*If your personal circumstances are such that you cannot work with a group, please let me know.
