@@ -14,7 +14,7 @@ hide_git_sync_repo_link: false
 
 To wrap up this week, we need to get ready for your [major project, the Interactive Learning Resource](https://edtechuvic.madland.ca/edci335/assignments) for the course, where you will plan, design, and deploy an interactive, online learning experience. To do that well, you will be encouraged to work in cooperative groups of 2-4 people*.
 
-[I have created and shared an online spreadsheet, linked in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414) for you to organize yourselves into groups. I recommend that you form groups around your major discipline of study at UVic, so I have included a column for you to indicate your discipline or topic area of interest. You may also want to organize your groups around similar time-zones to make it easier to meet synchronously.
+[I have created and shared an online spreadsheet, linked in CourseSpaces](https://coursespaces.uvic.ca) for you to organize yourselves into groups. I recommend that you form groups around your major discipline of study at UVic, so I have included a column for you to indicate your discipline or topic area of interest. You may also want to organize your groups around similar time-zones to make it easier to meet synchronously.
 
 It is not too early to start thinking about your topic for the assignment as you only have few weeks to plan and create your resource. You will complete the resource in two (official) stages, a planning stage where you will create the blueprint, and a development stage where you will actually create the resource.
 
