@@ -17,7 +17,7 @@ I will check my UVic email every day and will reply within 24 hours.
 Please contact me if you would like to set up a web conference or phone call. Please see CourseSpaces for info on how to contact me.
 
 #### Important Links
-[Course Syllabus](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)<br>
+[Course Syllabus](https://coursespaces.uvic.ca/course/view.php?id=61414)<br>
 [Course Schedule](https://edtechuvic.ca/edci335/schedule)<br>
 [Assignment Details](https://edtechuvic.ca/edci335/assignments)<br>
 [Assignment Dropboxes](https://coursespaces.uvic.ca/course/view.php?id=61414&section=1)<br>

@@ -16,7 +16,7 @@ As this course is being hosted on a public website, you need to make some decisi
 :fa-check: Once you have signed up for WordPress (or contacted me if you cannot use WordPress), [start personalizing your site.](http://edtechuvic.ca/edci335/getting-started-with-wordpress/)<br>
 :fa-check: Make sure you create an `edci335` category.<br>
 
-!!!! **Important:** In order for your posts to be aggregated on the course blog, you need to send me your blog URL. Please do this in the ['Blog URLs' forum in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0).
+!!!! **Important:** In order for your posts to be aggregated on the course blog, you need to send me your blog URL. Please do this in the ['Blog URLs' forum in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414).
 
 ### Self-Introductions
 

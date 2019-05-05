@@ -39,7 +39,7 @@ This is a busy week, so it is in your best interest to get started early. You wi
 
 ## Getting started
 
-To begin, you need to carefully read the syllabus for this course, [which can be found on the CourseSpaces site (UVic's Moodle installation; login required)](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0) The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
+To begin, you need to carefully read the syllabus for this course, [which can be found on the CourseSpaces site (UVic's Moodle installation; login required)](https://coursespaces.uvic.ca/course/view.php?id=61414) The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
 
 ! You are responsible for reading and understanding the syllabus. If you have a question about the course, please check the syllabus first, and if you can't find your answer there, feel free to reach out to me.
 
@@ -59,7 +59,7 @@ I will post weekly updates and commentary here on the course blog every Monday m
 
 The sidebar of the home page of this site includes information about how to contact me and when you can expect responses. Generally, if you don't receive a response within 24 hours, you should feel free to send a follow-up email, or you can send me a [DM (Direct Message) on Twitter](https://twitter.com/colinmadland)
 
-#### [CourseSpaces (Moodle)](https://coursespaces.uvic.ca/course/view.php?id=61414&section=0)
+#### [CourseSpaces (Moodle)](https://coursespaces.uvic.ca/course/view.php?id=61414)
 
 You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential manner.
 
