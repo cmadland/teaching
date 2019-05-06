@@ -8,3 +8,9 @@ sections_nav_align: left
 hide_next_prev_page_buttons: false
 show_sidebar: false
 ---
+
+Week 2 Content will be posted Monday, May 20.
+
+===
+
+strongest
