@@ -7,6 +7,8 @@ visible: false
 sections_nav_align: left
 hide_next_prev_page_buttons: false
 show_sidebar: false
+summary:
+    enabled: '1'
 ---
 
 Week 2 Content will be posted Monday, May 20.
