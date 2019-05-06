@@ -13,7 +13,15 @@ Here is a little quiz for you. Don't worry, it's not part of your grade.
 
 [h5p id="2"]
 
+How did you do? Did you get it on the first try? If you didn't, you may have given yourself an example of a misconception that you hold about the world.
 
+Here's a short video from Derek Muller of the YouTube channel [Veritasium](https://veritasium.com).
+
+[plugin:youtube](https://www.youtube.com/watch?v=eVtCO84MDj8)
+
+:fa-question: Did you notice Skinner's influence?
+
+ 
 
 watch the following video from Destin at [Smarter Every Day](https://smartereveryday.com). As you are watching, try to relate the reasons for Destin's difficulty to a learning experience that you have had.
 
