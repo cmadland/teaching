@@ -40,8 +40,8 @@ The reading s this week are critical to your success and understanding in this c
 !!!! Please read chapters 3-4 of [Teaching in a Digital Age](https://opentextbc.ca/teachinginadigitalage), paying attention to the following key ideas:
 
 :fa-check: the characteristics of and differences between the five perspectives on teaching: `transmission, apprenticeship, developmental, nurturing, and social reform` <br>
-:fa-check: the strengths and weaknesses of `lecturing`, `talking`, `doing`, and `feeling` as teaching methods <br>
+:fa-check: the strengths and weaknesses of `lecturing, talking, doing, and feeling` as teaching methods <br>
 :fa-check: the `ADDIE model` of instructional design <br>
 :fa-check: the problems with trying to use `classroom` models of teaching in `online` environments <br>
-:fa-check: the characteristics of and differences between `online collaborative learning`, `competency-based learning`, and `communities of practice` <br>
+:fa-check: the characteristics of and differences between `online collaborative learning, competency-based learning, and communities of practice` <br>
 :fa-check: the strengths and weaknesses of `agile` learning designs <br>
