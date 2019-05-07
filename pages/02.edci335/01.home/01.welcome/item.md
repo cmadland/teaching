@@ -27,14 +27,14 @@ I'm looking forward to spending the next seven weeks with you talking about how 
 
 This is a busy week, so it is in your best interest to get started early. You will need to:
 
-- [ ] Get oriented to how the course works.
-- [ ] Sign up for a WordPress blog.
-- [ ] Email me your blog URL.
-- [ ] Customize your blog.
-- [ ] Post a self-introduction.
-- [ ] Read two relatively short chapters.
-- [ ] Form your cooperative groups.
-- [ ] Publish your first 'official' post.
+:fa-check: Get oriented to how the course works.
+:fa-check: Sign up for a WordPress blog.
+:fa-check: Email me your blog URL.
+:fa-check: Customize your blog.
+:fa-check: Post a self-introduction.
+:fa-check: Read two relatively short chapters.
+:fa-check: Form your cooperative groups.
+:fa-check: Publish your first 'official' post.
 
 
 ## Getting started
