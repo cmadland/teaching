@@ -21,8 +21,10 @@ Here's a short video from Derek Muller of the YouTube channel [Veritasium](https
 
 :fa-question: Did you notice Skinner's influence?
 
- 
+These misconceptions about the world, combined with what is known as *confirmation bias*, meaning that we give more credibility to ideas we already agree with, and less credibility to ideas we disagree with, lead to a situation where it is *very* difficult to change someone's mind.
 
-watch the following video from Destin at [Smarter Every Day](https://smartereveryday.com). As you are watching, try to relate the reasons for Destin's difficulty to a learning experience that you have had.
+When you think about it though, *learning is changing your mind* about something. That is why learning is difficult. It takes focussed work and effort, like we discussed last week.
 
-[plugin:youtube]()
+Here is another video, this one from Destin Sandlin at [Smarter Every Day](https://smartereveryday.com). As you watch, consider the role of *neuroplasticity* in teaching and learning.
+
+[plugin:youtube](https://www.youtube.com/watch?v=Ybo4Lk3CI98)
