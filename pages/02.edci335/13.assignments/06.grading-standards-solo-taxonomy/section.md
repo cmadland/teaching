@@ -19,6 +19,10 @@ SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to h
 
 ![](SOLOTaxonomy.jpg)
 
+Here is another conceptualization of the SOLO Taxonomy:
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png#/media/File:Structure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png/1200px-Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png" alt="Structure of Observed Learning Outcomes (SOLO) Taxonomy.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Dajbelshaw&amp;action=edit&amp;redlink=1" class="new" title="User:Dajbelshaw (page does not exist)">Doug Belshaw</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60807631">Link</a></p>
+
 If you are providing responses at a `pre- or uni-structural` level in a university course, you are going to have a bad time. `Multi-structural` responses will lead to grades in the 'C' range. At minimum, your responses should be `unambiguously relational` for a grade in the 'B' range and `extended abstract` for a grade in the 'A' range.
 
 The UVic Undergraduate Grading Scale, available on the syllabus for this course, describes 'A' work as
