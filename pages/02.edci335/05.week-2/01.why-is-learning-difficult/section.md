@@ -5,7 +5,7 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-You may be familiar with the challenge that it is to change someone else's mind. If you have ever argued with someone whose beliefs are different from yours, whether they are a friend, or a random stranger on the internet, you likely know that even the strongest arguments against their view, that are utterly convincing for you, seem to make them believe even more strongly that they are correct.
+You may be familiar with the challenge that it is to change someone else's mind. If you have ever argued with someone whose beliefs are different from yours, whether they are a friend or a random stranger on the internet, you likely know that even the strongest arguments against their view, that are utterly convincing for you, seem to make them believe even more strongly that they are correct.
 
 This is because our ideas, regardless of what they are or how truthful they may be, become thoroughly embedded in very strong connections in our brains, and they are *extremely* persistent. In reality, everybody has misconceptions about the world.
 
