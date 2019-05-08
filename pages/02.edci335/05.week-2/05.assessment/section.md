@@ -21,6 +21,8 @@ On your own blog, create a new post and write about what you have learned so far
 
 You are not required to use any particular academic writing style like APA or MLA. A blog post is less formal than academic writing. However, if you use someone else's ideas, you need to acknowledge where those ideas came from. The standard way of doing that in a blog post is to create a link to the resource. Doing this allows people who are reading your post to follow up and learn more about what you are trying to say, and it also is a way of saying thank-you to the person who first published the idea.
 
+!!!! Make sure you use the category `edci335`.
+
 ### :fa-inbox: Learning Design Blueprint
 
 Please see the [Assignments page](https://edtechuvic.madland.ca/edci335/assignments) for details about how to complete the Blueprint.
