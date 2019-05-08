@@ -50,5 +50,6 @@ Anderson, T. (2003). Getting the mix right again: An updated and theoretical rat
 
 Madland, C. (2014). Structured student interactions in online distance learning: Exploring the study buddy activity (Master’s thesis, Athabasca University). Retrieved from [http://hdl.handle.net/10791/47](http://hdl.handle.net/10791/47)
 
-
 Wagner, E. D. (1994). In support of a functional definition of interaction. *American Journal of Distance Education, 8*(2), 6–26.
+
+---
