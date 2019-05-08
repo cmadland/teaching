@@ -34,3 +34,5 @@ Here is a list of things you should have completed this week:
 :fa-book:[Teaching in a Digital Age (Ch. 3-4)](https://opentextbc.ca/teachinginadigitalage)<br>
 :fa-pencil:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
 :fa-wordpress:Blog Post #2<br>
+
+---

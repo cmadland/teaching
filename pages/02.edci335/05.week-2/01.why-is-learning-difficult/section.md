@@ -45,3 +45,5 @@ The readings this week are critical to your success and understanding in this co
 :fa-check: the problems with trying to use `classroom` models of teaching in `online` environments <br>
 :fa-check: the characteristics of and differences between `online collaborative learning, competency-based learning, and communities of practice` <br>
 :fa-check: the strengths and weaknesses of `agile` learning designs <br>
+
+---
