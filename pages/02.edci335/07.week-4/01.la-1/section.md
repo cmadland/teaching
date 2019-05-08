@@ -5,8 +5,5 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-Before we get continue, and now that you have set up your blog, please take a few moments to publish an introductory post on your blog. Tell me and your colleagues in the course a little about yourself as you feel comfortable sharing.
-
-Please also include a brief story about one of your favourite learning experiences.
-
-! Remember to use the category `edci335`.
+<a class="embedly-card" data-card-controls="0" href="https://www.insidehighered.com/blogs/just-visiting/knewton-gone-larger-threat-remains?utm_source=Academica+Top+Ten&utm_campaign=62fac2c01a-EMAIL_CAMPAIGN_2019_05_07_04_40&utm_medium=email&utm_term=0_b4928536cf-62fac2c01a-51939269">Knewton Is Gone. The Larger Threat Remains | Just Visiting</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
