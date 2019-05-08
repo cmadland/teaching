@@ -28,7 +28,7 @@ So the interactions in this example are certainly reciprocal, hopefully they cau
 
 A common model of interaction that has been used extensively in online learning contexts is Anderson's (2003) *Modes of Interaction*, below.
 
-! [](modes-of-interaction-anderson.png)
+![](modes-of-interaction-anderson.png)
 
 Anderson highlights three primary modes of interaction in learning environments:
 - student-teacher
