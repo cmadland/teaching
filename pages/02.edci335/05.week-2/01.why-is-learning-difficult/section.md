@@ -35,7 +35,7 @@ This is why the strategies from week one are so important. It takes time to lear
 
 # :fa-book: Reading
 
-The reading s this week are critical to your success and understanding in this course as they provide the foundation fro your work toward planning, designing, and implementing your *Interactive Learning Resource* (worth 40% of your grade in the course).
+The readings this week are critical to your success and understanding in this course as they provide the foundation fro your work toward planning, designing, and implementing your *Interactive Learning Resource* (worth 40% of your grade in the course).
 
 !!!! Please read chapters 3-4 of [Teaching in a Digital Age](https://opentextbc.ca/teachinginadigitalage), paying attention to the following key ideas:
 
