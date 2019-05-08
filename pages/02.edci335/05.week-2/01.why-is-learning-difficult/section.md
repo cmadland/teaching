@@ -39,6 +39,8 @@ The readings this week are critical to your success and understanding in this co
 
 !!!! Please read chapters 3-4 of [Teaching in a Digital Age](https://opentextbc.ca/teachinginadigitalage), paying attention to the following key ideas:
 
+You are encouraged, but not required, to annotate the chapters using hypothes.is.
+
 :fa-check: the characteristics of and differences between the five perspectives on teaching `transmission, apprenticeship, developmental, nurturing, and social reform` <br>
 :fa-check: the strengths and weaknesses of `lecturing, talking, doing, and feeling` as teaching methods <br>
 :fa-check: the `ADDIE model` of instructional design <br>
