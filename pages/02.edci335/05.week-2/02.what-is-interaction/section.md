@@ -40,6 +40,10 @@ In my thesis (Madland, 2014), I suggested that there may be another way to conce
 <a class="embedly-card" data-card-controls="0" href="http://open.merelearning.ca/ssi/files/2015/05/Structured-Student-Interaction-Model.png">Card</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+There are many ways that interaction could be modeled in learning environments, but the main point of them all is that some sort of interaction is necessary for learning to occur. Sometimes that interaction is entirely within the mind of the learner when new ideas are incorporated into older ideas to form new knowledge or understanding.
+
+As you plan your *Interactive Learning Resource* with your colleagues, you will need to consider how you will incorporate one form of interaction or another into your final product.
+
 # References
 
 Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. *International Review of Research in Open and Distance Learning, 4*(2), 1–14.

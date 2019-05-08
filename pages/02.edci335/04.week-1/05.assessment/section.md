@@ -22,7 +22,7 @@ It is not too early to start thinking about your topic for the assignment as you
 
 !! You may not plan a resource about the same topic as another group.
 
-### ;fa-wordpress: Post #1
+### :fa-wordpress: Post #1
 
 !!! This post is your first graded assessment for the course and is worth 7% of your final grade.
 
