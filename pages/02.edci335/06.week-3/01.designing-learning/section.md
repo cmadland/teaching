@@ -7,7 +7,7 @@ hide_git_sync_repo_link: false
 
 At this point in your life, you have worked your way through close to 15 years of formal learning environments. Some of you have experienced little more than a typical classroom with students in rows of desks and a teacher at the front. Others of you have had more varied experiences, perhaps you attended a Science and Technology school with an emphasis on inquiry learning, or maybe an outdoor education school with an emphasis on adventure education, or maybe you were a home-school student. Whatever the case in your history, you have a variety of experiences from which you can draw.
 
-Use the quiz below to let us know the types of learning environments you grew up with. Once we get some answers, I'll publish the anonymized results.
+Use the checklist below to let us know the types of learning environments you grew up with. Once we get some answers, I'll publish the anonymized results.
 
 [h5p id="4"]
 [h5p id="5"]
@@ -24,7 +24,15 @@ Or, perhaps, you are familiar with this scene from the 1950s, which might be ana
 
 [plugin:youtube](https://www.youtube.com/watch?v=8NPzLBSBzPI)
 
-Or, for a more technologically enhanced prediction from the early 1900s, there is this image, produced for the 1900 World's Fair in Paris.
+Or, for a more technologically enhanced prediction from the early 1900s, there is this image from France.
 
 <a title="Jean Marc Cote (if 1901) or Villemard (if 1910)
 http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:France_in_XXI_Century._School.jpg"><img width="1024" alt="France in XXI Century. School" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/512px-France_in_XXI_Century._School.jpg"></a>
+
+I hope it is obvious to you that not all teaching and learning environments are actually conducive to learning. Whether a teacher is putting their students to sleep, or forcing too much content, or trying to rely on a techno-magical solution, there are problems with all of the learning environments shown above.
+
+## Better Learning Design
+
+Rather than focusing on poor learning design, I think it is more beneficial to think about what good learning design looks like. Before we do that, though, take a moment to record a short audio message of you talking about what you think good learning design is.
+
+ [h5p id="6"]
