@@ -40,15 +40,15 @@ Below are three videos that talk more specifically about designing learning. The
 <a class="embedly-card" data-card-controls="0" href="http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=3171352">Search | UVic Libraries Catalogue</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-The three videos are about 6-8 minutes each.
+The three videos are about 20 minutes long all together.
 
-### Part 1
+### Part 1 (8:12)
 [plugin:youtube](https://www.youtube.com/watch?v=iMZA80XpP6Y)
 
-### Part 2
+### Part 2 (6:19)
 
 [plugin:youtube](https://www.youtube.com/watch?v=SfloUd3eO_M)
 
-### Part 3
+### Part 3 (4:13)
 
 [plugin:youtube](https://www.youtube.com/watch?v=ggThtInFtnM)
