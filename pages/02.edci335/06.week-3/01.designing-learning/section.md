@@ -33,6 +33,22 @@ I hope it is obvious to you that not all teaching and learning environments are 
 
 ## Better Learning Design
 
-Rather than focusing on poor learning design, I think it is more beneficial to think about what good learning design looks like. Before we do that, though, take a moment to record a short audio message of you talking about what you think good learning design is.
+Rather than focusing on poor learning design, I think it is more beneficial to think about what good learning design looks like. We have encountered some ideas in previous weeks, such as Derek Muller talking about the importance of addressing misconceptions and Destin Sandlin talking about neuroplasticity.
 
- [h5p id="6"]
+Below are three videos that talk more specifically about designing learning. The videos are admittedly dated, but they are based on the book *Teaching for Quality Learning at University* by John Biggs and Catherine Tang, which is a well-regarded resource for university educators.
+
+<a class="embedly-card" data-card-controls="0" href="http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=3171352">Search | UVic Libraries Catalogue</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+The three videos are about 6-8 minutes each.
+
+### Part 1
+[plugin:youtube](https://www.youtube.com/watch?v=iMZA80XpP6Y)
+
+### Part 2
+
+[plugin:youtube](https://www.youtube.com/watch?v=SfloUd3eO_M)
+
+### Part 3
+
+[plugin:youtube](https://www.youtube.com/watch?v=ggThtInFtnM)
