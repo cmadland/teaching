@@ -67,6 +67,8 @@ I have posted my contact info in CourseSpaces.
 
 !! You will not find any course updates in CourseSpaces. Make sure you check here!
 
+!!!! In order to ensure that you receive notifications of updates, please scroll to the bottom of this page, enter your preferred email address, and click 'Subscribe'.
+
 ### Things to do this week!
 
 As you know, this is a short course, so we need to dive into things relatively quickly.
