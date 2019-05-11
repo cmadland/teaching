@@ -34,4 +34,4 @@ Not only do members of the group need to learn the *content* of the lesson or pr
 Finally, the group must be able to monitor their process with the goal of improving their work process and product. This metacognitive task is crucial to the long-term improvement and progress towards learning goals.
 
 # References
-Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. Retrieved from [https://ezproxy.learner.twu.ca:2187/stable/20532563](https://ezproxy.learner.twu.ca:2187/stable/20532563)
+Johnson, D. W., & Johnson, R. T. (2009). An Educational Psychology Success Story: Social Interdependence Theory and Cooperative Learning. Educational Researcher, 38(5), 365–379. Retrieved from JSTOR.
