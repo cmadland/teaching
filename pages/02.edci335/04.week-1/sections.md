@@ -1,5 +1,5 @@
 ---
-title: 'Week 1'
+title: 'What is Learning Design?'
 date: '13:56 02-05-2019'
 taxonomy:
     category:
