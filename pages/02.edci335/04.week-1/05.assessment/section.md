@@ -52,7 +52,7 @@ Here is a list of things you should have completed this week:
 :fa-question-circle:What does it mean to learn something?<br>
 :fa-question-circle:How does digital technology influence society? You?<br>
 :fa-book:**Read**[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-users: Form your cooperative groups.
+:fa-users: Form your cooperative groups [Link in CourseSpaces](https://coursespaces.uvic.ca).
 :fa-wordpress:**Publish** Blog Post #1 <br>
 
 
