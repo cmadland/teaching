@@ -36,12 +36,15 @@ You are not required to use any particular academic writing style like APA or ML
 
 You are encouraged to use the 'Featured Image' tool in WordPress, but please make sure that the image you use is licensed for reuse. You can ensure this by using search engines to search for Creative Commons images. Here are some options for you:
 
-:fa-search: [Creative Commons Search](https://search.creativecommons.org/)<br>
-:fa-search: [Flickr Creative Commons Search](https://www.flickr.com/creativecommons)<br>
-:fa-search: [Unsplash.com](https://unsplash.com)<br>
-:fa-search: [Pexels.com](https://pexels.com)<br>
+:fa-image: [Creative Commons Search](https://search.creativecommons.org/)<br>
+:fa-image: [Flickr Creative Commons Search](https://www.flickr.com/creativecommons)<br>
+:fa-image: [Unsplash.com](https://unsplash.com)<br>
+:fa-image: [Pexels.com](https://pexels.com)<br>
+:fa-camera: Of course, you are welcome and encouraged to use your own images!
 
 The images you find on Unsplash and Pexels may be very large and you might not be able to upload them without first compressing them. I recommend you use [tinypng.com](https://tinypng.com) to compress images. This will help prevent your site from slowing down.
+
+!!! When you have published your post, please copy the URL and post it into the the appropriate [assignment dropbox in CourseSpaces](https:coursespaces.uvic.ca).
 
 # Week 1 Checklist
 Here is a list of things you should have completed this week:
