@@ -26,9 +26,11 @@ It is not too early to start thinking about your topic for the assignment as you
 
 !!! This post is your first graded assessment for the course and is worth 7% of your final grade.
 
-On your own blog, create a new post and write about what you have learned so far in the course. Remember that [you will be assessed according to the SOLO Taxonomy](https://edtechuvic.madland.ca/edci335/assignments). In the context of your post, this means that you need to demonstrate that you have engaged with the readings, blog posts, videos, and other learning resources and that you have connected the ideas in those resources to your own ideas and experiences. You may want to use one or more of the questions from one of the blue 'Activity' boxes in *Bates*.
+On your own blog, create a new post and write about what you plan to learn in the [*Personal Learning Challenge* assignment](https://edtechuvic.ca/edci335/assignments) and how this week's readings will influence how you approach your challenge.
 
-! I am not looking for a simple summary of the readings. You *MUST* connect the readings to your own ideas.
+Remember that [you will be assessed according to the SOLO Taxonomy](https://edtechuvic.madland.ca/edci335/assignments). In the context of your post, this means that you need to demonstrate that you have engaged with the readings, blog posts, videos, and other learning resources and that you have connected the ideas in those resources to your own *Personal Learning Challenge*.
+
+! I am not looking for a simple summary of the readings. You *MUST* connect the readings to your plan.
 
 You are not required to use any particular academic writing style like APA or MLA. A blog post is less formal than academic writing. However, if you use someone else's ideas, you need to acknowledge where those ideas came from. The standard way of doing that in a blog post is to create a link to the resource. Doing this allows people who are reading your post to follow up and learn more about what you are trying to say, and it also is a way of saying thank-you to the person who first published the idea.
 
