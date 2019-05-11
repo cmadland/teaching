@@ -6,8 +6,10 @@ visible: true
 ---
 
 # Welcome
+Updated Saturday, May 11.
 
 - EDCI 335 will start on Monday, May 13.
 - There are no textbooks to purchase for this course.
-- I will post instructions for accessing course materials here shortly before the beginning of the course.
-- Looking forward to meeting you all! ~Colin
+- You are welcome to get started setting up your WordPress site. Click 'Units' in the menu, then 'Week 1'.
+- Looking forward to meeting you all!
+~Colin
