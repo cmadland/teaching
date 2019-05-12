@@ -27,6 +27,8 @@ You are not required to use any particular academic writing style like APA or ML
 
 Please see the [Assignments page](https://edtechuvic.madland.ca/edci335/assignments) for details about how to complete the Blueprint. Please submit either a link to your web document or upload a file in CourseSpaces.
 
+!! You MUST submit this assignment and receive my feedback *prior* to submitting your *Interactive Learning Resource* assignment! I will endeavour to provide feedback on your Blueprint by the end of week 3.  
+
 # Week 2 Checklist
 Here is a list of things you should have completed this week:
 
