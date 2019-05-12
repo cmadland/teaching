@@ -15,7 +15,7 @@ hide_git_sync_repo_link: false
 
 !!! This post is your second graded assessment for the course and is worth 7% of your final grade.
 
-On your own blog, create a new post and write about what you have learned so far in the course. Remember that [you will be assessed according to the SOLO Taxonomy](https://edtechuvic.madland.ca/edci335/assignments). In the context of your post, this means that you need to demonstrate that you have engaged with the readings, blog posts, videos, and other learning resources and that you have connected the ideas in those resources to your own ideas and experiences.
+On your own blog, create a new post and write about what your progress in your *Personal Learning Challenge*. Remember that [you will be assessed according to the SOLO Taxonomy](https://edtechuvic.madland.ca/edci335/assignments). In the context of your post, this means that you need to demonstrate that you have engaged with the readings, blog posts, videos, and other learning resources and that you have connected the ideas in those resources to your own learning challenge.
 
 ! I am not looking for a simple summary of the readings. You *MUST* connect the readings to your own ideas.
 
@@ -25,7 +25,7 @@ You are not required to use any particular academic writing style like APA or ML
 
 ### :fa-inbox: Learning Design Blueprint
 
-Please see the [Assignments page](https://edtechuvic.madland.ca/edci335/assignments) for details about how to complete the Blueprint.
+Please see the [Assignments page](https://edtechuvic.madland.ca/edci335/assignments) for details about how to complete the Blueprint. Please submit either a link to your web document or upload a file in CourseSpaces.
 
 # Week 2 Checklist
 Here is a list of things you should have completed this week:
