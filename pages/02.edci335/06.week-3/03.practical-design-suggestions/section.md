@@ -12,5 +12,4 @@ The previous topic focussed on some *big picture* ideas related to learning desi
 :fa-check: I suggest you **skim** chapter 1 to get an idea of the three `presences` in a `community of inquiry (CoI)`.<br>
 :fa-check: Please **read** chapter 2.<br>
 
-<a class="embedly-card" data-card-controls="0" href="http://aupress.ca/index.php/books/120229">Athabasca University Press - Teaching in Blended Learning Environments: Creating and Sustaining Communities of Inquiry</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[pdfjs=01_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf]
