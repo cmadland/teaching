@@ -1,18 +1,24 @@
 ---
-title: 'Practical Design Suggestions'
+title: 'Assessment'
 date: '14:08 02-05-2019'
 hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-The previous topic focussed on some *big picture* ideas related to learning design, and these are important. Just as important, though are some of the finer detailed ideas and suggestions, especially as you are developing your confidence and capacity to design effective learning experiences.
+### :fa-wordpress: Post #3
 
-### :fa-book: Reading
+!!! This post is worth 7% of your final grade.
 
-:fa-check: I suggest you **skim** chapter 1 to get an idea of the three `presences` in a `community of inquiry (CoI)`.<br>
-:fa-check: Please **read** chapter 2.<br>
-:fa-check: If you prefer, you can download the entire book at [http://aupress.ca/index.php/books/120229](http://aupress.ca/index.php/books/120229) (click the 'Free PDF' tab)
+On your own blog, create a new post and write about what your progress in your *Personal Learning Challenge*. Remember that [you will be assessed according to the SOLO Taxonomy](https://edtechuvic.madland.ca/edci335/assignments). In the context of your post, this means that you need to demonstrate that you have engaged with the readings, blog posts, videos, and other learning resources and that you have connected the ideas in those resources to your own learning challenge.
 
-[pdfjs file=01_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf width=600 height=850]
+! I am not looking for a simple summary of the readings. You *MUST* connect the readings to your own ideas.
 
-[pdfjs file=02_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf width=600 height=850]
+You are not required to use any particular academic writing style like APA or MLA. A blog post is less formal than academic writing. However, if you use someone else's ideas, you need to acknowledge where those ideas came from. The standard way of doing that in a blog post is to create a link to the resource. Doing this allows people who are reading your post to follow up and learn more about what you are trying to say, and it also is a way of saying thank-you to the person who first published the idea.
+
+!!!! Make sure you use the category `edci335`.
+
+### Interactive Learning Resource
+
+If all goes well, I will have your Blueprints assessed and my feedback returned to you by the end of this week. I would suggest that you not make substantive changes to your plans for the *Interactive Learning Resource* until you have my feedback.
+
+You should be working on your first draft of your learning resource so that you can incorporate my feedback next week. `Your first draft is due Sunday, June 9, at the end of week 4.`
