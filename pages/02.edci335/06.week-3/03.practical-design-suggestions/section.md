@@ -13,6 +13,6 @@ The previous topic focussed on some *big picture* ideas related to learning desi
 :fa-check: Please **read** chapter 2.<br>
 :fa-check: If you prefer, you can download the entire book at [http://aupress.ca/index.php/books/120229](http://aupress.ca/index.php/books/120229) (click the 'Free PDF' tab)
 
-[pdfjs file=01_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf width=600 height=900]
+[pdfjs file=01_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf width=600 height=850]
 
-[pdfjs file=02_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf width=600 height=900]
+[pdfjs file=02_Vaughan_et_al_2013-Teaching_in_Blended_Learning_Environments.pdf width=600 height=850]
