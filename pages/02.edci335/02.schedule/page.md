@@ -17,8 +17,8 @@ cache_enable: false
 :fa-question-circle:What does it mean to learn something?<br>
 :fa-desktop:[Clarissa Sorenson-Unruh Post](https://clarissasorensenunruh.com/2019/04/20/5r-adult-learning-assignment-learning-the-neuroscience-and-the-neuromyths/)<br>
 :fa-question-circle:How does digital technology influence society? You?<br>
-:fa-book:**Read**[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-users: Form your cooperative groups.
+:fa-book:**Read** [Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
+:fa-users: Form your cooperative groups.<br>
 :fa-wordpress:**Publish** Blog Post #1 <br>
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)<a id="week-2"></a>
