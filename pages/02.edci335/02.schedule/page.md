@@ -28,8 +28,8 @@ cache_enable: false
 :fa-question-circle:Why is _interaction_ so important?<br>
 :fa-youtube:[Backwards Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)<br>
 :fa-book:[Teaching in a Digital Age (Ch. 3-4)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-pencil:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
-:fa-wordpress:Blog Post #2<br>
+:fa-inbox:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
+:fa-wordpress: Blog Post #2<br>
 
 # [:fa-calendar-o:Week 3 (May 27 - June 2)](http://edtechuvic.ca/edci335/blog/week-3-may-27-june-2/)<a id="week-3"></a>
 
