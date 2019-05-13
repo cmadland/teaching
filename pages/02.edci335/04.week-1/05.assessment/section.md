@@ -24,7 +24,7 @@ It is not too early to start thinking about your topic for the assignment as you
 
 ### :fa-wordpress: Post #1
 
-!!! This post is your first graded assessment for the course and is worth 7% of your final grade.
+!!! This post is worth 7% of your final grade.
 
 On your own blog, create a new post and write about what you plan to learn in the [*Personal Learning Challenge* assignment](https://edtechuvic.ca/edci335/assignments) and how this week's readings will influence how you approach your challenge.
 
