@@ -3,7 +3,7 @@ title: Home
 published: true
 body_classes: 'header-image fullwidth'
 child_type: item
-visible: false
+visible: true
 content:
     items: '@self.children'
     limit: 0
@@ -29,4 +29,3 @@ feed:
     description: 'Grav CMS Open Matter Course Hub Description'
     limit: 10
 ---
-
