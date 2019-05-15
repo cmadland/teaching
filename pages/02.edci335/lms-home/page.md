@@ -16,3 +16,5 @@ I'll keep the homepage here for now, but do let me know if you prefer to see som
 To see updates from either me or your colleagues in the class, click `Updates` in the menu above, then choose either `Instructor Updates` or `Learner Posts`.
 
 ![](updates-1.png)
+
+---
