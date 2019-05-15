@@ -13,7 +13,7 @@ hide_git_sync_repo_link: true
 
 I'll keep the homepage here for now, but do let me know if you prefer to see something else when you first check the site.
 
-To see updates from either me or your colleagues in the class, click `Updates` in the menu above, then choose either `Instructor Updates` or `Learner Posts`.
+To see updates from either me or your colleagues in the class, click `Updates` in the menu above, then choose either `Learner Posts` or `Instructor Posts`.
 
 ![](updates-1.png)
 
