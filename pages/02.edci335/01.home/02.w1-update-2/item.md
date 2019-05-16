@@ -2,10 +2,10 @@
 title: 'Week 1 Update 2'
 published: true
 date: '09-05-2018 00:00'
-header_image_file: /edci335/home/week-01/7329695128_a60970e43e_o.jpg
-header_image_alt_text: 'University of Victoria'
-header_image_credit: 'Flickr User @serdarkaya'
-header_image_creditlink: 'https://www.flickr.com/photos/serdarkaya/7329695128/in/album-72157630032117384/'
+header_image_file: ben-klea-1521324-unsplash-1.jpeg
+header_image_alt_text: 'Tree in a Lake'
+header_image_credit: 'Unsplash User @benkleaphoto'
+header_image_creditlink: 'https://unsplash.com/@benkleaphoto'
 summary:
     enabled: '1'
 hide_from_post_list: false
@@ -23,5 +23,6 @@ For those who are blogging on WordPress.com, you likely received an email notifi
 
 If you haven't yet published a self-introduction post, please do and make sure you add your blog url to the forum in CourseSpaces!
 
+###### Photo Credit: [Unsplash User @benkleaphoto](https://unsplash.com/photos/Or4PUA-KxiQ)
 
 ---
