@@ -9,7 +9,7 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](../home/_important-reminders)
 
-!! As of 5:00 am this morning (Thursday, May 16), I've noticed that [onlineacademiccommunity.uvic.ca](https://onlineacademiccommunity.uvic.ca) is not loading at all. It is likely that your blogs are affected. I have submitted a ticket to [University Systems](https://www.uvic.ca/systems/support/learningteaching/oac/request.php), and you are welcome to do the same.
+!!!! It looks like the issues with OAC have been resolved! I hope none of you were terribly affected. One of the ever-present challenges with teaching through some sort of mediating technology (video, audio, or even plain text, like here) is that the technology can fail and leave learners stranded. Patience and flexibility are key!
 
 I'll keep the homepage here for now, but do let me know if you prefer to see something else when you first check the site.
 
