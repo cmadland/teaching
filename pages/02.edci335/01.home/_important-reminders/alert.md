@@ -5,9 +5,9 @@ published: true
 visible: true
 ---
 
-# Welcome
-Updated Monday, May 13.
+# Reminders
+Updated Sunday, May 19.
 
-- There are no textbooks to purchase for this course.
-- You will find the content and learning activities for the course under 'Units' in the menu bar.
-- Your first task is to work through the '[WordPress Set Up](https://edtechuvic.ca/edci335/week-1)' details and send me your blog URL through the forum in CourseSpaces.
+- Your first post is due today, May 19. You can find details in the menu  under `Units > Week 1... > Assessment`.
+- Please use the category `edci335` on all your posts and post the link in the [Assignment dropbox in CourseSpaces](https://coursespaces.uvic.ca/course/view.php?id=61414&section=1).
+- Make sure you are part of a group for the cooperative project.
