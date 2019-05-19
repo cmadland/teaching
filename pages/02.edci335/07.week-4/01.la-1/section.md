@@ -7,6 +7,8 @@ hide_git_sync_repo_link: false
 
 I have mentioned previously that educational technology may not necessarily be a good thing. I firmly believe that there are tremendous advantages to using technology in education, including increasing access through online tools, promoting personalization and agency through student ownership of blog sites, and promotion of student voice by providing options to share student work beyond a learning management system like CourseSpaces. On the other hand, there are certainly problems with some technologies being used to surveil students and teachers. The implication of these two ideas is that you cannot think well about educational technology without understanding both the promises and the perils of using digital technology in learning environments.
 
+!!!! As you read the following articles, feel free to use hypothes.is to annotate and discuss with your colleagues.
+
 For example, Mike Caulfield, in this EDUCAUSE article, seems to have an optimistic view:
 
 <a class="embedly-card" data-card-controls="0" href="https://er.educause.edu/articles/2017/1/can-higher-education-save-the-web">Can Higher Education Save the Web?</a>
