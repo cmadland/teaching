@@ -9,18 +9,12 @@ I have mentioned previously that educational technology may not necessarily be a
 
 !!!! As you read the following articles, feel free to use hypothes.is to annotate and discuss with your colleagues.
 
-For example, Mike Caulfield, in this EDUCAUSE article, seems to have an optimistic view:
+The following two articles illustrate a typical cycle of start-ups in education technology. The first is from 2015, an article about a program called 'Knewton'.
 
-<a class="embedly-card" data-card-controls="0" href="https://er.educause.edu/articles/2017/1/can-higher-education-save-the-web">Can Higher Education Save the Web?</a>
+<a class="embedly-card" data-card-controls="0" href="https://www.npr.org/sections/ed/2015/10/13/437265231/meet-the-mind-reading-robo-tutor-in-the-sky">Meet The Mind-Reading Robo Tutor In The Sky</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Chris Gilliard, partly in response to Caulfield, sees it differently:
-
-<a class="embedly-card" data-card-controls="0" href="https://er.educause.edu/articles/2017/7/pedagogy-and-the-logic-of-platforms">Pedagogy and the Logic of Platforms</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-
-
+The second is from just a few weeks ago, less than 5 years after the NPR article.
 
 <a class="embedly-card" data-card-controls="0" href="https://www.insidehighered.com/blogs/just-visiting/knewton-gone-larger-threat-remains?utm_source=Academica+Top+Ten&utm_campaign=62fac2c01a-EMAIL_CAMPAIGN_2019_05_07_04_40&utm_medium=email&utm_term=0_b4928536cf-62fac2c01a-51939269">Knewton Is Gone. The Larger Threat Remains | Just Visiting</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
