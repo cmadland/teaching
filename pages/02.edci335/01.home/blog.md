@@ -4,13 +4,6 @@ published: true
 body_classes: 'header-image fullwidth'
 child_type: item
 visible: true
-content:
-    items: '@self.children'
-    limit: 0
-    order:
-        by: date
-        dir: desc
-    pagination: '1'
 hero_scroll: false
 hide_page_title: true
 show_sidebar: true
