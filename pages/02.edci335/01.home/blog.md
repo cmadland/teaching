@@ -3,6 +3,13 @@ title: Home
 published: true
 body_classes: 'header-image fullwidth'
 child_type: item
+content:
+    items: '@self.children'
+    limit: 0
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
 visible: true
 hero_scroll: false
 hide_page_title: true
@@ -13,12 +20,4 @@ hide_post_date: true
 hide_post_taxonomy: true
 continue_link_as_button: false
 hide_git_sync_repo_link: false
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: dsc
-feed:
-    description: 'Grav CMS Open Matter Course Hub Description'
-    limit: 10
 ---
