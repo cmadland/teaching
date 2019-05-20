@@ -9,9 +9,7 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](../home/_important-reminders)
 
+[plugin:page-inject](../home/how-people-learn)
 
-To see updates from either me or your colleagues in the class, click `Updates` in the menu above, then choose either `Learner Posts` or `Instructor Posts`.
-
-![](updates-1.png)
 
 ---
