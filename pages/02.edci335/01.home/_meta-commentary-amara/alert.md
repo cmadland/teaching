@@ -2,7 +2,7 @@
 alert_style: alert-primary
 title: 'How I learned about Roy Amara'
 published: true
-visible: false
+visible: true
 header_image_alt_text: ''
 header_image_credit: ''
 header_image_creditlink: ''
