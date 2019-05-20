@@ -9,7 +9,5 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](../home/_important-reminders)
 
-[plugin:content-inject](../home/how-people-learn)
-
 
 ---
