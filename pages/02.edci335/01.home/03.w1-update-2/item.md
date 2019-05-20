@@ -19,6 +19,6 @@ For those who are blogging on WordPress.com, you likely received an email notifi
 
 If you haven't yet published a self-introduction post, please do and make sure you add your blog url to the forum in CourseSpaces!
 
-###### Photo Credit: [Unsplash User @benkleaphoto](https://unsplash.com/photos/Or4PUA-KxiQ)
+
 
 ---
