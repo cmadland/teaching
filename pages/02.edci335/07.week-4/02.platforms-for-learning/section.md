@@ -17,4 +17,4 @@ I've recently learned of Roy Amara and his 'law'.
 
 
 
-[plugin:content-inject](../home/_meta-commentary-amara)
+[plugin:content-inject](/home/_meta-commentary-amara)
