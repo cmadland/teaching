@@ -1,6 +1,11 @@
 ---
-title: How I learned about Roy Amara
+alert_style: alert-primary
+title: 'How I learned about Roy Amara'
 published: true
+visible: false
+header_image_alt_text: ''
+header_image_credit: ''
+header_image_creditlink: ''
 ---
 
 I'm a little surprised that I'm just learning about Roy Amara at this point in my career, but I think that just goes to show that there is *always* more to the story.
