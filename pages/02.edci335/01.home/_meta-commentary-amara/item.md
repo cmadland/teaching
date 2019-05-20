@@ -1,5 +1,5 @@
 ---
-title: How I learned about Roy Amara
+title: 'How I learned about Roy Amara'
 published: true
 ---
 
