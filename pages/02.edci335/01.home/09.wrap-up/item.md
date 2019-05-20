@@ -1,5 +1,5 @@
 ---
-title: 'Wrap-up'
+title: Wrap-up
 published: true
 date: '20-06-2018 00:00'
 header_image_alt_text: 'iOS family of devices pile (2015)'
@@ -11,7 +11,5 @@ hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 ---
-
-
 
 ===
