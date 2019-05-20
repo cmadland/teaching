@@ -13,3 +13,8 @@ I've recently learned of Roy Amara and his 'law'.
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 !!!! We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+
+
+
+
+[plugin:content-inject](../home/_meta-commentary-amara)
