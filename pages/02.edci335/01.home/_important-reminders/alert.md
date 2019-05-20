@@ -6,8 +6,11 @@ visible: true
 ---
 
 # Reminders
-Updated Sunday, May 19.
+Updated Monday, May 20.
 
-- Your first post is due today, May 19. You can find details in the menu  under `Units > Week 1... > Assessment`.
+- I've posted an update for Week 2 under `Updates > Instructor Updates`.
+- Items due this Sunday:
+  - Blog Post #2
+  - Learning Design BluePrint
 - Please use the category `edci335` on all your posts and post the link in the [Assignment dropbox in CourseSpaces](https://coursespaces.uvic.ca).
-- Make sure you are part of a group for the cooperative project.
+- Let me know if you haven't joined a group!
