@@ -1,5 +1,5 @@
 ---
-title: Self-Introductions
+title: Promises and Perils
 date: '12:32 03-05-2019'
 hide_page_title: false
 hide_git_sync_repo_link: false
@@ -9,7 +9,7 @@ I have mentioned previously that educational technology may not necessarily be a
 
 !!!! As you read the following articles, feel free to use hypothes.is to annotate and discuss with your colleagues.
 
-The following two articles illustrate a typical cycle of start-ups in education technology. The first is from 2015, an article about a program called 'Knewton'.
+These articles illustrate a typical cycle of start-ups in education technology. The first is from 2015, an article about a program called 'Knewton'.
 
 <a class="embedly-card" data-card-controls="0" href="https://www.npr.org/sections/ed/2015/10/13/437265231/meet-the-mind-reading-robo-tutor-in-the-sky">Meet The Mind-Reading Robo Tutor In The Sky</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

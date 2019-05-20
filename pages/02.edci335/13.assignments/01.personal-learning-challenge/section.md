@@ -29,4 +29,4 @@ The most important part of this activity is for you to connect your learning pro
 
 Each of your 5 graded blog posts (due at the end of weeks 1-4 and 6) will be about your learning challenge and are worth 7% of your final grade *each* for a total of 35% *collectively*.
 
-To ensure that I am notified of your posts, please post a link to each post in the appropriate [assignment dropbox in CourseSpaces](https:coursespaces.uvic.ca).
+To ensure that I am notified of your posts, please post a link to each post in the appropriate [assignment dropbox in CourseSpaces](https://coursespaces.uvic.ca).
