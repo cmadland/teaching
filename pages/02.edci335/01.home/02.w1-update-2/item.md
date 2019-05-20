@@ -2,7 +2,7 @@
 title: 'Week 1 Update 2'
 published: true
 date: '09-05-2018 00:00'
-header_image_file: ben-klea-1521324-unsplash-1.jpeg
+header_image_file: 
 header_image_alt_text: 'Tree in a Lake'
 header_image_credit: 'Unsplash User @benkleaphoto'
 header_image_creditlink: 'https://unsplash.com/@benkleaphoto'
