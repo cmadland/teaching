@@ -1,5 +1,5 @@
 ---
-alert_style: alert-success
+alert_style: alert-primary
 title: 'How I learned about Roy Amara'
 published: true
 visible: false
