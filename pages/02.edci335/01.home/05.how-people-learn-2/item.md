@@ -6,7 +6,7 @@ header_image_alt_text: 'Information architecture'
 header_image_credit: 'CannedTuna, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
 summary:
-    enabled: '1'
+    enabled: '0'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
