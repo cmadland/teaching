@@ -23,3 +23,5 @@ The reason for asking you to submit a link is to ensure accurate tracking of you
 So far, there are only two people who have responded to the Doodle poll in CourseSpaces about finding a time to meet in BlueJeans. Please take a few minutes to do that as well.
 
 Hope you have a great day!
+
+---
