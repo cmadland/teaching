@@ -20,8 +20,6 @@ Good morning!
 
 The reason for asking you to submit a link is to ensure accurate tracking of your submissions and also to allow me to provide confidential feedback on your work.
 
-===
-
 So far, there are only two people who have responded to the Doodle poll in CourseSpaces about finding a time to meet in BlueJeans. Please take a few minutes to do that as well.
 
 Hope you have a great day!
