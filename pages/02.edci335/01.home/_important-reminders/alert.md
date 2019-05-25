@@ -6,9 +6,9 @@ visible: true
 ---
 
 # Reminders
-Updated Monday, May 20.
+Updated Saturday, May 25.
 
-- I've posted an update for Week 2 under `Updates > Instructor Updates`.
+- I've sent feedback for Post #1. If you don't see feedback in the gradebook in CourseSpaces, please contact me as soon as possible.
 - Items due this Sunday:
   - Blog Post #2
   - Learning Design BluePrint
