@@ -1,7 +1,7 @@
 ---
 title: 'Designing Learning Experiences'
 published: true
-date: '23-05-2018 00:00'
+date: '23-05-2019 00:00'
 header_image_alt_text: Bullseye
 header_image_credit: 'Emilio Küffer, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'

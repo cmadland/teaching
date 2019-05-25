@@ -1,7 +1,7 @@
 ---
 title: 'Week 1 Update 2'
 published: true
-date: '09-05-2018 00:00'
+date: '09-05-2019 00:00'
 summary:
     enabled: '1'
 hide_from_post_list: false

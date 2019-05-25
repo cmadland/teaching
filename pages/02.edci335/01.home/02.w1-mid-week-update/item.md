@@ -1,7 +1,7 @@
 ---
 title: 'Week 1 update'
 published: true
-date: '09-05-2018 00:00'
+date: '09-05-2019 00:00'
 header_image_file: /edci335/home/week-01/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
 header_image_credit: 'Flickr User @serdarkaya'
