@@ -23,10 +23,10 @@ What I will argue against, and I encourage you to disagree with me, is the idea 
 One example of this in education technology is the use of Turnitin (TII). You may have encountered this requirement in one of your courses. TII is a web service sold to schools (for tens of thousands of dollars) that they claim will help learners write better and will save faculty time in assessing learners' work. They may be right, but what are the other messages sent when faculty rely on a `black-box algorithm` to determine which student has copied from another source legitimately and which student hasn't?
 
 Turnitin tells learners:
-:fa-times-circle: Learners are not trustworthy. [Hint: Learners deserve to be trusted first.]
-:fa-times-circle: Learners must prove they are innocent before their work will be graded. [Hint: see above.]
-:fa-times-circle: Learners' work can be given away to for-profit companies for free. [Hint: this is stealing; not much different from plagiarism.]
-:fa-times-circle: We can trust an invisible and inscrutable algorithm to accurately detect the difference between legitimate and illegitimate usage of other's ideas. [Hint: Turnitin is wrong 30% of the time.]
+:fa-times-circle: Learners are not trustworthy. [Hint: Learners deserve to be trusted first.]<br>
+:fa-times-circle: Learners must prove they are innocent before their work will be graded. [Hint: see above.]<br>
+:fa-times-circle: Learners' work can be given away to for-profit companies for free. [Hint: this is stealing; not much different from plagiarism.]<br>
+:fa-times-circle: We can trust an invisible and inscrutable algorithm to accurately detect the difference between legitimate and illegitimate usage of other's ideas. [Hint: Turnitin is wrong 30% of the time.]<br>
 
 It is interesting to note that TII itself says specifically that their software cannot ever detect plagiarism, but that is how many faculty use it, to detect plagiarism.
 [plugin:content-inject](../../home/_meta-commentary-amara)
