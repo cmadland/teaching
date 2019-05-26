@@ -14,7 +14,7 @@ I've recently learned of Roy Amara and his 'law'.
 
 !!!! We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
 
-
+I think it is fair to say that we tend to get pretty hyped about new technologies that promise to make our lives better, but actually don't, while at the same time, we are somewhat blind to the negative effects of technology over longer periods of time. 
 
 
 [plugin:content-inject](../../home/_meta-commentary-amara)
