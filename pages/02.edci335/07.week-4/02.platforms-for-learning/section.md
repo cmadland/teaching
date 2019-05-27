@@ -35,6 +35,6 @@ So on the surface, a service like TII seems like a benefit to both students and 
 It is interesting to note that TII itself says specifically that their software cannot ever detect plagiarism, but that is how many faculty use it, to detect plagiarism.
 
 <details>
-  <summary>Aside - Click to expand</summary>
+  <summary>An optional aside about Roy Amara - Click to expand</summary>
    [plugin:content-inject](../../home/_meta-commentary-amara)
 </details>
