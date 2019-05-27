@@ -14,7 +14,7 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](/edci335/home/_important-reminders)
 
-Good morning! This week, we will hit the half-way point in the course already!
+Good morning! 
 
 Thanks for your work last week on getting your Blueprints to me. I will turn those around as quickly as I can so that you can proceed with your Interactive Learning Resources. I suggest that you not proceed until you've heard from me on the blueprint. Consequently, you don't have much writing to do this week. Just `Blog Post #3`.
 
