@@ -33,7 +33,7 @@ Of course, you can also ask me.
 
 One of the reasons that this course is using WordPress as a platform is to encourage you to use it to build a Community of Inquiry. I hope you will take some time to explore each others' blogs and follow a few people's progress through the learning challenge!
 
-### Unit 3 is posted!
+### Week 3 is posted!
 
 Click `Units` in the menu, then `Week 3`.
 
