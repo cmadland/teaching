@@ -24,7 +24,7 @@ Or, perhaps, you are familiar with this scene from the 1950s, which might be ana
 
 [plugin:youtube](https://www.youtube.com/watch?v=8NPzLBSBzPI)
 
-Or, for a more technologically enhanced prediction from the early 1900s, there is this image from France.
+Or, for a more technologically enhanced prediction from the early 1900s, there is this image from France predicting what school would look like in the year 2000.
 
 <a title="Jean Marc Cote (if 1901) or Villemard (if 1910)
 http://publicdomainreview.org/2012/06/30/france-in-the-year-2000-1899-1910/ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:France_in_XXI_Century._School.jpg"><img width="1024" alt="France in XXI Century. School" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/512px-France_in_XXI_Century._School.jpg"></a>
