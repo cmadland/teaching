@@ -14,7 +14,7 @@ hide_git_sync_repo_link: true
 
 [plugin:content-inject](/edci335/home/_important-reminders)
 
-Good morning! 
+Good morning!
 
 Thanks for your work last week on getting your Blueprints to me. I will turn those around as quickly as I can so that you can proceed with your Interactive Learning Resources. I suggest that you not proceed until you've heard from me on the blueprint. Consequently, you don't have much writing to do this week. Just `Blog Post #3`.
 
@@ -32,5 +32,9 @@ Of course, you can also ask me.
 ### Your blogs
 
 One of the reasons that this course is using WordPress as a platform is to encourage you to use it to build a Community of Inquiry. I hope you will take some time to explore each others' blogs and follow a few people's progress through the learning challenge!
+
+### Unit 3 is posted!
+
+Click `Units` in the menu, then `Week 3`.
 
 ---
