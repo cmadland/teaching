@@ -12,3 +12,4 @@ Updated Monday, May 25.
 - Items due this Sunday:
   - Blog Post #3
 - Remember to use the category `edci335` on all your posts and post the link in the [Assignment dropbox in CourseSpaces](https://coursespaces.uvic.ca).
+- Week 3 materials are available!
