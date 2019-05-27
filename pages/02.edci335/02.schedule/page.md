@@ -31,7 +31,7 @@ cache_enable: false
 :fa-inbox:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
 :fa-wordpress: Blog Post #2<br>
 
-# [:fa-calendar-o:Week 3 (May 27 - June 2)](http://edtechuvic.ca/edci335/blog/week-3-may-27-june-2/)<a id="week-3"></a>
+# [:fa-calendar-o:Week 3 (May 27 - June 2)](https://edtechuvic.ca/edci335/blog/designing-learning-experiences/)
 
 #### What is involved with designing learning experiences?<br>
 :fa-youtube:[Teaching teaching and understanding understanding](https://youtu.be/iMZA80XpP6Y)<br>
