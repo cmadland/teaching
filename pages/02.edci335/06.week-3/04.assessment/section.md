@@ -22,3 +22,11 @@ You are not required to use any particular academic writing style like APA or ML
 If all goes well, I will have your Blueprints assessed and my feedback returned to you by the end of this week. I would suggest that you not make substantive changes to your plans for the *Interactive Learning Resource* until you have my feedback.
 
 You can be working on your first draft of your learning resource so that you can incorporate my feedback next week. `Your first draft is due Sunday, June 9, at the end of week 4.`
+
+# Week 3 Checklist
+Here is a list of things you should have completed this week:
+
+#### What is involved with designing learning experiences?<br>
+:fa-youtube:[Teaching teaching and understanding understanding](https://youtu.be/iMZA80XpP6Y)<br>
+:fa-book:[Teaching in Blended Learning Environments, Ch. 2](http://aupress.ca/index.php/books/120229)<br>
+:fa-wordpress:Blog Post #3<br>
