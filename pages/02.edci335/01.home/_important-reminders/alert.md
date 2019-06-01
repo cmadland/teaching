@@ -6,10 +6,12 @@ visible: true
 ---
 
 # Reminders
-Updated Monday, May 25.
+Updated Saturday, June 1.
 
-- Thank you for your submissions on the BluePrint Assignment. I'll be having a look at those over the next few days.
-- Items due this Sunday:
+- Blueprints are graded! Check CourseSpaces for feedback.
+- Items due tomorrow:
   - Blog Post #3
-- Remember to use the category `edci335` on all your posts and post the link in the [Assignment dropbox in CourseSpaces](https://coursespaces.uvic.ca).
+- edtechuvic.ca/edci335 is down.
 - Week 3 materials are available!
+
+[twitter url="https://twitter.com/CWHupdates" text="Updates from our Web Host" height="600"]
