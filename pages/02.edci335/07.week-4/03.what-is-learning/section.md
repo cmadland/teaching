@@ -13,4 +13,11 @@ More importantly than that, though, is that there is a huge community of technol
 
 I hope that this course will be a big step towards digital self-determination for you. I hope you will become less reliant on giant tech monopolies like Google, Microsoft, Baidu, Amazon, and the like.
 
-One of the most significant ways I can think to encourage digital self-determination is to teach you how to use `FLOSS`. No, I don't mean for your teeth and gums, I mean `F`ree/`L`ibre `O`pen-`S`ource `S`oftware
+One of the most significant ways I can think to encourage digital self-determination is to teach you how to use `FLOSS`. No, I don't mean for your teeth and gums, I mean `F`ree/`L`ibre `O`pen-`S`ource `S`oftware.
+
+WordPress is an example of FLOSS, as is hypothes.is, and, this morning, I was saved by another example, Grav.
+
+<details>
+  <summary>How I used FLOSS to save the day - Click to expand</summary>
+   [plugin:content-inject](../../home/_meta-commentary-grav)
+</details>
