@@ -22,4 +22,4 @@ continue_link_as_button: false
 hide_git_sync_repo_link: false
 ---
 
-[plugin:content-inject](../home/_important-reminders)
+[plugin:content-inject](_important-reminders)
