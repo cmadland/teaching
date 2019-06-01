@@ -19,7 +19,7 @@ You are not required to use any particular academic writing style like APA or ML
 
 ### Interactive Learning Resource
 
-If all goes well, I will have your Blueprints assessed and my feedback returned to you by the end of this week. I would suggest that you not make substantive changes to your plans for the *Interactive Learning Resource* until you have my feedback.
+If all goes well, I will have your Blueprints assessed and my feedback returned to you by the end of this week [Done!]. I would suggest that you not make substantive changes to your plans for the *Interactive Learning Resource* until you have my feedback.
 
 You can be working on your first draft of your learning resource so that you can incorporate my feedback next week. `Your first draft is due Sunday, June 9, at the end of week 4.`
 
