@@ -7,7 +7,7 @@ header_image_credit: 'Samuel Mann, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/'
 summary:
     enabled: '1'
-hide_from_post_list: false
+hide_from_post_list: true
 continue_link: true
 hide_git_sync_repo_link: true
 ---
