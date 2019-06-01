@@ -17,7 +17,15 @@ One of the most significant ways I can think to encourage digital self-determina
 
 WordPress is an example of FLOSS, as is hypothes.is, and, this morning, I was saved by another example, Grav.
 
+---
+
 <details>
   <summary>How I used FLOSS to save the day - Click to expand</summary>
    [plugin:content-inject](../../home/_meta-commentary-grav)
 </details>
+
+---
+
+The advantage of FLOSS over proprietary software platforms is that it puts you as the user in control over your stuff. No longer are you required to give up your data in exchange for using software.
+
+This week's reading, `Chapter 6-7 of *Teaching in a Digital Age*` will introduce you to some ideas around the characteristics and pedagogical usefulness of various educational media.
