@@ -19,9 +19,9 @@ You are not required to use any particular academic writing style like APA or ML
 
 ### Interactive Learning Resource
 
-You have all received feedback on your *Interactive Learning Resource* and your first draft is due at the end of this week (June 9). As you work on your draft, make sure you incorporate my feedback from your blueprint. I encourage you to help each other out with suggestions and tips on strategies and tech tools. 
+You have all received feedback on your *Interactive Learning Resource* and your first draft is due at the end of this week (June 9). As you work on your draft, make sure you incorporate my feedback from your blueprint. I encourage you to help each other out with suggestions and tips on strategies and tech tools.
 
-Make sure you are citing your sources. It doesn't matter which format you use, just make sure you acknowledge the source of your ideas. If you have questions about whether or how to cite, *please let me know!* I will always help you. 
+Make sure you cite your sources. It doesn't matter which format you use, just pick one and be consistent. Citing your sources is the way to acknowledge the source of your ideas and say thank you. If you have questions about whether or how to cite, *please let me know!* I will always help you.
 
 # Week 4 Checklist
 Here is a list of things you should have completed this week:
@@ -29,6 +29,7 @@ Here is a list of things you should have completed this week:
 #### How does technology influence learning?<br>
 
 :fa-question-circle:Which technologies are most effective for learning?<br>
-:fa-book:[Teaching in a Digital Age, Ch. 6-7](https://opentextbc.ca/teachinginadigitalage)<br>
+:fa-book: **Skim**[Teaching in a Digital Age, Ch. 6-7](https://opentextbc.ca/teachinginadigitalage)<br>
+;fa-search: [Teaching in Higher Ed](https://teachinginhighered.com/blog/) and filter for Educational Technology. Read a few!<br>
 :fa-wordpress:Blog Post #4<br>
-:fa-inbox: Draft of *Interactive Learning Resource* link or file submitted to CourseSpaces
+:fa-inbox: Draft of *Interactive Learning Resource* link or file submitted to CourseSpaces.
