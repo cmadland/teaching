@@ -30,6 +30,6 @@ Here is a list of things you should have completed this week:
 
 :fa-question-circle:Which technologies are most effective for learning?<br>
 :fa-book: **Skim**[Teaching in a Digital Age, Ch. 6-7](https://opentextbc.ca/teachinginadigitalage)<br>
-;fa-search: [Teaching in Higher Ed](https://teachinginhighered.com/blog/) and filter for Educational Technology. Read a few!<br>
+:fa-search: [Teaching in Higher Ed](https://teachinginhighered.com/blog/) and filter for Educational Technology. Read a few!<br>
 :fa-wordpress:Blog Post #4<br>
 :fa-inbox: Draft of *Interactive Learning Resource* link or file submitted to CourseSpaces.

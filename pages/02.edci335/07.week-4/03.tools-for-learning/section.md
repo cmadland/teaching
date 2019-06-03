@@ -28,4 +28,4 @@ WordPress is an example of FLOSS, as is hypothes.is, and, this morning (Saturday
 
 The advantage of FLOSS over proprietary software platforms is that it puts you as the user in control over your stuff. No longer are you required to give up your data in exchange for using software.
 
-This week's reading, `Chapter 6-7 of *Teaching in a Digital Age*` will introduce you to some ideas around the characteristics and pedagogical usefulness of various educational media and technology.
+This week's reading, `Chapter 6-7 of Teaching in a Digital Age` will introduce you to some ideas around the characteristics and pedagogical usefulness of various educational media and technology.
