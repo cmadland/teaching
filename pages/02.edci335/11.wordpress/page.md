@@ -1,6 +1,6 @@
 ---
 title: WordPress
-published: true
+published: false
 ---
 
 EDCI 335 is hosted in a web platform called WordPress, and you are invited to document your learning in WordPress as well. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.

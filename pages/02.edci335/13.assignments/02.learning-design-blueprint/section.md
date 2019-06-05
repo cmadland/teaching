@@ -9,7 +9,7 @@ hide_git_sync_repo_link: false
 
 This assignment is the first component of your Interactive Learning Resource assignment and must be submitted before you submit the Interactive Learning Resource assignment. The blueprint is a cooperative activity which you will complete with the group you formed during Week 1.
 
-[Cooperative learning is explained in greater detail in the course blog](http://edtechuvic.ca/edci335/?page_id=19&amp;preview=true), so make sure you read that before you begin.
+[Cooperative learning is explained in greater detail here](http://edtechuvic.ca/edci335/cooperative-learning), so make sure you read that before you begin.
 
 In your groups, you need to collectively identify a concept or topic that you want to teach to a group of people. It is strongly recommended that you choose a concept related to your academic major. Once you have identified your concept, you will create a plan for your Interactive Learning Resource, which will be an activity, or series of smaller activities which should take about 1-2 hours to complete. You should divide the work amongst yourselves according to the requirements of the assignment below:
 

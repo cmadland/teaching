@@ -31,11 +31,11 @@ A common model of interaction that has been used extensively in online learning 
 ![](modes-of-interaction-anderson.png)
 
 Anderson highlights three primary modes of interaction in learning environments:
-- student-teacher
-- student-content
+- learner-teacher
+- learner-content
 - teacher-content
 
-In my thesis (Madland, 2014), I suggested that there may be another way to conceptualize learning interactions that highlights the importance of student-student interaction.
+In my thesis (Madland, 2014), I suggested that there may be another way to conceptualize learning interactions that highlights the importance of learner-learner interaction.
 
 <a class="embedly-card" data-card-controls="0" href="http://open.merelearning.ca/ssi/files/2015/05/Structured-Student-Interaction-Model.png">Card</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -48,7 +48,7 @@ As you plan your *Interactive Learning Resource* with your colleagues, you will 
 
 Anderson, T. (2003). Getting the mix right again: An updated and theoretical rationale for interaction. *International Review of Research in Open and Distance Learning, 4*(2), 1–14.
 
-Madland, C. (2014). Structured student interactions in online distance learning: Exploring the study buddy activity (Master’s thesis, Athabasca University). Retrieved from [http://hdl.handle.net/10791/47](http://hdl.handle.net/10791/47)
+Madland, C. (2014). Structured learner interactions in online distance learning: Exploring the study buddy activity (Master’s thesis, Athabasca University). Retrieved from [http://hdl.handle.net/10791/47](http://hdl.handle.net/10791/47)
 
 Wagner, E. D. (1994). In support of a functional definition of interaction. *American Journal of Distance Education, 8*(2), 6–26.
 

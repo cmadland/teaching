@@ -6,6 +6,8 @@ hide_git_sync_repo_link: false
 cache_enable: false
 ---
 
+!!!! Check this page for updates to the schedule.
+
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
 #### What is learning?<br>
@@ -13,9 +15,10 @@ cache_enable: false
 :fa-desktop:[FIPPA](https://www.oipc.bc.ca/guidance-documents/1427)<br>
 :fa-wordpress:**Publish** Self-Introduction Post<br>
 :fa-question-circle:What does it mean to learn something?<br>
+:fa-desktop:[Clarissa Sorenson-Unruh Post](https://clarissasorensenunruh.com/2019/04/20/5r-adult-learning-assignment-learning-the-neuroscience-and-the-neuromyths/)<br>
 :fa-question-circle:How does digital technology influence society? You?<br>
-:fa-book:**Read**[Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-users: Form your cooperative groups.
+:fa-book:**Read** [Teaching in a Digital Age (Ch. 2)](https://opentextbc.ca/teachinginadigitalage)<br>
+:fa-users: Form your cooperative groups.<br>
 :fa-wordpress:**Publish** Blog Post #1 <br>
 
 # [:fa-calendar-o:Week 2 (May 20-26)](http://edtechuvic.ca/edci335/blog/week-2-may-20-26/)<a id="week-2"></a>
@@ -23,13 +26,12 @@ cache_enable: false
 #### How do people learn?<br>
 :fa-question-circle:Why is learning so difficult?<br>
 :fa-question-circle:Why is _interaction_ so important?<br>
-:fa-desktop:[Clarissa Sorenson-Unruh Post](https://clarissasorensenunruh.com/2019/04/20/5r-adult-learning-assignment-learning-the-neuroscience-and-the-neuromyths/)<br>
 :fa-youtube:[Backwards Bicycle](https://www.youtube.com/watch?v=MFzDaBzBlL0)<br>
 :fa-book:[Teaching in a Digital Age (Ch. 3-4)](https://opentextbc.ca/teachinginadigitalage)<br>
-:fa-pencil:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
-:fa-wordpress:Blog Post #2<br>
+:fa-inbox:[Learning Design Blueprint (15%)](http://edtechuvic.ca/edci335/assignments/learning-design-blueprint/)<br>
+:fa-wordpress: Blog Post #2<br>
 
-# [:fa-calendar-o:Week 3 (May 27 - June 2)](http://edtechuvic.ca/edci335/blog/week-3-may-27-june-2/)<a id="week-3"></a>
+# [:fa-calendar-o:Week 3 (May 27 - June 2)](https://edtechuvic.ca/edci335/blog/designing-learning-experiences/)
 
 #### What is involved with designing learning experiences?<br>
 :fa-youtube:[Teaching teaching and understanding understanding](https://youtu.be/iMZA80XpP6Y)<br>

@@ -1,7 +1,7 @@
 ---
-title: 'Welcome'
+title: Welcome
 published: true
-date: '09-05-2018 00:00'
+date: '09-05-2019 00:00'
 header_image_file: /edci335/home/week-01/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
 header_image_credit: 'Flickr User @serdarkaya'
@@ -66,6 +66,8 @@ You can also find some key things in CourseSpaces such as the course syllabus an
 I have posted my contact info in CourseSpaces.
 
 !! You will not find any course updates in CourseSpaces. Make sure you check here!
+
+!!!! In order to ensure that you receive notifications of updates, please scroll to the bottom of this page, enter your preferred email address, and click 'Subscribe'.
 
 ### Things to do this week!
 

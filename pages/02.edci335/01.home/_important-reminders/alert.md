@@ -5,9 +5,13 @@ published: true
 visible: true
 ---
 
-# Welcome
+# Update!
+Updated Monday, June 3.
 
-- EDCI 335 will start on Monday, May 13.
-- There are no textbooks to purchase for this course.
-- I will post instructions for accessing course materials here shortly before the beginning of the course.
-- Looking forward to meeting you all! ~Colin
+- Blueprints are graded! Check CourseSpaces for feedback.
+- Items due this week:
+  - Blog Post #4
+- edtechuvic.ca/edci335 was down for a while on Saturday. Sorry about that (from our web host).
+- Week 4 materials are posted!
+
+[twitter url="https://twitter.com/CWHupdates" text="Updates from our Web Host" height="600"]

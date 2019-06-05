@@ -26,3 +26,7 @@ In order to **reflect** on your experience, you will need to document your learn
 Sharing your experience will be based on the data that you gather and will take place on your blog. Please narrate your experience for the rest of the class. Tell us about your process. How did you plan your learning? How did you work through challenges? Is is better to practice alone or with someone else? If you practice with someone else, is it more helpful if they are more skilled than you? Share your data with us! You don't need to become a YouTube or Instagram influencer through this process, so don't worry too much if the media you share isn't sparkly and slickly produced. It is expected that this will be a formative process, meaning you will be really bad at the beginning, and more skilled at the end.
 
 The most important part of this activity is for you to connect your learning process to what you are learning in this class about learning and learning design. It's all very meta.
+
+Each of your 5 graded blog posts (due at the end of weeks 1-4 and 6) will be about your learning challenge and are worth 7% of your final grade *each* for a total of 35% *collectively*.
+
+To ensure that I am notified of your posts, please post a link to each post in the appropriate [assignment dropbox in CourseSpaces](https://coursespaces.uvic.ca).
