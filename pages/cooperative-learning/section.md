@@ -1,5 +1,5 @@
 ---
-title: 'Topic 2'
+title: 'Cooperative Learning'
 ---
 
 ### Cooperative Learning
