@@ -27,5 +27,5 @@ You must include the following in your resource:
   - Use whatever citation format you are comfortable with (APA, MLA, etc) but please be consistent throughout.
 - The following pages separate from your learning resource
   - A rationale for your technology choices;
-  - links to each peer review of your resource
-  - a rationale for why you did or did not incorporate your peers recommendations into your final resource
+  - links to each peer review of your resource (only in the final draft)
+  - a rationale for why you did or did not incorporate your peers recommendations into your final resource (only in the final draft)
