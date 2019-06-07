@@ -49,6 +49,14 @@ form:
                 validate:
                     type: bool
 
+            header.git_sync_repo_link_text:
+                type: input.text
+                size: medium
+                label: 'Custom Git Sync Link Text'
+                description: 'Link text, e.g. ''View Page on GitHub''.'
+                validate:
+                    type: text
+
             header.git_sync_repo_link:
                 type: text
                 size: large
@@ -63,6 +71,28 @@ form:
           title: Sections Pages
 
           fields:
+
+            header.content.items:
+              type: hidden
+              default: '@self.children'
+
+            header.content.order.by:
+              type: select
+              label: Order By
+              default: date
+              options:
+                folder: Folder
+                title: Title
+                date: Date
+                default: Default
+
+            header.content.order.dir:
+              type: select
+              label: Order
+              default: asc
+              options:
+                asc: Ascending
+                desc: Descending
 
             appearance:
               type: section
