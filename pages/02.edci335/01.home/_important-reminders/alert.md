@@ -5,13 +5,9 @@ published: true
 visible: true
 ---
 
-# Update!
-Updated Monday, June 3.
+# PLEASE NOTE!
+Updated Friday, June 7.
 
-- Blueprints are graded! Check CourseSpaces for feedback.
-- Items due this week:
-  - Blog Post #4
-- edtechuvic.ca/edci335 was down for a while on Saturday. Sorry about that (from our web host).
-- Week 4 materials are posted!
-
-[twitter url="https://twitter.com/CWHupdates" text="Updates from our Web Host" height="600"]
+- I've discovered a discrepancy between the due dates published on the 'Schedule' and the dropbox in CourseSpaces. The first draft of your Interactive Learning Resource is listed as being due this Sunday, June 9 in CourseSpaces, but due next Sunday, June 16 on the schedule.
+- If you had planned to complete it this week, that is fine, but you may also submit anytime up until Sunday, June 16.
+- This is my error, and I apologize. 
