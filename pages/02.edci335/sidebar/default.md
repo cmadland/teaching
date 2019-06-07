@@ -5,7 +5,6 @@ visible: false
 position: top
 ---
 
-[plugin:content-inject](/edci335/home/_important-reminders)
 
 # EDCI 335 - Learning Design
 
