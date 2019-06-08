@@ -49,10 +49,12 @@ cache_enable: false
 # [:fa-calendar-o:Week 5 (Jun 10-16)](http://edtechuvic.ca/edci335/blog/week-5-june-10-16/)<a id="week-5"></a>
 
 #### How is learning assessed?<br>
-:fa-question-circle:Why is *reflection* important for learning?<br>
-:fa-book:[Teaching in Blended Learning Environments, Ch. 5](http://aupress.ca/index.php/books/120229)<br>
-:fa-pencil:[Interactive Learning Resource - Draft](http://edtechuvic.ca/edci335/interactive-learning-resource)<br>
-:fa-wordpress:No blog post this week.<br>
+:fa-question-circle: Why is *reflection* important for learning?<br>
+#### **SUGGESTED Resources,** don't try to read all of these chapters.
+:fa-book: [Teaching in Blended Learning Environments, Ch. 5](http://aupress.ca/index.php/books/120229)<br>
+:fa-book: [Assessment Strategies for Online Learning: Engagement and Authenticity, Ch 5, 6, 8, 9](http://aupress.ca/index.php/books/120279)
+:fa-pencil: [Interactive Learning Resource - Draft](http://edtechuvic.ca/edci335/interactive-learning-resource)<br>
+:fa-wordpress: No blog post this week.<br>
 
 
 # [:fa-calendar-o:Week 6 (Jun 17-23)](http://edtechuvic.ca/edci335/blog/week-6-june-17-23/)<a id="week-6"></a>
