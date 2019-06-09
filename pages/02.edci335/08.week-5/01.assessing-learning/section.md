@@ -28,7 +28,7 @@ There are some resources below related to assessment in online learning contexts
 :fa-check: [Assessment Strategies for Online Learning, Chapter 1, pg 11-20](http://aupress.ca/books/120279/ebook/01_Conrad_Openo_2018-Assessment_Strategies_for_Online_Learning.pdf)<br>
 :fa-check: [Assessment Strategies for Online Learning, Chapter 5](http://aupress.ca/books/120279/ebook/05_Conrad_Openo_2018-Assessment_Strategies_for_Online_Learning.pdf)<br>
 :fa-check: [Assessment Strategies for Online Learning, Chapter 8](http://aupress.ca/books/120279/ebook/08_Conrad_Openo_2018-Assessment_Strategies_for_Online_Learning.pdf)<br>
-:fa-check: [Assessment Strategies for Online Learning, Chapter 9](http://aupress.ca/books/120279/ebook/09_Conrad_Openo_2018-Assessment_Strategies_for_Online_Learning.pdf)
+:fa-check: [Assessment Strategies for Online Learning, Chapter 9](http://aupress.ca/books/120279/ebook/09_Conrad_Openo_2018-Assessment_Strategies_for_Online_Learning.pdf)<br>
 :fa-check: [What is Open Pedagogy (Blog Post)](https://opencontent.org/blog/archives/2975)
 
 !!!! There is no blog post due this week! I'd like you to be able to focus on putting your best effort into this first draft of your Interactive Learning Resource.
