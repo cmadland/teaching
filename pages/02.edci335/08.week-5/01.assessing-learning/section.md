@@ -36,3 +36,5 @@ There are some resources below related to assessment in online learning contexts
 I encourage you to make a concerted effort to have your draft submitted by Sunday evening so that you can get some feedback from your colleagues in week 6. Then at the end of week 7, you will submit your final drafts of your resources.
 
 Please be in touch if you have any questions at all!
+
+---
