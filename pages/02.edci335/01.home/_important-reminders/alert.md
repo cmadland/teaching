@@ -5,9 +5,9 @@ published: true
 visible: true
 ---
 
-# PLEASE NOTE!
-Updated Friday, June 7.
+# Updates
+Updated Monday, June 10.
 
-- I've discovered a discrepancy between the due dates published on the 'Schedule' and the dropbox in CourseSpaces. The first draft of your Interactive Learning Resource is listed as being due this Sunday, June 9 in CourseSpaces, but due next Sunday, June 16 on the schedule.
-- If you had planned to complete it this week, that is fine, but you may also submit anytime up until Sunday, June 16.
-- This is my error, and I apologize. 
+- I'll have your posts 2-4 graded by the end of this week.
+- Please have your draft `Interactive Learning Resource` submitted to the dropbox in CourseSpaces by Sunday, June 16 `AND` as a link on your blog so that your colleagues can access it for peer review.
+- There is no blog post due this week.
