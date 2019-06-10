@@ -5,7 +5,7 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-This is the final official topic in this course, and it is an important one. In higher ed, there is an expectation that student work will be of sufficient academic quality,  often called 'rigour'. This is why the University of Victoria publishes the grading standards in every syllabus, and why I also published information about the SOLO Taxonomy.
+This is the final official topic in this course, and it is an important one. In higher ed, there is an expectation that student work will be of sufficient academic quality,  often called 'rigour'. This is why the University of Victoria publishes the grading standards in every syllabus, and why I also published information about the SOLO Taxonomy. There needs to be a comparison of learners' work against a pre-established standard, in a process known as assessment.
 
 The key idea, as we talked about in Week 2, is that there needs to be alignment between the learning outcomes for the course and the activities in which learners engage to demonstrate their attainment of the learning outcomes. So if one of your learning outcomes relates to critical thinking, then the assessment of that learning outcome must require the learner to demonstrate the ability to think critically.
 
@@ -13,7 +13,7 @@ There are a few things I'd like for you to take away from this week.
 
 - a refresher on constructive alignment,
 - the difference between `formative` and `summative` assessment
-- some practical assessment strategies that you can implement in your learning resources.
+- some practical assessment strategies that you can implement in your interactive learning resources.
 
 Your primary work this week is to finish your draft interactive learning resource and make sure that you have the following:
 
