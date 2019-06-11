@@ -16,7 +16,9 @@ Hello Everyone!
 
 I'll post thoughts and links here on Posts 2-3. I really encourage you to check out some of your colleagues' challenges. You are doing some really cool things!
 
-Check for grades in CourseSpaces.
+I'll post grades in CourseSpaces by the end of the week and will continue to update this post as I read through your blogs!
+
+! One general note on your posts is to ensure that you should not summarizing the readings for me. I've already read them. I want to see the ideas from the readings incorporated into your posts.
 
 ---
 
@@ -76,7 +78,7 @@ Serena, great job on your video and the pictures showing your progress! Your des
 <a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/haomingzhang/">edci335</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Haoming, thank you for your posts! I'd love to hear how your wonton-making went! Learning to play the piano is another great task for the challenge, and a great way to spend time with your friends. It look slike you have some good strategies for learning, like understanding the history of the piano, and getting lots of practice. Will you share a video of your progress?
+Haoming, thank you for your posts! I'd love to hear how your wonton-making went! Learning to play the piano is another great task for the challenge, and a great way to spend time with your friends. It looka like you have some good strategies for learning, like understanding the history of the piano, and getting lots of practice. Will you share a video of your progress?
 
 ---
 
@@ -85,7 +87,7 @@ Haoming, thank you for your posts! I'd love to hear how your wonton-making went!
 
 mmmm...rib-eye and burgers, oh my! (sorry)
 
-Your problem of leaving too much meat stuck to the grill might be solved by having a nice clean grate. My grill has a good quality stainless stell grate and it is great for staying non-stick. I've also started grilling a lower temperature and that helps meat not stick as well. Adding pork will also help! I often use chorizo sausage to add to lean or medium ground beef. Don't use extra-lean...dry and flavourless.
+Your problem of leaving too much meat stuck to the grill might be solved by having a nice clean grate. My grill has a good quality stainless steel grate and it is great for staying non-stick. I've also started grilling a lower temperature and that helps meat not stick as well. Adding pork will also help! I often use chorizo sausage to add to lean or medium ground beef. Don't use extra-lean...dry and flavourless.
 
 Great job on your posts! I'll be grilling some chicken tonight!
 
@@ -109,6 +111,7 @@ Thanks for your posts Huiyu! Driving a car with a manual transmission is one of 
 
 <a class="embedly-card" data-card-controls="0" href="https://xuewang.home.blog/">Xue Wang's Blog</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 
 Xue, thanks for your posts! I appreciate that you say that your learning plan will change based on the week's readings! It looks like your careful planning led to some yummy eggs!
 
@@ -159,5 +162,14 @@ Boyin, thank you for your posts. It would be great if you could share pictures o
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Jack, your steak looks like a prefect medium-rare! nice job. Your burger looks great too. Thanks for your clear description of your process and some of the challenges you' have faced.
+
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/chelseacrawfordedci335/">Chelsea Crawford</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Chelsea, it is really great to see your progress through your painting, but also thinking about teaching and learning as you do so. The pictures of not only your actual paintings, but of a little context of where you are working and what your setup is really add to the overall quality of your posts. Thank you for sharing!
+
 
 ---

@@ -1,3 +1,202 @@
+# v2.4.7
+## 06/10/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.4.6
+## 06/08/2019
+
+1. [](#improved)
+    * Fixed template for display of latest content item
+
+# v2.4.5
+## 06/08/2019
+
+1. [](#new)
+    * MultiCourse Hubs that support grouped (i.e. by term) courses
+1. [](#improved)
+    * Sections pages are now supported within a parent folder
+    * Improved path to theme Admin Editor Buttons
+    * Updated demo pages in theme '_demo' folder
+
+# v2.4.4
+## 06/05/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.4.3
+## 06/05/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.4.2
+## 06/04/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.4.1
+## 06/04/2019
+
+1. [](#bugfix)
+    * Restored missing open bracket for Git Sync Link with Presentations
+
+# v2.4.0
+## 06/03/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.3.9
+## 06/03/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.3.8
+## 06/03/2019
+
+1. [](#new)
+    * Added option to hide Presentation title
+1. [](#improved)
+    * Restored default for new Presentations to not automatically display Git Sync link when embedded
+    * Updated demo pages in theme '_demo' folder
+
+# v2.3.7
+## 06/01/2019
+
+1. [](#improved)
+    * Changed default for new Presentations to not automatically display Git Sync link when embedded
+    * Updated demo pages in theme '_demo' folder
+
+# v2.3.6
+## 05/31/2019
+
+1. [](#improved)
+    * Improved display of iFrame template items with associated text labels
+
+# v2.3.5
+## 05/31/2019
+
+1. [](#improved)
+    * Made iFrame Shortcode more compatible with Markdown Extra
+
+# v2.3.4
+## 05/31/2019
+
+1. [](#bugfix)
+    * Corrected path to theme Shortcodes
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.3.3
+## 05/18/2019
+
+1. [](#improved)
+    * Additional support for Alt tag on blog post header images (no longer requires image credit link)
+
+# v2.3.2
+## 05/16/2019
+
+1. [](#bugfix)
+    * Display of custom git sync text fixed to work with "View Git Repository" functionality
+
+# v2.3.1
+## 05/16/2019
+
+1. [](#improved)
+    * Updated page blueprints with custom Git Sync URLs
+
+# v2.3.0
+## 05/15/2019
+
+1. [](#bugfix)
+    * Fixed the handling of custom Git Sync URLs on pages
+
+# v2.2.9
+## 05/15/2019
+
+1. [](#new)
+    * Added additional Presentation templates to only display title or title + link of Presentation
+    * Added automatic Git Sync Link support for embedded Presentations
+1. [](#improved)
+    * Links of embedded background images in Presentations are automatically opened in a new Browser window
+    * Updated demo pages in theme '_demo' folder
+
+# v2.2.8
+## 05/14/2019
+
+1. [](#improved)
+    * Improved presentation of a single iFrame template link
+
+# v2.2.7
+## 05/10/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.2.6
+## 05/09/2019
+
+1. [](#improved)
+    * Additional support of the alias 'embedded' for 'chromeless'
+    * Updated demo pages in theme '_demo' folder
+
+# v2.2.5
+## 05/08/2019
+
+1. [](#improved)
+    * Renamed Custom Content List template and blueprint to Custom Page Types
+    * Updated demo pages in theme '_demo' folder
+
+# v2.2.4
+## 05/07/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.2.3
+## 05/05/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.2.2
+## 05/04/2019
+
+1. [](#improved)
+    * Added default page collection frontmatter for new Sections and Presentations pages
+    * Added sort options and order for Sections pages
+
+# v2.2.1
+## 05/04/2019
+
+1. [](#improved)
+    * Improved support for custom Git Sync Link text on individual pages
+
+# v2.2.0
+## 05/04/2019
+
+1. [](#bugfix)
+    * Fixed an incorrect references to site config setting (which should have been theme config)
+
+# v2.1.9
+## 05/03/2019
+
+1. [](#new)
+    * Improved layout of Presentation list pages
+
+# v2.1.8
+## 05/03/2019
+
+1. [](#new)
+    * Initial support for Presentation list pages
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
 # v2.1.7
 ## 05/02/2019
 
