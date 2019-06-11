@@ -78,7 +78,7 @@ Serena, great job on your video and the pictures showing your progress! Your des
 <a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/haomingzhang/">edci335</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Haoming, thank you for your posts! I'd love to hear how your wonton-making went! Learning to play the piano is another great task for the challenge, and a great way to spend time with your friends. It look slike you have some good strategies for learning, like understanding the history of the piano, and getting lots of practice. Will you share a video of your progress?
+Haoming, thank you for your posts! I'd love to hear how your wonton-making went! Learning to play the piano is another great task for the challenge, and a great way to spend time with your friends. It looka like you have some good strategies for learning, like understanding the history of the piano, and getting lots of practice. Will you share a video of your progress?
 
 ---
 
