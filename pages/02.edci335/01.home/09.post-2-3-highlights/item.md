@@ -16,7 +16,7 @@ Hello Everyone!
 
 I'll post thoughts and links here on Posts 2-3. I really encourage you to check out some of your colleagues' challenges. You are doing some really cool things!
 
-Check for grades in CourseSpaces.
+I'll post grades in CourseSpaces by the end of the week.
 
 ---
 
@@ -85,7 +85,7 @@ Haoming, thank you for your posts! I'd love to hear how your wonton-making went!
 
 mmmm...rib-eye and burgers, oh my! (sorry)
 
-Your problem of leaving too much meat stuck to the grill might be solved by having a nice clean grate. My grill has a good quality stainless stell grate and it is great for staying non-stick. I've also started grilling a lower temperature and that helps meat not stick as well. Adding pork will also help! I often use chorizo sausage to add to lean or medium ground beef. Don't use extra-lean...dry and flavourless.
+Your problem of leaving too much meat stuck to the grill might be solved by having a nice clean grate. My grill has a good quality stainless steel grate and it is great for staying non-stick. I've also started grilling a lower temperature and that helps meat not stick as well. Adding pork will also help! I often use chorizo sausage to add to lean or medium ground beef. Don't use extra-lean...dry and flavourless.
 
 Great job on your posts! I'll be grilling some chicken tonight!
 
