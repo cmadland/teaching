@@ -16,7 +16,7 @@ Hello Everyone!
 
 I'll post thoughts and links here on Posts 2-3. I really encourage you to check out some of your colleagues' challenges. You are doing some really cool things!
 
-I'll post grades in CourseSpaces by the end of the week.
+I'll post grades in CourseSpaces by the end of the week and will continue to update this post as I read through your blogs!
 
 ---
 
