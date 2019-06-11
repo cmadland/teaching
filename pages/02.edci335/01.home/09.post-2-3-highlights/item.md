@@ -106,3 +106,58 @@ I appreciate how you are using featured images on your blog! They make a big dif
 Thanks for your posts Huiyu! Driving a car with a manual transmission is one of the frustrating rites of passage for new (and old) drivers. Good job with sharing your journey so far. I appreciate my car because it has a hill-start assist feature that automatically holds the car from rolling back on a hill.
 
 ---
+
+<a class="embedly-card" data-card-controls="0" href="https://xuewang.home.blog/">Xue Wang's Blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Xue, thanks for your posts! I appreciate that you say that your learning plan will change based on the week's readings! It looks like your careful planning led to some yummy eggs!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://cooperfargeyedci355.home.blog/">Cooper Fargey EDCI335</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Hey Cooper, stay safe in your travels! I like how you connected the Veritasium video with inflexible culinary tastes! That's a connection I hadn't thought of before.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://liam.art.blog/">LiamC</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Thanks for sharing Liam! It's good to hear that you are taking care of yourself. Please do reach out if you need assistance! I like your plan for building a healthier lifestyle.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://jessicahou.home.blog/">EDCI 335</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Jessica, if you made the cookies at the bottom of post #2, those look fantastic! Are the yellow ones icing? You said something interesting in your post:
+
+> For the third time, instead of watching instructional video on Youtube, I connected with my friend video and had her teach me how to make cookies face to face.
+
+This is interesting to me because many people who currently teach in higher ed wouldn't think that a video connection would be considered face-to-face, but you are accustomed to it, so it seems natural.
+
+And thank you for posting your 'failed' chiffon cakes. Although it's not a failure if you can still eat it!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://theyearntolearn.home.blog/">EDCI 335 - Learning Design</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Great posts, Thom! It's cool that Destin's video on the backwards bike resonated so well with your challenge. There are several great iOS and Android apps available that will track a whole load of data for you, if you're interested in such things. I use Strava.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://boyinedci335.home.blog/">edci335</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Boyin, thank you for your posts. It would be great if you could share pictures or video of what you are trying to cook. Can you share more about what you are doing to learn to cook?
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://chechiliu.home.blog/">Jack's blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Jack, your steak looks like a prefect medium-rare! nice job. Your burger looks great too. Thanks for your clear description of your process and some of the challenges you' have faced.
+
+---
