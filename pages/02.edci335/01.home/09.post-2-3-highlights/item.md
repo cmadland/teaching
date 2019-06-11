@@ -18,6 +18,8 @@ I'll post thoughts and links here on Posts 2-3. I really encourage you to check 
 
 I'll post grades in CourseSpaces by the end of the week and will continue to update this post as I read through your blogs!
 
+! One general note on your posts is to ensure that you should not summarizing the readings for me. I've already read them. I want to see the ideas from the readings incorporated into your posts.
+
 ---
 
 <a class="embedly-card" data-card-controls="0" href="https://alexdeweert.home.blog/">alexdeweert.home.blog</a>
@@ -104,5 +106,12 @@ I appreciate how you are using featured images on your blog! They make a big dif
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Thanks for your posts Huiyu! Driving a car with a manual transmission is one of the frustrating rites of passage for new (and old) drivers. Good job with sharing your journey so far. I appreciate my car because it has a hill-start assist feature that automatically holds the car from rolling back on a hill.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://xuewang.home.blog/">Xue Wang's Blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Xue, thanks for your posts! It is great to see that you are learning abut safe food handling, and I love how you've integrated videos and are thinking about ow video can help you learn.
 
 ---
