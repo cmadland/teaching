@@ -115,3 +115,10 @@ Thanks for your posts Huiyu! Driving a car with a manual transmission is one of 
 Xue, thanks for your posts! It is great to see that you are learning abut safe food handling, and I love how you've integrated videos and are thinking about ow video can help you learn.
 
 ---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/chelseacrawfordedci335/">Chelsea Crawford</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Chelsea, it is really great to see your progress through your painting, but also thinking about teaching and learning as you do so. The pictures of not only your actual paintings, but of a little context of where you are working and what your setup is really add to the overall quality of your posts. Thank you for sharing!
+
+---
