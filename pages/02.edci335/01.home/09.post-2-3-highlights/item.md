@@ -113,7 +113,7 @@ Thanks for your posts Huiyu! Driving a car with a manual transmission is one of 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
-Xue, thanks for your posts! I appreciate that you say that your learning plan will change based on the week's readings! It looks like your careful planning led to some yummy eggs!
+Xue, thanks for your posts! I appreciate that you say that your learning plan will change based on the week's readings! It looks like your careful planning led to some yummy eggs and chicken wings!
 
 ---
 
@@ -171,5 +171,61 @@ Jack, your steak looks like a prefect medium-rare! nice job. Your burger looks g
 
 Chelsea, it is really great to see your progress through your painting, but also thinking about teaching and learning as you do so. The pictures of not only your actual paintings, but of a little context of where you are working and what your setup is really add to the overall quality of your posts. Thank you for sharing!
 
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://edci335.home.blog/">edci335</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Andrew, thanks for your posts! There is nothing like an impending move to get your creative mojo going! You are right about language learning; you need to practice, practice, practice. And it may not make much sense until you have actually moved. Keep at it! To me, it sounds like, by post #4, you had developed a base of 'knowledge' using web resources, but interacting with people is leading to greater 'understanding'. Both play a role.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://renyuzhengblog.home.blog/">RenyuZheng'BLOG</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Renyu, I find that I am really invested in helping you find a way to make a chiffon cake! You I wonder if your oven is displaying temperatures in fahrenheit rather than celsius, which would mean the temperatures you are using are less than half what they should be. Also, my Mom always told me not to open the oven and peek when cooking a cake, otherwise it will come out flat...thanks for sharing!
+
+ ---
+
+ <a class="embedly-card" data-card-controls="0" href="https://andrewabuleal.home.blog/">Andrew Abuleal's Home Blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Andrew, it's great to learn of your progress, and it sounds like you are getting some quality time with your mom as well...win/win! Great thinking to install the Arabic keyboard on your phone and use that to compose messages to your parents as well. It's cool to see people innovating like this to solve small challenges!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://erikyu.home.blog/">Erik Yu</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Erik, thanks for your posts. You have some good thoughts on the intersection of ed tech and learning motor skills, like shooting a basketball. Web technologies can certainly help, but it take lots of physical practice for you to actually encode the proper movements. Do you think that greater computational power and 'better' algorithms will solve the problems with Knewton, or is there more to consider?
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://yanazhang.home.blog/">Yana</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Hi Yana, you noted in post 2 that ch 3-4 don't mention incentives, and that is an interesting observation. I think it depends on the nature of the incentive, as [some people see incentives as demotivating](https://www.alfiekohn.org/punished-rewards/). I appreciate how you mention the importance of immediate feedback that you get in face-to-face environments.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://watermelon.news.blog/">The Agave</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Thanks for sharing your progress DipsyLovesAvocado. Flight of the Bumblebee is certainly an ambitious goal. It would be impossible for me! I haven't had a piano lesson in almost 40 years. I appreciate how, especially in post #3, you integrated deep and surface approaches to learning in a natural way. It is a good idea to ensure that you provide some sort of recognition of where those ideas come from, ususally with a link on a website.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/edci335julia/">Julia's Blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Julia, your progress is fantastic, and you get some quality time with Carl! You have done a great job of incorporating images into your posts and it makes it really clear how important flexibility is in yoga. While it can be intimidating sometimes to talk about what things are going wrong, it's also really helpful to do so! Thanks for sharing!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://sukhsamra.opened.ca/2019/05/18/learning-experience/">Learning Experience - Sukh's blog - EDCI 335</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Sukh, noce to see you making progress on your muscle-ups! Your plans seem solid (especially not skipping leg day!) and it's good that you are getting a good amount of rest.
 
 ---
