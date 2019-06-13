@@ -98,7 +98,7 @@ Great job on your posts! I'll be grilling some chicken tonight!
 
 Hi Chloe, thanks for sharing your thoughts with us! Making things interesting and engaging is not only a good strategy for becoming more active, but it also works as a strategy for learning all sorts of things. Doggos make everything better! ...and your garden looks amazing!
 
-I appreciate how you are using featured images on your blog! They make a big difference!
+I appreciate how you are using featured images on your blog! They make a big difference! Great job on the dyno! Thanks for the video.
 
 ---
 
@@ -161,7 +161,7 @@ Boyin, thank you for your posts. It would be great if you could share pictures o
 <a class="embedly-card" data-card-controls="0" href="https://chechiliu.home.blog/">Jack's blog</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Jack, your steak looks like a prefect medium-rare! nice job. Your burger looks great too. Thanks for your clear description of your process and some of the challenges you' have faced.
+Jack, your steak looks like a prefect medium-rare! nice job. Your burger looks great too. Thanks for your clear description of your process and some of the challenges you have faced.
 
 
 ---
@@ -226,6 +226,34 @@ Julia, your progress is fantastic, and you get some quality time with Carl! You 
 <a class="embedly-card" data-card-controls="0" href="https://sukhsamra.opened.ca/2019/05/18/learning-experience/">Learning Experience - Sukh's blog - EDCI 335</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Sukh, noce to see you making progress on your muscle-ups! Your plans seem solid (especially not skipping leg day!) and it's good that you are getting a good amount of rest.
+Sukh, nice to see you making progress on your muscle-ups! Your plans seem solid (especially not skipping leg day!) and it's good that you are getting a good amount of rest.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/alexyu/">Alex Yu's EDCI 335 blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Alex, thanks for your play-by-play of your adventures in bread-making. I appreciate you connecting Reddit with Lave and Wenger's idea of Community of Practice. In fact, one of the most influential open online courses, [ds106](https://ds106.us), was inspired by an online knitting community called [Ravelry](https://www.ravelry.com). I'm looking forward to your next attempt, and wish I could act as some quality control for you! Also, nice shout-out to [Chloe for her contribution!](https://chloesplace.home.blog/).
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineuvic.home.blog/">Rythm's Blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Rythm, good on you for practicing some knife skills before getting going with this. Knife skills and a good sharp knife make cooking so much more enjoyable! I absolutely agree with your decision to not let the bread get too soggy for french toast. My mom used to do that and we would have bread soaked in uncooked egg for breakfast. Bleh.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://techlearn.home.blog/">Digital Learning</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Tyler, thanks for your detailed posts! I appreciate your use of formatting to make them easier to follow! Are you doing that with Markdown? HTML? a plugin? I'd love to hear.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://coconutwater.home.blog">Avocado Smoothie</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Alice, thanks for your posts! For some reason, your images aren't showing when I look at your site. Can you see them? The highs and lows of your experience make for compelling reading. I was really rooting your you and your fettuccine! It is possible that the chicken broth that you added to the sauce made it too salty, rather than the butter.
 
 ---
