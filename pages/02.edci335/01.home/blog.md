@@ -23,7 +23,3 @@ hide_git_sync_repo_link: false
 ---
 
 [plugin:content-inject](/edci335/home/_important-reminders)
-
-A Twitter thread about assessment.
-
-https://twitter.com/actualham/status/1139231519602401280
