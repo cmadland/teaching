@@ -247,7 +247,7 @@ Rythm, good on you for practicing some knife skills before getting going with th
 <a class="embedly-card" data-card-controls="0" href="https://techlearn.home.blog/">Digital Learning</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-Tyler, thanks for your detailed posts! I appreciate your use of formatting to make them easier to follow! Are you doing that with Markdown? HTML? a plugin? I'd love to hear.
+Tyler, thanks for your detailed posts! I appreciate your use of formatting to make them easier to follow! Are you doing that with Markdown? HTML? a plugin? I'd love to hear. Being able to maintain a bike is a great way to save a ton of money!
 
 ---
 
@@ -257,3 +257,34 @@ Tyler, thanks for your detailed posts! I appreciate your use of formatting to ma
 Alice, thanks for your posts! For some reason, your images aren't showing when I look at your site. Can you see them? The highs and lows of your experience make for compelling reading. I was really rooting your you and your fettuccine! It is possible that the chicken broth that you added to the sauce made it too salty, rather than the butter.
 
 ---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/karencheunggggg/">Welcome to Karen's BLOG :D</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Karen, thanks for sharing your journey of learning Korean. An important thing to remember about surface learning in the SOLO taxonomy is that sometimes it is appropriate to memorize isolated facts. Language learning is a good example where you are trying to memorize the Korean Hangul. Although memorization is a low-level cognitive skill, it is not a surface approach in this case because a low-level cognitive skill is what is required for the task.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/kat335/">University of Victoria - Sign in Service</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Katja, thanks for sharing your progress and your process so far in this challenge. Even to my untrained eye, there is a noticeable difference in your drills; even on a single page (like the loops!).
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/adogsproject/2019/05/23/blog-post-2-learning-challenge/">University of Victoria - Sign in Service</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Noor, your adventures in baking seem delicious! Can you tell me about how the readings informed your practice over the last couple weeks? I've never heard of Injera, but it looks delicious!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/uvicthebest/">University of Victoria - Sign in Service</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Thanks for sharing your process related to your group's work on the blueprint and learning resource. Reflecting on the process itself is an excellent way to improve your effectiveness as a (member of a) group as you work towards the goals.
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/335blog/">University of Victoria - Sign in Service</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
