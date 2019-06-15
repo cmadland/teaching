@@ -288,3 +288,21 @@ Thanks for sharing your process related to your group's work on the blueprint an
 
 <a class="embedly-card" data-card-controls="0" href="https://onlineacademiccommunity.uvic.ca/335blog/">University of Victoria - Sign in Service</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Iris, thank you for your posts! It is very interesting to see how people can create different effects with nail art!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://onlineblog.art.blog/">yuchen's Blog - EDCI335</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Yuchen, great work! Thank you for including videos of your progress in your posts, it adds a lot. I think your learning strategy of reaching out to your mother, even though she is far away, is a good one!
+
+---
+
+<a class="embedly-card" data-card-controls="0" href="https://isabeldalm.home.blog/">Isabel's blog</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Isabel, your art project is great! Thanks for including pictures. There are definitely advantages to synchronous learning environments for many people. Immediate feedback is difficult in an asynchronous environment.
+
+---
