@@ -17,7 +17,7 @@ content:
 
 Ok, it's the final stretch, and there are several assessments due over the next couple of weeks.
 
-## Peer Reviews
+## :fa-pencil:Peer Reviews
 
 This week (June 17-23) is an opportunity for you to explore the resources that your peers created and provide some substantive feedback. The feedback that you provide will be used by the other group as they refine their Interactive Learning Resources next week, and it will be submitted to me as 10% of `your` final grade.
 
@@ -60,7 +60,7 @@ Here are the details of the assignment, embedded from the `Assignments` page.
 
 [plugin:content-inject](/edci335/assignments/peer-review)
 
-## Blog Post 5
+## :fa-wordpress:Blog Post 5
 
 Also due on Sunday is your final blog post of the course. This post should be a summary of your experience during your learning challenge including things that worked well, and what didn't work well. As always, make sure you draw connections between your experience and the readings throughout the course. I encourage you to refer back to previous posts through hyperlinks or other methods of embedding content.
 
