@@ -17,9 +17,11 @@ content:
 
 Ok, it's the final stretch, and there are several assessments due over the next couple of weeks.
 
+## Peer Reviews
+
 This week (June 17-23) is an opportunity for you to explore the resources that your peers created and provide some substantive feedback. The feedback that you provide will be used by the other group as they refine their Interactive Learning Resources next week, and it will be submitted to me as 10% of `your` final grade.
 
-Your review will `NOT` be considered as part of your peers' grade.
+Your review will `NOT` be considered as part of your peers' grades.
 
 ### Logistics
 
@@ -31,6 +33,9 @@ To determine whose resource you will review, please sign into CourseSpaces and c
 - Each `individual` will review the resource created by the `group` immediately below them on the list.
   - There are a couple of you working on your own. Please consider yourselves a part of group 5 with Cooper, so that Group 6 receives more than one review.
   - In the end, each group will receive 3-4 reviews.
+- The group at the bottom of the list on Tuesday morning will review Group 1's resource. This will ensure that people who may not be on the list yet have an opportunity to add their names.
+
+!!!! Please let me know as soon as possible if you have questions!
 
 ### Notes on Collegiality
 
@@ -54,3 +59,25 @@ Reviews that criticize the people that created the resource will not be consider
 Here are the details of the assignment, embedded from the `Assignments` page.
 
 [plugin:content-inject](/edci335/assignments/peer-review)
+
+## Blog Post 5
+
+Also due on Sunday is your final blog post of the course. This post should be a summary of your experience during your learning challenge including things that worked well, and what didn't work well. As always, make sure you draw connections between your experience and the readings throughout the course. I encourage you to refer back to previous posts through hyperlinks or other methods of embedding content.
+
+---
+
+<details>
+  <summary>How to embed a WordPress post - Click to expand</summary>
+   If you simply paste the URL of a WordPress post on its own line in your post, WordPress will automatically generate a preview of the link in your post. This also works with YouTube links and other social media sites.
+</details>
+
+---
+
+Please also include at least one link to one of your colleagues posts and include a comment on how their post was helpful or otherwise meaningful to you.
+
+As always, images and videos are appreciated!
+
+# :fa-calendar-o:Week 6 Checklist
+
+:fa-pencil: Peer review of interactive learning resources.<br>
+:fa-wordpress: Blog Post #5<br>
