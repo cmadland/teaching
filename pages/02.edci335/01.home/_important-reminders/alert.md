@@ -6,10 +6,11 @@ visible: true
 ---
 
 # Updates
-Updated Friday, June 14.
+Updated Monday, June 17.
 
 [A Twitter thread about assessment.](https://twitter.com/actualham/status/1139231519602401280)
 
-- I'll have your posts 2-4 graded by the end of this week (getting there!).
-- Please have your draft `Interactive Learning Resource` submitted to the dropbox in CourseSpaces by Sunday, June 16 `AND` as a link on your blog so that your colleagues can access it for peer review.
-- There is no blog post due this week.
+- Week 6 details are posted under `Units`.
+- Two items due on Sunday, June 23:
+  - Peer reviews of Interactive Learning Resources.
+  - Blog Post 5.
