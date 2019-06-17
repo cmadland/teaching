@@ -1,5 +1,5 @@
 ---
-title: 'Peer Review of Learning'
+title: 'Peer Reviews'
 published: true
 date: '17-06-2019 00:00'
 header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clinic'
