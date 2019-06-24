@@ -17,7 +17,7 @@ content:
 
 Welcome to the final week of EDCI335!
 
-There is no new content this week (from me at least). But that does not mean that your cognitive effort is done!
+There is no new content this week (from me at least), but that does not mean that your cognitive effort is done!
 
 By this morning (Monday, June 24), you should have received feedback on your draft learning resources from 2-4 peers. Your task this week is to revise your learning resources *as appropriate* based on the feedback that you received.
 
