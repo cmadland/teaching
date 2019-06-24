@@ -30,6 +30,7 @@ In your final draft, you will need to add a couple of things to your learning re
 - links to each peer review of your resource
 - a rationale for your choices in your revisions. In other words, let me know why you did or did not incorporate feedback from your peers. Your rationale needs to be connected in some way to the topics and readings in the course.
 
+I have set CourseSpaces to allow another submission for the Interactive Learning Resource. Do not try to delete your previous attempt.
 ---
 
 <details>
@@ -38,3 +39,18 @@ In your final draft, you will need to add a couple of things to your learning re
 </details>
 
 ---
+
+Once you have submitted the link to your learning resources, you will need to submit to me, in confidence through CourseSpaces, an assessment of your group process. This submission is worth 5% of your final grade.
+
+---
+
+<details>
+  <summary>Cooperative Group Assessment Details - Click to expand</summary><br>   
+   [plugin:content-inject](/edci335/assignments/cooperative-group-assessment)
+</details>
+
+---
+
+And finally...you should have received a link to the Course Experience Survey, which is a tool that UVic uses to assess me and this course. I'd be grateful for your feedback.
+
+!!!! The Course Experience Survey results are not available to me until after I have submitted your final grades, and even then, they are anonymized. The survey will close on Thursday, June 27.
