@@ -61,3 +61,5 @@ And finally...you should have received a link to the Course Experience Survey, w
 :fa-pencil: Final Draft of Interactive Learning Resources (35%)<br>
 :fa-inbox: Cooperative Group Assessment (5%)<br>
 :fa-info: Course Experience Survey (check your email)<br>
+
+---
