@@ -31,6 +31,7 @@ In your final draft, you will need to add a couple of things to your learning re
 - a rationale for your choices in your revisions. In other words, let me know why you did or did not incorporate feedback from your peers. Your rationale needs to be connected in some way to the topics and readings in the course.
 
 I have set CourseSpaces to allow another submission for the Interactive Learning Resource. Do not try to delete your previous attempt.
+
 ---
 
 <details>
