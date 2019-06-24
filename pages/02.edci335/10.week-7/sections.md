@@ -51,6 +51,12 @@ Once you have submitted the link to your learning resources, you will need to su
 
 ---
 
-And finally...you should have received a link to the Course Experience Survey, which is a tool that UVic uses to assess me and this course. I'd be grateful for your feedback.
+And finally...you should have received a link to the Course Experience Survey, which is a tool that UVic uses to improve this course for future learners. I'd be grateful for your feedback.
 
 !!!! The Course Experience Survey results are not available to me until after I have submitted your final grades, and even then, they are anonymized. The survey will close on Thursday, June 27.
+
+# :fa-calendar-o: Week 7 Checklist
+
+:fa-pencil: Final Draft of Interactive Learning Resources (35%)<br>
+:fa-inbox: Cooperative Group Assessment (5%)<br>
+:fa-info: Course Experience Survey (check your email)<br>
