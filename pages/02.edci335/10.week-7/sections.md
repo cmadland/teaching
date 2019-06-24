@@ -33,7 +33,7 @@ In your final draft, you will need to add a couple of things to your learning re
 ---
 
 <details>
-  <summary>Interactive Learning Resource Assignment Details - Click to expand</summary>  
+  <summary>Interactive Learning Resource Assignment Details - Click to expand</summary><br>   
    [plugin:content-inject](/edci335/assignments/interactive-learning-resource)
 </details>
 
