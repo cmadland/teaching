@@ -14,3 +14,27 @@ content:
         dir: asc
     limit: 0  
 ---
+
+Welcome to the final week of EDCI335!
+
+There is no new content this week (from me at least). But that does not mean that your cognitive effort is done!
+
+By this morning (Monday, June 24), you should have received feedback on your draft learning resources from 2-4 peers. Your task this week is to revise your learning resources *as appropriate* based on the feedback that you received.
+
+!!!! You are NOT required to incorporate every recommendation from your peers!
+
+I do suspect that your peers will point out some things that will help you refine your submission, but some feedback may lack context and may not actually fit with your content or how you have structured your resource.
+
+In your final draft, you will need to add a couple of things to your learning resource:
+
+- links to each peer review of your resource
+- a rationale for your choices in your revisions. In other words, let me know why you did or did not incorporate feedback from your peers. Your rationale needs to be connected in some way to the topics and readings in the course.
+
+---
+
+<details>
+  <summary>Interactive Learning Resource Assignment Details - Click to expand</summary>
+   [plugin:content-inject](/edci335/assignments/interactive-learning-resource)
+</details>
+
+---
