@@ -30,3 +30,5 @@ You may have noticed that you didn't get feedback from me on your draft learning
 The official end date of the course is Friday, June 28, but feel free to take the weekend and submit by Sunday evening. If you can't make that happen, please just let me know!
 
 !!!! Throughout this week, feel free to contact me with any questions that you may have. I'd be happy to meet with you and/or your group in BlueJeans or other web conference tool to talk over your final submission for the Interactive Learning Resource.
+
+---
