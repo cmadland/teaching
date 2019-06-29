@@ -7,7 +7,7 @@ header_image_credit: 'Blake Patterson, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/blakespot/16230041026/'
 summary:
     enabled: '0'
-hide_from_post_list: true
+hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 ---
