@@ -6,9 +6,9 @@ visible: true
 ---
 
 # Updates
-Updated Monday, June 24.
+Updated Saturday, June 29.
 
-- Week 7 details are posted under `Units`.
+- My last official post is published.
 - Two items due on Sunday, June 30:
   - Final Drafts of Interactive Learning Resources.
   - Cooperative Group Assessments.
