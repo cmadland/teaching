@@ -18,7 +18,7 @@ hide_post_summary: true
 post_icon: calendar-o
 hide_post_date: true
 hide_post_taxonomy: true
-continue_link_as_button: false
+continue_link_as_button: true
 hide_git_sync_repo_link: false
 ---
 
