@@ -16,8 +16,6 @@ Hello everyone, and thank you all for your work (some of which is ongoing this w
 
 I really enjoyed following your learning challenges and I wish that I had more opportunity to respond directly, but you should know that I have read every one of your posts, even if I wasn't able to comment on every post. I have loved the fact that so many of you were able to tap into your family and friends for help. I suspect that some of you gained weight with all the recipes flying around, while others lost weight with all the fitness tips and cycle commuting! Whatever it was, several of you have mentioned that you are a bit sad to see the end of the official learning challenge, and some have indicated that the habits you've developed will continue to be important for you. So, I thank you for sharing.
 
-https://twitter.com/Calvinn_Hobbes/status/1145032326201483264
-
 As the course ends, you are welcome to continue with your blogs. They are your work and yours to keep. If you intend to take another EDCI course (336, 337, 338, or 339), you may need it again. All you need to do to keep your posts separate is to create and use another category on your blog.
 
 As I read your peer reviews, I was able to get a sneak peak at your learning resources, and I really like what I see. There is a variety of platforms that you have used, and a very wide diversity of topics that you have covered. I'm looking forward to digging into your final drafts over then next week (or so...).
@@ -39,5 +37,8 @@ Thank you all very much!
 Cheers, and Happy Canada Day!
 
 Colin
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Have a great weekend ☺️ <a href="https://t.co/eslxNqFPm5">pic.twitter.com/eslxNqFPm5</a></p>&mdash; Calvin and Hobbes (@Calvinn_Hobbes) <a href="https://twitter.com/Calvinn_Hobbes/status/1145032326201483264?ref_src=twsrc%5Etfw">June 29, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
