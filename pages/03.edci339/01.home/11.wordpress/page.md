@@ -3,59 +3,30 @@ title: WordPress
 published: false
 ---
 
-EDCI 335 is hosted in a web platform called WordPress, and you are invited to document your learning in WordPress as well. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
+It is second nature to most to take selfies, share them on Instagram, Snapchat, etc., but once you move into the role of a public school teacher or within any public body, you must adhere to the laws set out by the B.C. Office of Information and Privacy Commissioner for public bodies (private organizations have a different set of rules). Their office has put together guidelines for you to follow to better understand what the rules are and how to get consent, which is detailed on page 4:
 
-!!! Please review all 5 steps below to decide on your approach.
+BC Cloud Computing Guidelines (PDF)
 
-# Decide if you are comfortable posting your work online.
+and you can review the Freedom of Information and Protection of Privacy Act here.
 
-If not, you can document your learning offline (with technology) by changing the privacy settings on your blog or using Word documents and offline video. We would ask learners to consider using an online blogging tool with no identification/using a pseudonym, so as to develop network literacy, which is important in supporting learners, who are growing up in networked environments, but the preferences of learners will be respected and supported.
+Each school district will have their own process (which may range from not allowing to an expectation to integrate networked learning tools from outside of Canada), so it is important to understand your school context. That said, you may find some school administrators or staff breaking these rules or not aware of them. As a teacher, it is important for you to enter the field and uphold the law, regardless of the culture you enter. This does not mean that you do not engage online or outside of Canada. It means that if/when you do so, that you understand the steps, which are not much more complex than the consent you would get normally for going “on the Internet,” as is described in most schools, but you must name the date consent is effective and, if applicable, the date it expires. It is important that you work with your school district on the consent process. You can see an example of how school district are addressing access to cloud tools outside of Canada here (Coquitlam) and here plus here (Victoria). You must also name each tool individually. It cannot be “blogging.” You must name WordPress.com or Blogger, etc. If you use Flipgrid, you must name Flipgrid. Consent must also be informed, so effort must be taken to ensure that those signing consent understand the implications – that their data may leave Canada, how it may be harvested, and to know about the U.S. Patriot Act. One archived resource by the Canadian Treasury Board provides significant detailed information about the Patriot Act here. It is important to also review section 4(b) of the B.C. Digital Literacy Framework.
 
-If you are comfortable being online, then proceed to step 2.
+Additional resources can be found here:
 
-# Would you like to use your real name or use a pseudonym?
+Privacy Education for Kids by the Office of the Privacy Commissioner of Canada
 
-You can claim your name online and own your presence by using your full name. With increasing catfishing and identity theft online, it can be helpful to have a presence that may compete with any fake profiles of you that are out there or to have a more dominant presence so posts or pictures of you by others may get drowned out. That said, you may wish to create an identity without your personal information (e.g., West coast teacher). The choice is yours.
+Information Security Awareness by the BC Government
 
-With that decision made, proceed to step 3.
+MediaSmarts: Canada’s Centre for Digital and Media Literacy
 
-# Decide if you would like your blog to be hosted outside of Canada or inside of Canada.
+Some competencies for you to explore and ask if you need help:
 
-Two options are provided. You can create a blog on the UVic installation of WordPress at [http://oac.uvic.ca](https://onlineacademiccommunity.uvic.ca/what-is-the-oac/) or at [opened.ca](https://opened.ca) which are both hosted within Canada and are completely free for you to use. Alternatively, you can create a blog on the commercial entity of WordPress at <http://wordpress.com>, which is hosted outside of Canada. There is also a third option, where you purchase space with a web hosting company that installs WordPress for you. Some of these companies host outside of Canada (e.g., Dreamhost), while others host within Canada (e.g., Canadian Web Hosting). The benefit of this route is that you can purchase your own domain (e.g., <http://yourname.ca> or <http://westcoastteacher.ca>).
-
-Be sure you review the resources under the Privacy section of this site or talk to your instructor about the implications of your options. You should also review the resources at the BC Office of the Information and Privacy Commissioner along with the Cloud Computing Guidelines, which outline how to get consent.
-
-With that decision made, proceed to step 4.
-
-# You also have to decide if you want to make your blog public or private.
-
-You can set an entire blog to be private or simply selected posts can be set to private. You can set a password or invite people to gain access.
-
-and last, but not least...
-
-# Finally, you have to think about where you and your content will end up.
-
-If you create a blog on oac.uvic.ca, your access will expire after you leave UVic. You will be able to export the blog by contacting the Help Desk. They can send you an exported compressed file. If you think you will end up at wordpress.com, then you might wish to start there and just post carefully with a full awareness of FIPPA.
-
-The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise EDCI 335 learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per [page four of the BC OIPC Cloud Computing Guidelines linked here.](https://www.oipc.bc.ca/guidance-documents/1427)
-
-## Creating a Blog
-
-Once you have done all the reflections on these 5 steps, you can move forward with creating a blog. Your options:
-
-- WordPress at [UVic](https://onlineacademiccommunity.uvic.ca/what-is-the-oac/)
-- WordPress at [opened.ca](https://opened.ca)
-- [WordPress.com](https://wordpress.com) (hosted outside of Canada, select the free plan)
-- Buy a domain and use WordPress installed on a Web Hosting Service you purchase, like Canadian Web Hosting (Canadian, $50/yr CAD) or [Reclaim Hosting](https://reclaimhosting.com) (US servers, $30/yr USD) (advanced)
-
-## Wordpress Tutorials
-
-When you're ready to start customizing your blog and putting content in, check out some tutorials available to you:
-
-[WordPress Handout by the UVic Libraries Digital Scholarship Commons](https://docs.google.com/document/d/1MoRg86RhOE63xAxc-TCKshKLvdOtj5tX2cnshWKvNDk/edit)
-
-[WordPress Tutorials by UVic's OAC](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials/)
-
-- TIP: You can access a better "dashboard" (an admin panel) by adding "/wp-admin" to the end of your WordPress URL. For example, if your blog address is: <http://myname.wordpress.com> then type in <http://myname.wordpress.com/wp-admin> to access the improved black dashboard.
-
-The video below shows how to use blog post categories to make a menu. [plugin:youtube](https://www.youtube.com/watch?v=f2X6DUPMkUw)
+    Is aware of the OIPC, FIPPA, and the Cloud Computing Guidelines and follows them
+    Understands what constitutes personal information
+    Understands that privacy online is a personal choice and must be respected
+    Understands that, as a preservice teacher or inservice teacher in the schools, that you assume a “public body” hat and have a duty of care for your learners, their parents and families, and your colleagues with regard to their privacy and protection of personal information
+    Is aware that the Canadian federal government states that the chances are remote that the US Patriot Act will access personal information of Canadians, but recognizes that it is our responsibility to protect privacy preferences and to ensure that consent obtained is informed consent. Some families may be involved with restraining orders and need to be private for their safety, but the reasons for privacy may be preference. Either way, it is not our business as to the reasons for privacy preferences, but it is our responsibility to uphold preferences.
+    Understands how media moves through networks into US cloud-based services (e.g., back-ups on iTunes, syncing with Dropbox, messages with personal information sent on Gmail, blog RSS subscriptions, etc.)
+    Understands that these acts do not prohibit participation in networked tools outside of Canada and many school districts are in need of teachers who model networked literacy and positive citizenship online for their learners
+    Is familiar with section 4(b) of the BC Digital Literacy Framework and is prepared to integrate it in teaching and learning
+    Understands what appropriate consent looks like for public bodies and is aware of what alternative steps are to support learners when consent is not obtained.
