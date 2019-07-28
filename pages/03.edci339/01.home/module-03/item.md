@@ -1,7 +1,7 @@
 ---
-title: 'Week 3 (May 23 - 29)'
+title: 'Unit 3 (July 30-31)'
 published: true
-date: '23-05-2018 00:00'
+date: '30-07-2019 00:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 header_image_credit: 'Emilio Küffer, Flickr.com'
@@ -9,28 +9,10 @@ header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/
 header_image_alt_text: 'Bullseye'
 ---
 
-## How to make more strategic design decisions?  
-[User Experience Strategy](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
-[Current State and Future State](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
-[Journey Mapping](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
+As you know by now, the remainder of EDCI 339 will be run from this site in WordPress. Please bookmark this site for easy reference.
 
-===
+Updates will show up on this page, with the newest update always at the top of the list.
 
-## **How to make more strategic design decisions?**
+You can find the content and activities for each unit by tapping 'Units' in the menus bar, then the unit that you are currently working on. Please work through the pages in each unit in numerical order.
 
-### Summaries and Questions  
-[May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519524)
-
-### Presented Slides  
-Strategic UX Design
-[presentation="presentations/placeholder-slide"]
-
-### Supplemental Materials  
-[Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
-[plugin:youtube](https://www.youtube.com/watch?v=a40QYgO-_aM)
-
-### Assignments
-[Journey Map](https://sso.canvaslms.com/courses/1413912/assignments/9519531)  
-
-### Required Reading  
-[embedly url="https://www.aytech.ca/blog/user-journey-map/"]
+Your work in the rest of the course will happen on your own blog that you will set up in Unit 3. It is very important that you get to work on this as soon as possible so that we can work through any difficulties you may encounter.
