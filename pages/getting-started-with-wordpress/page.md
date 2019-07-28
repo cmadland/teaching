@@ -14,11 +14,13 @@ There are some things that you *MUST* to do to make this model of course work pr
 
 One of the first things you should do on your new blog is to create a course category. If you don't set this up properly, your posts won't get aggregated on the course blog.
 
+!!!! If you cloned a site from opened.ca/clone-zone, you shouldn't have to create your categories, but you will need to use them for every post.
+
 ##### On your Dashboard, tap `Posts`, then choose `Categories`.
 
 ![](wp-setup-1.png)
 
-##### On the `Categories` page, add a new category `edci335`.
+##### On the `Categories` page, add a new category `edci335` (or a different category based on instructions in your course).
 - no spaces
 - lowercase
 - leave the `slug` blank
@@ -30,7 +32,7 @@ One of the first things you should do on your new blog is to create a course cat
 
 ##### Tap `Add New Category`.
 
-!!! Every time you publish a post for this course, you **MUST** use the category for this course. If you are taking EDCI335, then use the category `edci335` on every post.
+!!! Every time you publish a post for this course, you **MUST** use the category for this course. If you are taking EDCI335, then use the category `edci335` on **every post**.
 
 [Click here to learn more about using categories to organize your site.](https://onlineacademiccommunity.uvic.ca/wordpress-tutorials-the-dashboard/wordpress-tutorials-organizing-content/)
 
