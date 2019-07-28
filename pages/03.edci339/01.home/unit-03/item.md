@@ -1,12 +1,15 @@
 ---
 title: 'Unit 3 (July 30-31)'
 published: true
-date: '30-07-2019 00:00'
-hide_from_post_list: false
-hide_git_sync_repo_link: true
+date: '28-07-2019 00:00'
+header_image_alt_text: Bullseye
 header_image_credit: 'Emilio Küffer, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
-header_image_alt_text: 'Bullseye'
+hide_from_post_list: false
+continue_link: true
+hide_git_sync_repo_link: true
+feed:
+    limit: 10
 ---
 
 As you know by now, the remainder of EDCI 339 will be run from this site in WordPress. Please bookmark this site for easy reference.
