@@ -1,5 +1,5 @@
 ---
-title: 'Week 8 (Jun 27 - Jul 3)'
+title: 'Unit 8 (Jun 27 - Jul 3)'
 published: false
 date: '27-06-2018 00:00'
 hide_from_post_list: false
