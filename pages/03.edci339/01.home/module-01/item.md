@@ -1,6 +1,6 @@
 ---
 title: 'Week 1 (May 9 - 15)'
-published: true
+published: false
 date: '09-05-2018 00:00'
 header_image_alt_text: 'SFU Academic Quadrangle'
 header_image_credit: 'Julian Schüngel, Flickr.com'
