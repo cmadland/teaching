@@ -9,10 +9,4 @@ header_image_creditlink: 'https://www.flickr.com/photos/athenacgy/35899263465/'
 header_image_alt_text: 'SFU Djavad Mowafaghian Courtyard'
 ---
 
-## Course Wrap-up
-Guest Speaker  
-
-===
-
-## Summaries and Questions  
-[Aug 1st Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519527)
+[plugin:content-inject](_important-reminders)

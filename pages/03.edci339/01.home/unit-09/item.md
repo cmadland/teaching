@@ -9,7 +9,4 @@ header_image_creditlink: 'https://www.flickr.com/photos/rosenfeldmedia/920376017
 header_image_alt_text: 'A sample UX questionnaire'
 ---
 
-Instructor user research review meetings in TASC 1 8003, no regular class.  
-
-## Required Reading  
-None assigned.
+[plugin:content-inject](_important-reminders)

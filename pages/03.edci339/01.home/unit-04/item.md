@@ -9,29 +9,4 @@ header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/
 header_image_alt_text: 'Paper-based prototype'
 ---
 
-## How to explore and communicate possible design solutions?
-[Forms and Methods](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-4)  
-[Design Scenarios](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-5)  
-[Sketching and Storyboarding](../../presentations/placeholder-slide?target=_blank#/placeholder-slide-6)  
-
-===
-
-## **How to explore and communicate possible design solutions?**
-
-### Summaries and Questions  
-[May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1413912/assignments/9519523)
-
-### Presented Slides  
-Prototyping
-[presentation="presentations/placeholder-slide"]
-
-### Supplemental Materials  
-[UI Sketching Conventions](https://www.youtube.com/watch?v=MwidSAlbEB8)  
-[plugin:youtube](https://www.youtube.com/watch?v=MwidSAlbEB8)
-
-### Handouts
-[4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-browsers)  
-[4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1413912/files/folder/Handouts/Sketching%20Templates/sneakpeekit-4-mobiles)  
-
-### Required Reading  
-[embedly url="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/"]
+[plugin:content-inject](_important-reminders)
