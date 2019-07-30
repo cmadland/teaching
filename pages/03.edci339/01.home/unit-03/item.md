@@ -12,7 +12,7 @@ feed:
     limit: 10
 ---
 
-[plugin:content-inject](../_important-reminders)
+[plugin:content-inject](/_important-reminders)
 
 As you know by now, the remainder of EDCI 339 will be run from this site in WordPress. Please bookmark this site for easy reference.
 
