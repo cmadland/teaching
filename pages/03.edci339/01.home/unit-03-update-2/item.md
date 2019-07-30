@@ -1,7 +1,7 @@
 ---
 title: 'Unit 3 (July 30-31) Update 2'
-published: false
-visible: false
+published: true
+visible: true
 date: '30-07-2019 19:00'
 header_image_alt_text: Bullseye
 header_image_credit: 'Emilio Küffer, Flickr.com'
