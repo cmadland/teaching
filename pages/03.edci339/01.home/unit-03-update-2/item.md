@@ -37,6 +37,6 @@ Irvine's model touches on all five of Major's elements of the structure of a dis
 
 ### References
 
-Irvine, V., Code, J., & Richards, L. (2013). Realigning higher education for the 21st-century learner through multi-access learning. *Journal of Online Learning and Teaching, 9*(2). Retrieved from http://jolt.merlot.org/vol9no2/irvine_0613.htm
+Irvine, V., Code, J., & Richards, L. (2013). Realigning higher education for the 21st-century learner through multi-access learning. *Journal of Online Learning and Teaching, 9*(2). Retrieved from [http://jolt.merlot.org/vol9no2/irvine_0613.htm](http://jolt.merlot.org/vol9no2/irvine_0613.htm)
 
 Major, C. H. (2015). *Teaching online: A guide to theory, research, and practice.* Baltimore, Maryland: Johns Hopkins University Press.
