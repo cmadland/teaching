@@ -81,6 +81,4 @@ In a post on your own blog, describe two or three tools and how they support dif
 
 You are encouraged to work together with your learning pod, but each of you should describe different tools.
 
-Your post should be 300-500 words and must use the category
-
-Recommendations on digital tools to support various modalities of learning (didactic, lecture replacement online learning with maximal faculty control; learner collaboration; learner reflection and larger group interaction.) Provide rationale for decision.
+Your post should be 300-500 words and must use the category `Distributed & Open Learning` as it is on your opened.ca site.
