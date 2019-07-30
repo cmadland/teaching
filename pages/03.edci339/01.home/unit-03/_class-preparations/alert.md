@@ -1,6 +1,8 @@
 ---
-title: 'Class Preparations'
+title: 'Syllabus Update'
+alert_style: alert-primary
 published: true
+visible: false
 ---
 
 ## Syllabus Adjustment
