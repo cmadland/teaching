@@ -24,7 +24,7 @@ Please read pages 88-105 in the ebook. You will need to sign in to the UVic libr
 
 [Click here for assistance with the Library](https://www.uvic.ca/library/use/connect/index.php?classes=btn,btn-primary)
 
-<blockquote class="embedly-card"><h4><a href="https://ebookcentral-proquest-com.ezproxy.library.uvic.ca/lib/uvic/reader.action?docID=3318874">EZProxy - Electronic Resource Login</a></h4><p>null</p></blockquote>
+<a class="embedly-card" data-card-controls="0" href="https://ebookcentral-proquest-com.ezproxy.library.uvic.ca/lib/uvic/reader.action?docID=3318874">EZProxy - Electronic Resource Login</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 While you are only required to read a portion of the chapter, there are some ideas from the rest of the chapter that are relevant.
