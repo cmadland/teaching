@@ -3,7 +3,7 @@ title: WordPress
 published: false
 ---
 
-EDCI 335 is hosted in a web platform called WordPress, and you are invited to document your learning in WordPress as well. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
+EDCI 339 is hosted in a web platform called WordPress, and you are invited to document your learning in WordPress as well. This means that your work would be posted online on a public site. Keep in mind, though, that you are NOT required to post your work publicly. The steps below can help you decide how comfortable you are with sharing publicly.
 
 !!! Please review all 5 steps below to decide on your approach.
 
@@ -37,7 +37,7 @@ and last, but not least...
 
 If you create a blog on oac.uvic.ca, your access will expire after you leave UVic. You will be able to export the blog by contacting the Help Desk. They can send you an exported compressed file. If you think you will end up at wordpress.com, then you might wish to start there and just post carefully with a full awareness of FIPPA.
 
-The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise EDCI 335 learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per [page four of the BC OIPC Cloud Computing Guidelines linked here.](https://www.oipc.bc.ca/guidance-documents/1427)
+The wonderful thing about WordPress is that you can import that exported file into another WordPress instance (it sounds hard, but it isn't and we'll show you) or if you want to later set up your own domain and with your own WordPress installation. You may also import it into WordPress.com, but be aware that if you made posts with personal information knowing your site was hosted in Canada at the time and simply contained regular consent, without the specific consent for hosting outside of Canada, which requires you to name each tool, etc., you might not have consent to switch to WordPress.com. We often advise EDCI 339 learners to post as if they will be on the cloud outside of Canada. To be honest, if you have a public blog, your friends and colleagues may be using U.S. cloud-hosted tools like Feedly to curate and read your blog posts or they may repost/quote your content on their U.S. blog. There are many educators who use U.S. software in their teaching and to support their learners. Just be sure to review how to get consent as per [page four of the BC OIPC Cloud Computing Guidelines linked here.](https://www.oipc.bc.ca/guidance-documents/1427)
 
 ## Creating a Blog
 
