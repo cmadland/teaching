@@ -29,9 +29,9 @@ Please read pages 88-105 in the ebook. You will need to sign in to the UVic libr
 
 While you are only required to read a portion of the chapter, there are some ideas from the rest of the chapter that are relevant.
 
-![Table 4.1, p. 78](table-4-1-major.png)
-
 Major writes about various different structures of online (distributed) courses under the following headings:
+
+![Table 4.1, p. 78](table-4-1-major.png)
 
 ### Enrollment
 
@@ -82,3 +82,7 @@ In a post on your own blog, describe two or three tools and how they support dif
 You are encouraged to work together with your learning pod, but each of you should describe different tools.
 
 Your post should be 300-500 words and must use the category `Distributed & Open Learning` as it is on your opened.ca site.
+
+### References
+
+Major, C. H. (2015). *Teaching online: A guide to theory, research, and practice.* Baltimore, Maryland: Johns Hopkins University Press.
