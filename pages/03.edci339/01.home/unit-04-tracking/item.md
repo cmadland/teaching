@@ -39,11 +39,11 @@ Lightbeam grew out of the Collusion project.
 
 ###### Go to 'Add-ons'
 
-Click the 'hamburger' in the top, right corner of Firefox.
+Tap the 'hamburger' in the top, right corner of Firefox.
 
 ![](go-to--add-ons-.png)
 
-###### Click 'Extensions' and enter 'lightbeam' in the search window.
+###### Tap 'Extensions' and enter 'lightbeam' in the search window.
 
 ![](click--extensions-.png)
 
@@ -53,7 +53,7 @@ Click the 'hamburger' in the top, right corner of Firefox.
 
 ###### Activate
 
-Click the Lightbeam icon in your toolbar.
+Tap the Lightbeam icon in your toolbar.
 
 ![](activate.png)
 
@@ -69,4 +69,25 @@ For this next activity, make sure your computer is not muted (you might want to 
 
 ##### What does Google know about you?
 
-Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and there is an assumption on the part of teachers and districts that it is 'safe' because Google doesn't use data from GAFE to serve ads to learners.
+Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and there is an assumption on the part of teachers and districts that it is 'safe' because Google doesn't use data from GAFE to serve ads to learners. Well [Bill Fitzgerald has some ideas on that.](https://funnymonkey.com/2015/where-the-sidewalk-ends-wading-through-googles-terms-of-service) You don't need to read that whole article, but may want to keep it in mind.
+
+##### Here is how you can see what Google has on you.
+
+###### Sign in to Google (if you have an account, don't create one for this activity)
+
+###### Hover over your avatar in the top right, and click 'Google Account'
+
+![](google-1.png)
+
+###### Tap 'Manage your data and personalization'
+
+![](google-2.png)
+
+###### Tap 'Location History'
+! Notice that all of my activity is 'Paused'? I strongly recommend you do the same.
+
+![](google-3.png)
+
+###### Tap 'Manage Activity'
+
+![](google-4.png)
