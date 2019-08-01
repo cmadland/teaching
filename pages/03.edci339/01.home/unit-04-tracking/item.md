@@ -2,9 +2,9 @@
 title: 'Unit 4 - Tracking'
 published: true
 date: '01-08-2019 00:00'
-header_image_alt_text: 'Paper-based prototype'
-header_image_credit: 'Samuel Mann, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/'
+header_image_alt_text: 'Big Data is Watching You'
+header_image_credit: 'Photo by ev on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/gpjvRZyavZc'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
