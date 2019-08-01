@@ -103,4 +103,4 @@ You can use these questions to inspire Blog Post #2 if you want, but that is not
 :fa-question: Does collecting data **put** students at risk?  
 
 
-[Next Page](https://teaching.madland.ca/edci339/home/unit-04-tracking?classes=btn,btn-primary)
+[Next Page](https://teaching.madland.ca/edci339/home/unit-04-tracking-2?classes=btn,btn-primary)
