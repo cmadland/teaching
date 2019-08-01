@@ -30,3 +30,6 @@ Pick one of those tools and have a look at the Terms of Service (ToS). You can u
 You've read and viewed a lot about data and privacy in technology in general and educational technology specifically. What stands out to you? Use one or more of the activities you explored to inspire Blog Post #2.
 
 :fa-users: Remember to connect with your Learning Pod while and after you write to bounce your ideas and writing off of them and get feedback.
+:fa-check: You can use [ethicaledtech.info](https://ethicaledtech.info) to identify tools that respect learner privacy and data.
+
+---
