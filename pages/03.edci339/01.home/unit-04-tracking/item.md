@@ -91,3 +91,15 @@ Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and t
 ###### Tap 'Manage Activity'
 
 ![](google-4.png)
+
+#### Some questions for you...
+You can use these questions to inspire Blog Post #2 if you want, but that is not required.
+
+:fa-question: What do you think?   
+:fa-question: Does the fact that Google (possibly) has that much information about your location for any given day concern you?  
+:fa-question: Should we tell K-12 learners that they can trust Google by normalizing the use of Google Apps?
+:fa-question: Should we use this data to predict which learners are at-risk?  
+:fa-question: Does collecting data **put** students at risk?  
+
+
+[Next Page](https://teaching.madland.ca/edci339/unit-04-tracking?classes=btn,btn-primary)
