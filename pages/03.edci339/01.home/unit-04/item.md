@@ -1,6 +1,6 @@
 ---
 title: 'Unit 4 (August 1-2)'
-published: false
+published: true
 date: '01-08-2019 00:00'
 header_image_alt_text: 'Paper-based prototype'
 header_image_credit: 'Samuel Mann, Flickr.com'
