@@ -25,7 +25,7 @@ Keep in mind that if the site that you are using is 'free', then the site and it
 
 Here is another video for you to consider.
 
-[https://www.ted.com/talks/gary\_kovacs\_tracking\_the\_trackers](https://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/gary_kovacs_tracking_the_trackers" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
 
