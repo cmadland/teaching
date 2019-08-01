@@ -1,5 +1,5 @@
 ---
-title: 'Unit 4 (August 1-2)'
+title: 'Unit 4 - Tracking'
 published: false
 date: '01-08-2019 00:00'
 header_image_alt_text: 'Paper-based prototype'
@@ -35,6 +35,7 @@ For this activity, you will need to be using Mozilla's Firefox web browser. [You
 Once you have launched Firefox,
 
 ##### Install Lightbeam
+Lightbeam grew out of the Collusion project.
 
 ###### Go to 'Add-ons'
 
@@ -64,14 +65,8 @@ Now that you have Lightbeam activated in Firefox, you'll be able to see exactly 
 
 You might know that websites track you, but do you know how much information they gather?
 
-For this next activity, make sure your computer (the site you will visit isn't optimized for mobile devices) is not muted (you might want to use headphones) and visit https://clickclickclick.click.
+For this next activity, make sure your computer is not muted (you might want to use headphones) and visit https://clickclickclick.click.
 
-###### Reflect
+##### What does Google know about you?
 
-Create a new post on your blog and write a little bit about what you noticed using LightBeam and visiting https://clickclickclick.click. Some questions you might want to consider are:
-
-* which site that you visited had the most trackers?
-* how many of the trackers came from sites that you did not visit?
-* how long does your normal browser keep cookies from third parties?
-* did the amount of data gathered at https://clickclickclick.click surprise you?
-* [Your own questions or observations.]
+Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and there is an assumption on the part of teachers and districts that it is 'safe' because Google doesn't use data from GAFE to serve ads to learners.

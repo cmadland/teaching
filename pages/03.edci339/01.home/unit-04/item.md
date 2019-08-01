@@ -11,6 +11,8 @@ header_image_alt_text: 'Paper-based prototype'
 
 [plugin:content-inject](_important-reminders)
 
+[plugin:content-inject](_class-preparations)
+
 Ok, we are cruising along through this world of distributed learning! We've read a bit about privacy and the provincial regulations in BC called FIPPA, we considered different modalities of distributed learning, and then went looking for tools that might support different modalities. Thank you for your work on all that!
 
 For the next couple of days, we need to start integrating our knowledge of FIPPA with the nature of the tools that we use for learning. You hopefully know that there is a reason that the BC government requires public bodies to protect the data and information of our citizens, whether they are learners in K-12, like you in higher ed, or patients in our hospitals.
