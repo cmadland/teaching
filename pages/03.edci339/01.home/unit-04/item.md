@@ -39,4 +39,4 @@ I would like for you to come out of this unit with two primary skills:
 1. You should be able to protect your own web data.
 2. You should be able to choose software that respects learner data.
 
-[Tap here for some learning activities](https://teaching.madland.ca/edci339/unit-04-tracking?classes=btn,btn-primary)
+[Tap here for Unit 4 learning activities](https://teaching.madland.ca/edci339/home/unit-04-tracking?classes=btn,btn-primary)
