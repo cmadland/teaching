@@ -30,7 +30,7 @@ Here is another video for you to consider.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/gary_kovacs_tracking_the_trackers" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-##### LightBeam
+##### Lightbeam
 For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
 
 Once you have launched Firefox,
@@ -60,7 +60,7 @@ Tap the Lightbeam icon in your toolbar.
 
 ###### Think
 
-Now that you have LightBeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the LightBeam tab in Firefox to see what sites are most active. Keep LightBeam active for a few days and check in every once in a while.
+Now that you have Lightbeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the Lightbeam tab in Firefox to see what sites are most active. Keep Lightbeam active for a few days and check in every once in a while.
 
 ##### What can websites learn about you?
 
@@ -96,7 +96,7 @@ Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and t
 #### Some questions for you...
 You can use these questions to inspire Blog Post #2 if you want, but that is not required.
 
-:fa-question: What do you think?   
+:fa-question: What do you think about what Google knows about you?   
 :fa-question: Does the fact that Google (possibly) has that much information about your location for any given day concern you?  
 :fa-question: Should we tell K-12 learners that they can trust Google by normalizing the use of Google Apps?
 :fa-question: Should we use this data to predict which learners are at-risk?  
