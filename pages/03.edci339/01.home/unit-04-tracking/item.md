@@ -30,6 +30,7 @@ Here is another video for you to consider.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/gary_kovacs_tracking_the_trackers" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
+##### LightBeam
 For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
 
 Once you have launched Firefox,
@@ -59,7 +60,7 @@ Tap the Lightbeam icon in your toolbar.
 
 ###### Think
 
-Now that you have Lightbeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the Lightbeam tab in Firefox to see what sites are most active. Keep LightBeam active for a few days and check in every once in a while.
+Now that you have LightBeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the LightBeam tab in Firefox to see what sites are most active. Keep LightBeam active for a few days and check in every once in a while.
 
 ##### What can websites learn about you?
 
@@ -69,7 +70,7 @@ For this next activity, make sure your computer is not muted (you might want to 
 
 ##### What does Google know about you?
 
-Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and there is an assumption on the part of teachers and districts that it is 'safe' because Google doesn't use data from GAFE to serve ads to learners. Well [Bill Fitzgerald has some ideas on that.](https://funnymonkey.com/2015/where-the-sidewalk-ends-wading-through-googles-terms-of-service) You don't need to read that whole article, but may want to keep it in mind.
+Google Apps for Education (GAFE) is *very* popular in K-12 contexts in BC, and there is an assumption on the part of teachers and districts that it is 'safe' because Google doesn't use data from GAFE to serve ads to learners. Well, [Bill Fitzgerald has some ideas on that.](https://funnymonkey.com/2015/where-the-sidewalk-ends-wading-through-googles-terms-of-service) You don't need to read that whole article, but may want to keep it in mind.
 
 ##### Here is how you can see what Google has on you.
 
