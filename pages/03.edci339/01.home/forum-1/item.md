@@ -18,7 +18,7 @@ The content that formed the basis of Forum 1 was good. Tony Bates is a well-esta
 
 However, the nature of the task that I asked you to do was less than ideal. Essentially, I asked you to provide a definition, some commentary on your opinion, and then ask a question for someone else in the class to comment on. This is pretty standard fare for a lot of online courses, and it was awful to read. [Again, not because of any deficiencies in your work, but because of the structure of the task.]
 
-What ended up happening is that I received 43 posts, virtually all of which began with the exact same definition from the reading, followed by some opinions, and a variety of questions. The questions you asked were really good questions, and the most interesting part of your posts, because they go to what `you` want to know about the topic, rather than what `I` want you to know.
+What ended up happening is that I received 43 posts, virtually all of which began with the exact same definition from the reading [go look, you're all very good students], followed by some opinions, and a variety of questions. The questions you asked were really good questions, and they were the most interesting part of your posts, because they go to what `you` want to know about the topic, rather than what `I` want you to know.
 
 In the end, you all told me what I wanted you to tell me (as requested), even though I already knew the answer to my own question. So you were telling me stuff that I already knew. How dull.
 
