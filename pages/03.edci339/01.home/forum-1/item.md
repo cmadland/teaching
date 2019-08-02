@@ -2,9 +2,10 @@
 title: 'Going Meta on Forum 1'
 published: false
 date: '02-08-2019 2:00'
-header_image_alt_text: 'Big Data is Watching You'
-header_image_credit: 'Photo by ev on Unsplash'
-header_image_creditlink: 'https://unsplash.com/photos/gpjvRZyavZc'
+header_image_file: /edci339/home/forum-1/julian-howard-CSNK8BXrhZk-unsplash.jpg
+header_image_alt_text: 'Getting to Know Me'
+header_image_credit: 'https://unsplash.com/@jsaxxhoward'
+header_image_creditlink: 'https://unsplash.com/photos/CSNK8BXrhZk'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
