@@ -1,7 +1,7 @@
 ---
 title: 'Unit 4 - Oral Roberts & FitBit'
 published: true
-date: '01-08-2019 00:00'
+date: '02-08-2019 00:00'
 header_image_alt_text: 'Big Data is Watching You'
 header_image_credit: 'Photo by ev on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/gpjvRZyavZc'
