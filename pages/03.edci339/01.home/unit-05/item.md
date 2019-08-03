@@ -69,8 +69,8 @@ Give it a try, go to [Twitter](https;//twitter.com) and search for people who ar
 Or some of these hastags:
 
 - \#edtechuvic
-- `#tiegrad`
-- #bcedchat
+- \#tiegrad
+- \#bcedchat
 
 
 [Tap here for Blog Post #3](https://teaching.madland.ca/edci339/home/unit-05-post-3?classes=btn,btn-primary)
