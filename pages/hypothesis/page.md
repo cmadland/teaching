@@ -90,6 +90,8 @@ Then you can close the tab or window.
 
 ![](hypothes-is-9.png)
 
+!! You can create as many groups as you would like! If you want to have a private group with your Learning Pod or Partner, you can create one.
+
 Happy annotating! See you on the web!
 
 !!! [Click here if you'd like to learn more about using Hypothes.is in your class room.](https://web.hypothes.is/education/)
