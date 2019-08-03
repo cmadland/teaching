@@ -1,15 +1,17 @@
 ---
 title: 'Unit 5 (Aug 3-4)'
 published: false
-date: '06-06-2018 00:00'
+date: '03-0802019 10:00'
 hide_from_post_list: true
 hide_git_sync_repo_link: true
-header_image_credit: 'Luca Mascaro, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/'
-header_image_alt_text: 'Usability testing'
+header_image_credit: 'Photo by Prateek Katyal on Unsplash'
+header_image_creditlink: 'https://unsplash.com/@prateekkatyal'
+header_image_alt_text: 'Neon Signage'
 ---
 
 #[plugin:content-inject](_important-reminders)
+
+Hello everyone! Over the next couple of days, I'm going to introduce you to some of my favourite community-building tools.
 
 ### Slack
 
@@ -25,6 +27,8 @@ Another tool I'd like to introduce today is called [hypothes.is](https://hypothe
 
 !! hypothes.is will store your email, name, and annotations on US servers. I trust them, but you are not required to give them your information.
 
+Hypothes.is is a tool that allows people to add comments and notes to a public webpage, and create a conversation around the content in context.
+
 Here are instructions for getting started.
 
 <a class="embedly-card" data-card-controls="0" href="https://teaching.madland.ca/hypothesis">Hypothes.is</a>
@@ -34,3 +38,15 @@ Once you have a group created, all of the annotations for that group are shown o
 
 <a class="embedly-card" data-card-controls="0" href="https://hypothes.is/groups/GpwzVGQi/edci339-summer19">edci339-summer19 | Hypothesis</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+### Twitter
+
+The little elephant-bird in the room!
+
+!! Again, Twitter will store your info on US servers, and they are going to give you ads.
+
+I have a love/hate relationship with Twitter. For those who don't know, Twitter is a 'micro-blogging' service where each post is limited to 280 characters (not words, characters). One of the best things about Twitter is that you can curate who you follow so that your feed shows you stuff that `you` are interested in. You can also `mute` words so Tweets with that word won't show up in your timeline. And you can `block` people from following you or seeing your Tweets.
+
+Another good thing about Twitter is that you can follow along with certain topics or conversations without signing up for an account.
+
+For example, if you want to see what I've been tweeting, just go to [https://twitter.com/colinmadland](https://twitter.com/colinmadland) and have a look. If you want to follow the hashtag #edtecuvic, you can do that too at [https://twitter.com/search?q=%23edtechuvic&src=typeahead_click&f=live](https://twitter.com/search?q=%23edtechuvic&src=typeahead_click&f=live).
