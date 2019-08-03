@@ -23,7 +23,14 @@ I use Slack for a whole bunch of organizations, including my team at work, the E
 
 Another tool I'd like to introduce today is called [hypothes.is](https://hypothes.is).
 
+!! hypothes.is will store your email, name, and annotations on US servers. I trust them, but you are not required to give them your information.
 
+Here are instructions for getting started.
+
+<a class="embedly-card" data-card-controls="0" href="https://teaching.madland.ca/hypothesis">Hypothes.is</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+Once you have a group created, all of the annotations for that group are shown on one page, allowing the community/group to see what conversations are happening.
 
 <a class="embedly-card" data-card-controls="0" href="https://hypothes.is/groups/GpwzVGQi/edci339-summer19">edci339-summer19 | Hypothesis</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
