@@ -1,7 +1,7 @@
 ---
 title: 'Unit 5 (Aug 3-4)'
 published: false
-date: '03-0802019 10:00'
+date: '03-08-2019 9:00'
 hide_from_post_list: true
 hide_git_sync_repo_link: true
 header_image_credit: 'Photo by Prateek Katyal on Unsplash'
@@ -20,6 +20,8 @@ Hopefully by now, you have considered whether you want to sign up for Slack. I s
 !! Just a reminder that Slack will store your email address and name (or pseudonym) on US servers.
 
 I use Slack for a whole bunch of organizations, including my team at work, the EdTech Community in BC, my PhD work, and other organizations. I like it because it can be both synchronous or asynchronous, there are desktop and mobile apps, you can make calls right from the app, and it's not as formal as email.
+
+Hope you are able to drop by and join the conversation!
 
 ### Hypothes.is
 
@@ -50,3 +52,21 @@ I have a love/hate relationship with Twitter. For those who don't know, Twitter 
 Another good thing about Twitter is that you can follow along with certain topics or conversations without signing up for an account.
 
 For example, if you want to see what I've been tweeting, just go to [https://twitter.com/colinmadland](https://twitter.com/colinmadland) and have a look. If you want to follow the hashtag #edtecuvic, you can do that too at [https://twitter.com/search?q=%23edtechuvic&src=typeahead_click&f=live](https://twitter.com/search?q=%23edtechuvic&src=typeahead_click&f=live).
+
+Give it a try, go to [Twitter](https;//twitter.com) and search for people who are known influencers in your discipline and see what they are tweeting about. Or, to check out what's happening in education, try following some of these accounts:
+
+- @_valeriei
+- @mpaskevi
+- @coursosa
+- @hypervisible
+- @ChristineYH
+- @etug
+
+Or some of these hastags:
+
+- #edtechuvic
+- #tiegrad
+- #bcedchat
+
+
+[Tap here for Blog Post #3](https://teaching.madland.ca/edci339/home/unit-05-post-3?classes=btn,btn-primary)
