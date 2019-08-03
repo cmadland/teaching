@@ -1,5 +1,5 @@
 ---
-title: 'Unit 5 (Jun 6 - 12)'
+title: 'Unit 5 (Aug 3-4)'
 published: false
 date: '06-06-2018 00:00'
 hide_from_post_list: true
@@ -10,3 +10,5 @@ header_image_alt_text: 'Usability testing'
 ---
 
 #[plugin:content-inject](_important-reminders)
+
+Hopefully by now, you have considered whether you want to sign up for Slack. I sent an invitation in Friday's email and also posted it under 'About --> Links' on the course site.
