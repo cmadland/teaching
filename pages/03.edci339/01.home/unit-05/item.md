@@ -45,6 +45,8 @@ Once you have a group created, all of the annotations for that group are shown o
 <a class="embedly-card" data-card-controls="0" href="https://hypothes.is/groups/GpwzVGQi/edci339-summer19">edci339-summer19 | Hypothesis</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+I strongly recommend that you use hypothes.is to create a private group for your Learning Pod, and use that to annotate each other's blogs for asynchronous feedback.
+
 ### Twitter
 
 The little elephant-bird in the room!
@@ -65,12 +67,14 @@ Give it a try, go to [Twitter](https;//twitter.com) and search for people who ar
 - @hypervisible
 - @ChristineYH
 - @etug
+- @remikalir
 
 Or some of these hastags:
 
 - \#edtechuvic
 - \#tiegrad
 - \#bcedchat
+- \#AnnoConvo
 
 
 [Tap here for Blog Post #3](https://teaching.madland.ca/edci339/home/unit-05-post-3?classes=btn,btn-primary)
