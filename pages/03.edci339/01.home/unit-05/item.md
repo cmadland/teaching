@@ -68,8 +68,8 @@ Give it a try, go to [Twitter](https;//twitter.com) and search for people who ar
 
 Or some of these hastags:
 
-- #edtechuvic
-- #tiegrad
+- \#edtechuvic
+- `#tiegrad`
 - #bcedchat
 
 
