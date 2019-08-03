@@ -1,12 +1,16 @@
 ---
 title: 'Unit 5 (Aug 3-4)'
-published: false
+published: true
 date: '03-08-2019 9:00'
-hide_from_post_list: true
-hide_git_sync_repo_link: true
+header_image_file: /edci339/home/unit-05/prateek-katyal-xv7-GlvBLFw-unsplash.jpg
+header_image_alt_text: 'Neon Signage'
 header_image_credit: 'Photo by Prateek Katyal on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@prateekkatyal'
-header_image_alt_text: 'Neon Signage'
+hide_from_post_list: true
+continue_link: true
+hide_git_sync_repo_link: true
+feed:
+    limit: 10
 ---
 
 #[plugin:content-inject](_important-reminders)
