@@ -22,3 +22,8 @@ I use Slack for a whole bunch of organizations, including my team at work, the E
 ### Hypothes.is
 
 Another tool I'd like to introduce today is called [hypothes.is](https://hypothes.is).
+
+
+
+<a class="embedly-card" data-card-controls="0" href="https://hypothes.is/groups/GpwzVGQi/edci339-summer19">edci339-summer19 | Hypothesis</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
