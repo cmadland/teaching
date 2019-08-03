@@ -64,11 +64,27 @@ Hypothes.is is a very light-weight web service and browser extension that you ca
 ##### Enter your comment.
 - If your group is using a common tag, enter it in the 'Add tags' text area. Tags can be useful to filter annotations.
 
-##### Click 'Post to Public' to save your comment.
+##### Click 'Public' at the top, and choose 'New Private Group'.
 
 ![](hypothes-is-8.png)
 
-!! Yes, your annotation is public. It is visible to anyone who has the hypothes.is bookmarklet active in their browser, and it is released under a [Public Domain license](https://creativecommons.org/share-your-work/public-domain/).
+!! If you click 'Post to Public', your annotation is public. It is visible to anyone who has the hypothes.is bookmarklet active in their browser, and it is released under a [Public Domain license](https://creativecommons.org/share-your-work/public-domain/).
+
+##### Give your group a name and tap 'Create Group'.
+
+![](hypothes-is-8a.png)
+
+##### Copy the link to share.
+Then you can close the tab or window.
+
+![](hypothes-is-8b.png)
+
+##### Choose your new group from the dropdown.
+
+- include a tag for easier searching
+- click 'Post to [Group]'.
+
+![](hypothes-is-8c.png)
 
 ##### Click the arrow to reply to another annotation.
 
