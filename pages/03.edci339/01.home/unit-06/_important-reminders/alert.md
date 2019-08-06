@@ -5,7 +5,8 @@ published: true
 visible: false
 ---
 
-## Things to do by July 31
-:fa-check: Register for a WordPress site.  
-:fa-check: Send your site URL to   
-:fa-check: Read Claire Howell Major. (2015). Teaching Online: A Guide to Theory, Research, and Practice. Retrieved from http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=3318874 (pp. 88-105)  
+## Things to do by August 7
+:fa-book: **Read** [Attributes of Open Pedagogy: A Model for Using Open Educational Resources.](http://www.jstor.org.ezproxy.library.uvic.ca/stable/44430383) Educational Technology, 55(4), 3-13.  
+:fa-book: **Read** [Textbooks, OER, and the need for open pedagogy.](https://criticaldigitalpedagogy.pressbooks.com/chapter/textbooks-oer-and-the-need-for-open-pedagogy/)    
+:fa-users: **Connect** with your Learning Pod to review Post 3 and plan Post 4.  
+:fa-people-carry: **Connect** with someone who needs help.

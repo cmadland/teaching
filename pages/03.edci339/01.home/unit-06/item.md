@@ -1,5 +1,5 @@
 ---
-title: 'Unit 6 (Jun 13 - 19)'
+title: 'Unit 6 (August 6-7)'
 published: false
 date: '13-06-2018 00:00'
 hide_from_post_list: false
@@ -10,3 +10,8 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 ---
 
 [plugin:content-inject](_important-reminders)
+
+Open
+
+<a class="embedly-card" data-card-controls="0" href="https://www.lexico.com/en/definition/open">open | Definition of open in English by Lexico Dictionaries</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
