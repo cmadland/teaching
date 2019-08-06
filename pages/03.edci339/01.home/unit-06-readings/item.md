@@ -25,6 +25,7 @@ There are two items for you to read in this unit.
 You don't need to read Hegarty's article deeply. You can skim it, but please pay attention to the eight attributes in the following diagram.
 
 ![](HegartyModelforOpenPed.png)
+Image: [https://wordpress.viu.ca/enhancingpersonalizedlearning/2017/09/12/design-attributes-of-open-pedagogy-by-bronwyn-hegarty/](https://wordpress.viu.ca/enhancingpersonalizedlearning/2017/09/12/design-attributes-of-open-pedagogy-by-bronwyn-hegarty/)
 
 :fa-book: *Textbooks, OER, and the Need for Open Pedagogy*
 
