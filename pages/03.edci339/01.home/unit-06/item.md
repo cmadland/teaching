@@ -53,12 +53,13 @@ Please follow the link below for more information about the specific licenses co
 <a class="embedly-card" data-card-controls="0" href="https://creativecommons.org/share-your-work/licensing-types-examples/">Creative Commons licenses - Creative Commons</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <details>
-  <summary>Traditional Knowledge (TK) Labels and Licenses</summary>
+  <summary>Read More - Traditional Knowledge (TK) Labels and Licenses</summary>
     <p>There are also more recently developed licenses and labels designed specifically for Indigenous traditional knowledge, as below.
 
     <a class="embedly-card" data-card-controls="0" href="http://localcontexts.org/tk-licenses/">TK Licenses - Local Contexts</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
     </p>
-</details>
+</details>  
+
 
 ### Open `Pedagogy`
 
