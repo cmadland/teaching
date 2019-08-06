@@ -45,8 +45,13 @@ This aspect of openness is related to the license on the materials that are used
 
 An open license allows end users (learners, faculty, anyone) to exercise five freedoms in relation to the content, known as the `5Rs`. An end user is free to retain, reuse, revise, remix, and redistribute the material as long as they follow the specific guidelines of the license.
 
-[Read more about the 5Rs here.](http://opencontent.org/definition/)
 
+<details>
+  <summary>Read more about the 5Rs here.</summary>
+    <p>
+    [5R Definition](http://opencontent.org/definition/)
+    </p>
+</details>
 
 Please follow the link below for more information about the specific licenses covered by Creative Commons.
 
