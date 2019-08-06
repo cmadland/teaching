@@ -1,7 +1,7 @@
 ---
 title: 'Unit 6 (August 6-7)'
-published: false
-date: '13-06-2018 00:00'
+published: true
+date: '06-08-2019 10:00'
 header_image_file: /edci339/home/unit-06/IMG_5277.jpeg
 header_image_alt_text: 'Wildflower Meadows on Raft Mountain'
 header_image_credit: 'Photo Credit: Colin Madland'

@@ -1,7 +1,11 @@
 ---
-title: 'Unit 6 (August 6-7)'
-published: false
-date: '13-06-2018 00:00'
+title: 'Unit 6 Readings'
+published: true
+date: '06-08-2019 10:00'
+header_image_file: /edci339/home/unit-06/IMG_5277.jpeg
+header_image_alt_text: 'Wildflower Meadows on Raft Mountain'
+header_image_credit: 'Photo Credit: Colin Madland'
+header_image_creditlink: 'https://live.staticflickr.com/65535/48459820757_decd35570c_k_d.jpg'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 header_image_credit: 'Rick Dolishny, Flickr.com'
