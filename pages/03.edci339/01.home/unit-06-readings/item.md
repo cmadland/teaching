@@ -4,13 +4,10 @@ published: true
 date: '06-08-2019 10:00'
 header_image_file: /edci339/home/unit-06/IMG_5277.jpeg
 header_image_alt_text: 'Wildflower Meadows on Raft Mountain'
-header_image_credit: 'Photo Credit: Colin Madland'
+header_image_credit: 'Colin Madland'
 header_image_creditlink: 'https://live.staticflickr.com/65535/48459820757_decd35570c_k_d.jpg'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
-header_image_credit: 'Rick Dolishny, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/rdolishny/2760207306/'
-header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clinic'
 ---
 
 [plugin:content-inject](_important-reminders)
