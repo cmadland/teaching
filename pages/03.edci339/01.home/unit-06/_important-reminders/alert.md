@@ -6,7 +6,7 @@ visible: false
 ---
 
 ## Things to do by August 7
-:fa-book: **Read** [Attributes of Open Pedagogy: A Model for Using Open Educational Resources.](http://www.jstor.org.ezproxy.library.uvic.ca/stable/44430383) Educational Technology, 55(4), 3-13.  
+:fa-book: **Skim** [Attributes of Open Pedagogy: A Model for Using Open Educational Resources.](http://www.jstor.org.ezproxy.library.uvic.ca/stable/44430383) Educational Technology, 55(4), 3-13.  
 :fa-book: **Read** [Textbooks, OER, and the need for open pedagogy.](https://criticaldigitalpedagogy.pressbooks.com/chapter/textbooks-oer-and-the-need-for-open-pedagogy/)    
 :fa-users: **Connect** with your Learning Pod to review Post 3 and plan Post 4.  
-:fa-users: **Support** someone who needs help.
+:fa-life-ring: **Support** someone who needs help.
