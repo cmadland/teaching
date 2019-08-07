@@ -12,7 +12,7 @@ feed:
     limit: 10
 ---
 
-[plugin:content-inject](_important-reminders)
+[plugin:content-inject](../unit-04/_important-reminders)
 
 Here is an article from Oral Roberts University in Oklahoma that you might find interesting in light of our current topic of data surveillance. What do you think?
 

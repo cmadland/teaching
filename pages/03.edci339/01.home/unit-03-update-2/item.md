@@ -12,6 +12,7 @@ hide_git_sync_repo_link: true
 feed:
     limit: 10
 ---
+[plugin:content-inject](../unit-03/_important-reminders)
 
 Another way to think about modalities is to think about how learners are able to access learning opportunities. While onsite learning requires learners to be in a certain place at a certain time, online learning requires learners to have access to a computer and a reliable internet connection. There are people who will be excluded regardless of which modality is offered. The same is true for each of the five headings in Major's chapter from your reading.
 
