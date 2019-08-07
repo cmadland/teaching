@@ -6,4 +6,4 @@ hide_git_sync_repo_link: false
 cache_enable: false
 ---
 
-[plugin:content-inject](/pages/edci339/home/unit-03/_important-reminders)
+[plugin:content-inject](../../unit-03/_important-reminders)
