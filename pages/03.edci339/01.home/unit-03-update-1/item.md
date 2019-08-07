@@ -12,7 +12,7 @@ hide_git_sync_repo_link: true
 feed:
     limit: 10
 ---
-
+[plugin:content-inject](../unit-03/_important-reminders)
 
 By now you should have signed up for a WordPress site and sent me the URL through the form in the Unit 3 link in the [course hub](https://edtechuvic.ca/edci339).
 
