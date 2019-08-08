@@ -27,9 +27,9 @@ Also, you should expand your post to be around 750 words by adding ideas you hav
 
 #### Task Summary
 
-:fa-check: Address grammatical and spelling errors.
-:fa-check: Clarify explanations and ideas.
-:fa-check: Link to all sources.
-:fa-check: Reflect on how your thinking has changed.
+:fa-check: Address grammatical and spelling errors.  
+:fa-check: Clarify explanations and ideas.  
+:fa-check: Link to all sources.  
+:fa-check: Reflect on how your thinking has changed.  
 
 [plugin:content-inject](../unit-07/_important-reminders)
