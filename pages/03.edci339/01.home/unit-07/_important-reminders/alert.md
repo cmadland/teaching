@@ -1,11 +1,13 @@
 ---
-title: 'Important Reminders'
+title: 'Unit 7 Reminders'
 alert_style: alert-secondary
 published: true
 visible: false
 ---
 
-## Things to do by July 31
-:fa-check: Register for a WordPress site.  
-:fa-check: Send your site URL to   
-:fa-check: Read Claire Howell Major. (2015). Teaching Online: A Guide to Theory, Research, and Practice. Retrieved from http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=3318874 (pp. 88-105)  
+## Things to do by Friday, August 9
+:fa-highlighter: **Read** and **Annotate** Tony Bates' post [Back to the Future: open pedagogy, learning design, and ETUG’s 25th anniversary conference](https://www.tonybates.ca/2019/06/24/back-to-the-future-open-pedagogy-learning-design-and-etugs-25th-anniversary-conference/)  
+:fa-wordpress: **Check** that you have published on your blog all four required posts from previous units.
+:fa-wordpress: **Revise**, **update**, **expand**, and **polish** one of your four posts and **tag** it with `Showcase`  
+:fa-question: **Think** about your research post topic. Let me know if you have questions!    
+:fa-life-ring: **Support** someone who needs help. 
