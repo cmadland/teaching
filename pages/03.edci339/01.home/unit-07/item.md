@@ -35,6 +35,8 @@ Anyways for the next couple of days, we are going to have a conversation about t
 
 The [Educational Technology Users Group (eTUG)](https://etug.ca) is a group of educational technologists and interested faculty in BC and has been meeting once or twice a year to talk and learn from each other about how to integrate technology into learning in higher ed in BC. This past June was the 25th anniversary of the eTUG conference and Tony Bates was there as one of the presenters. After the conference, he published a review of the conference as well as a bit about the history and future of EdTech in BC.
 
+### Annotating the Web
+
 If you haven't already done so, please [register for Hypothes.is](https://teaching.madland.ca/hypothesis) and [join the `edci339-summer19` group by clicking on the invite link on this page](https://edtechuvic.ca/edci339/links).
 
 !! Please remember that hypothes.is is hosted in the US and your data will be sent to servers there. You may choose to not register, or to sign up under a pseudonym.
