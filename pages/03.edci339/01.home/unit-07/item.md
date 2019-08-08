@@ -38,3 +38,7 @@ If you haven't already done so, please [register for Hypothes.is](https://teachi
 For this activity, you are encouraged to post to 'Public', although you do have the option of posting to the edci339-summer19 group if you prefer more privacy. If you post to 'Public', please use the tag `edci339` so everyone can find your comments.
 
 As you read Tony's post, please make comments and ask questions as you go. As usual, you shouldn't summarize the post (there's no need as the post is right there!), but you should make connections to what we have talked about in the course, and what `you` find to be important. Make connections to your own experience.
+
+[Tap here for 'Showcase Post'](https://teaching.madland.ca/edci339/home/unit-07-showcase?classes=btn,btn-primary)
+
+---
