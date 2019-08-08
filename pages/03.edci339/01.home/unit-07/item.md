@@ -13,8 +13,8 @@ feed:
     limit: 10
 ---
 
-[plugin:content-inject](_important-reminders)
-[plugin:content-inject](_class-preparations)
+[plugin:content-inject](_class-preparations)  
+[plugin:content-inject](_important-reminders)  
 
 As we enter the final week of EDCI 339, you will be given opportunity to think more deeply about what we've been talking about so far, and to practice some of the open and public scholarship that can be enabled with modern web tools. We started the course in a very stereotypical way in Moodle with an objective quiz, and relatively tightly restricted forum post, but since then we have moved into WordPress, worked through some digital literacies required to register for and host a blog, introduced Hypothes.is as a tool for annotating the web, Slack as a backchannel for conversations around the course. I've offered to meet with anyone either through BlueJeans, but nobody has taken me up on that yet.
 
