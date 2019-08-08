@@ -22,7 +22,7 @@ Here's a shameless plug...
 
 [plugin:content-inject](_class-preparations)
 
-A few of you have called me to talk about the course and plan around your summer schedules, and yesterday, while I was just finishing up a run and swim in Riverside Park in Kamloops. Here's a picture to make you jealous.
+A few of you have called me to talk about the course and plan around your summer schedules, and yesterday, while I was just finishing up a run and swim in Riverside Park in Kamloops (here's a picture to make you jealous), one of you called to talk about integrating some of these ideas into their practice as a teacher this fall!
 
 ![](IMG_0281.jpeg)
 
