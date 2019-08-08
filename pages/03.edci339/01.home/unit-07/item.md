@@ -9,4 +9,5 @@ header_image_creditlink: 'https://www.flickr.com/photos/blakespot/16230041026/'
 header_image_alt_text: 'iOS family of devices pile (2015)'
 ---
 
-#[plugin:content-inject](_important-reminders)
+[plugin:content-inject](_important-reminders)
+[plugin:content-inject](_class-preparations)
