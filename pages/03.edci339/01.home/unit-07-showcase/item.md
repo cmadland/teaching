@@ -21,9 +21,13 @@ Did you see the reminder above? It's important.
 
 By now, you should have published four posts on your blog for each of the last four units. If you haven't completed these four posts, please do so now. `These posts are required.`
 
-Your task for the Showcase Post is to choose `one` of those previous four posts to share with the class and with me for assessment. Before you do that, you need to make sure that it is polished and ready for publication, by `addressing any grammatical or spelling errors`, ensuring that you `link to all sources` (you don't need to use APA or MLA), and `revising anything that was unclear`.
+Your task for the Showcase Post is to choose `one` of those previous four posts to share with the class and with me for assessment. Before you do that, you need to make sure that it is polished and ready for publication, by `addressing any grammatical or spelling errors`, ensuring that you `link to all sources` (you don't need to use APA or MLA), and `revising anything that was unclear.`
+
+!!! Your showcase post should be published as a `new post` on your blog, and it should be `linked` to the original post.
 
 Also, you should expand your post to be around 750 words by adding ideas you have encountered since you published the original, reflecting on how your thinking might have changed or how you might change your practice as an educator.
+
+Before you publish your post, please add the tag `Showcase` in addition to the category `Distributed & Open Learning`.
 
 #### Task Summary
 
@@ -31,5 +35,6 @@ Also, you should expand your post to be around 750 words by adding ideas you hav
 :fa-check: Clarify explanations and ideas.  
 :fa-check: Link to all sources.  
 :fa-check: Reflect on how your thinking has changed.  
+:fa-tag: Add the tag `Showcase` to your post in WordPress.  
 
 [plugin:content-inject](../unit-07/_important-reminders)
