@@ -1,5 +1,5 @@
 ---
-title: 'Unit 7 (August 8-9)'
+title: 'Unit 7 Showcase Post'
 published: false
 date: '08-08-2019 09:00'
 hide_from_post_list: false
