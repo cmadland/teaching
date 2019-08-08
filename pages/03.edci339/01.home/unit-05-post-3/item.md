@@ -13,7 +13,7 @@ feed:
     limit: 10
 ---
 
-#[plugin:content-inject](_important-reminders)
+[plugin:content-inject](../unit-05/_important-reminders)
 
 
 

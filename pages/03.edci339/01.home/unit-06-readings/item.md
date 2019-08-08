@@ -10,7 +10,7 @@ hide_from_post_list: false
 hide_git_sync_repo_link: true
 ---
 
-[plugin:content-inject](_important-reminders)
+[plugin:content-inject](../unit-06/_important-reminders)
 
 There are two items for you to read in this unit.
 
