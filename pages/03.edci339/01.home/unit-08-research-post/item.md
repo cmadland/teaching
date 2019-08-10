@@ -15,7 +15,7 @@ header_image_alt_text: 'Interview in coffee shop'
 
 Your major project for EDCI339 is your Research Blog Post.
 
-Your post should be about 1500 words and written in `academic style`, meaning that you must cite your sources according to APA or MLA, (or another academic style, as long as you use it consistently), and include a reference list at the end of your post.
+Your post should be about 1500 words and written in `academic style`, meaning that you must cite your sources according to APA or MLA, (or another academic style, as long as you use it consistently), and include a reference list at the end of your post. You do **NOT** need to worry about things like a title page and a running head on your blog. Plesae link to as many of your references as you can, and make sure you use headers to format your post in WordPress.
 
 There are several suggested topics listed below, and you may use the topic that you addressed in your `Showcase Post`.
 
