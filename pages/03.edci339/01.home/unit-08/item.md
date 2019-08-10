@@ -17,3 +17,5 @@ For Unit 8, we are going to be considering the importance of `Inclusive Design` 
 Please take some time to view the recording before Monday and bring your questions to our live webinar on Monday afternoon.
 
 [plugin:content-inject](_important-reminders)
+
+[Tap here for 'Research Post'](https://teaching.madland.ca/edci339/home/unit-08-research-post?classes=btn,btn-primary)
