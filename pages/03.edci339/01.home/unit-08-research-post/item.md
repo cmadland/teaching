@@ -9,7 +9,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/cloneofsnake/13966760787
 header_image_alt_text: 'Interview in coffee shop'
 ---
 
-[plugin:content-inject](../home/unit-8/_important-reminders)
+[plugin:content-inject](../unit-8/_important-reminders)
 
 ### Research Blog Post - 1500 words - 50%
 
@@ -19,11 +19,11 @@ Your post should be about 1500 words and written in `academic style`, meaning th
 
 There are several suggested topics listed below, and you may use the topic that you addressed in your `Showcase Post`.
 
-- Inclusive design and accessibility in online learning,
-- Online Corporate Training,
-- Open Education,
-- State of MOOCs,
-- online training in your field,
+- inclusive design and accessibility in online learning,
+- online Corporate Training,
+- open education,
+- state of MOOCs,
+- online training in *your* field,
 - K12 online learning,
 - specific open courses (DS106, ANTH101, Phonar),
 - open textbooks,
