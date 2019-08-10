@@ -9,7 +9,7 @@ header_image_creditlink: 'https://www.flickr.com/photos/cloneofsnake/13966760787
 header_image_alt_text: 'Interview in coffee shop'
 ---
 
-[plugin:content-inject](../unit-8/_important-reminders)
+[plugin:content-inject](../unit-08/_important-reminders)
 
 ### Research Blog Post - 1500 words - 50%
 
