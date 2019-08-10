@@ -1,6 +1,6 @@
 ---
 title: 'Unit 8 - Research Post'
-published: false
+published: true
 date: '10-08-2019 09:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
