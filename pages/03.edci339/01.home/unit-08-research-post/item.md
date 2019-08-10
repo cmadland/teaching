@@ -1,7 +1,7 @@
 ---
-title: 'Unit 8 (Jun 27 - Jul 3)'
+title: 'Unit 8 - Research Post'
 published: false
-date: '27-06-2018 00:00'
+date: '10-08-2019 09:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true
 header_image_credit: 'Nicholas Wang, Flickr.com'
@@ -13,7 +13,7 @@ header_image_alt_text: 'Interview in coffee shop'
 
 ### Research Blog Post - 1500 words - 50%
 
-Your major project for EDCI339 is your Research Blog Post. 
+Your major project for EDCI339 is your Research Blog Post.
 
 Your post should be about 1500 words and written in `academic style`, meaning that you must cite your sources according to APA or MLA, (or another academic style, as long as you use it consistently), and include a reference list at the end of your post.
 
