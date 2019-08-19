@@ -5,8 +5,7 @@ published: true
 visible: false
 ---
 
-## Things to do by August 12
-:fa-film: **Watch** [*Part 1* of this recorded webinar on Inclusive Design](https://bccampus.ca/2019/03/12/inclusive-design-webinar-series/).   
-:fa-question: **Prepare** 2-3 questions for our Monday guest, Jess Mitchell.   
-:fa-wordpress: **Publish** the first draft of your Research Post (final draft is due Monday, August 19).   
-:fa-book: You still have time to **Read** and **Annotate** Tony Bates' post [Back to the Future: open pedagogy, learning design, and ETUG’s 25th anniversary conference](https://www.tonybates.ca/2019/06/24/back-to-the-future-open-pedagogy-learning-design-and-etugs-25th-anniversary-conference/)  
+## Things to do by August 19
+:fa-check: Make sure you have received feedback on your showcase post and contact me if you haven't.  
+:fa-check: **Incorporate** the feedback you received regarding your research post and... 
+:fa-wordpress: **Publish** the *final* draft of your Research Post.   
