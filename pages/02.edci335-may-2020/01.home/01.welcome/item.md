@@ -1,6 +1,6 @@
 ---
 title: Welcome
-published: false
+published: true
 date: '01-05-2020 00:00'
 header_image_file: /edci335/home/week-01/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
@@ -29,14 +29,7 @@ I'm looking forward to spending the next few months with you talking about how t
 
 This is a busy week, so it is in your best interest to get started early. You will need to:
 
-:fa-check: Get oriented to how the course works.<br>
-:fa-check: Sign up for a WordPress blog.<br>
-:fa-check: Email me your blog URL.<br>
-:fa-check: Customize your blog.<br>
-:fa-check: Post a self-introduction.<br>
-:fa-check: Read two relatively short chapters.<br>
-:fa-check: Form your cooperative groups.<br>
-:fa-check: Publish your first 'official' post.<br>
+[plugin:content-inject](_important-reminders)
 
 
 ## Getting started
@@ -63,19 +56,10 @@ The sidebar of the home page of this site includes information about how to cont
 
 #### [CourseSpaces (Moodle)](https://coursespaces.uvic.ca)
 
-You can also find some key things in CourseSpaces such as the course syllabus and some assignment dropboxes. The dropboxes will allow you to ensure that you have submitted the correct link or file for each of your assignments in the course, and it will also give me a tool to ensure that I can communicate assessment and feedback to you in a confidential manner.
-
-I have posted my contact info in CourseSpaces.
+The only thing you will find in CourseSpaces is the course syllabus which contains my contact info.
 
 !! You will not find any course updates in CourseSpaces. Make sure you check here!
 
 !!!! In order to ensure that you receive notifications of updates, please scroll to the bottom of this page, enter your preferred email address, and click 'Subscribe'.
-
-### Things to do this week!
-
-As you know, this is a short course, so we need to dive into things relatively quickly.
-
-[Click here to get started with Week 1!](https://edtechuvic.ca/edci335/week-1)
-
 
 ---
