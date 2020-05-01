@@ -10,6 +10,8 @@ summary:
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
+feed:
+    skip: true
 ---
 
 Hello everyone, and thank you all for your work (some of which is ongoing this weekend!). You should have all received a grade for all of posts 1-5 about your learning challenge as well as your peer reviews. Overall, I'm really pleased with how you have engaged with the course and have shown me evidence that you have learned a thing or two!

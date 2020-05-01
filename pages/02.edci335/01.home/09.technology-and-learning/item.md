@@ -10,6 +10,8 @@ summary:
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
+feed:
+    skip: true
 ---
 
 Week 4 materials are posted!
