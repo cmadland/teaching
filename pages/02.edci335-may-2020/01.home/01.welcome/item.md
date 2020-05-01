@@ -25,7 +25,6 @@ Hello everyone, and welcome to EDCI 335, *Learning Design*.
 
 I'm looking forward to spending the next few months with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
 
-# What's up this week?
 
 This is a busy week, so it is in your best interest to get started early. You will need to:
 
