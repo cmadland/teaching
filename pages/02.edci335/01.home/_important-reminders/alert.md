@@ -3,6 +3,8 @@ title: Important Reminders
 alert_style: alert-secondary
 published: true
 visible: true
+feed:
+    skip: true
 ---
 
 # Updates
