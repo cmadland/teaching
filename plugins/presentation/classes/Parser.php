@@ -72,7 +72,7 @@ class Parser implements ParserInterface
         $handlers->setDefault(
             function (ShortcodeInterface $sc) use ($id, $path) {
                 $name = $sc->getName();
-                $value = $sc->getParameter($name, $sc->getBbCode());
+                $value = $sc->getParameter($name, $sc->getBbCode()) ?? '';
                 if (Utils::startsWith($name, 'class')) {
                     $this->transport->setClass($id, $value);
                 } elseif (Utils::startsWith($name, 'style')) {
@@ -121,6 +121,9 @@ class Parser implements ParserInterface
             }
             $key = str_replace($mode . '-', '', $key);
             if ($mode == 'style') {
+                if (empty($value)) {
+                    continue;
+                }
                 $this->styleProcessor($id, $key, $value, $paths);
             } elseif ($mode == 'data') {
                 $this->transport->setDataAttribute($id, $key, $value);

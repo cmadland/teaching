@@ -1,3 +1,472 @@
+# v3.1.4
+## 03/09/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.1.3
+## 03/09/2020
+
+1. [](#improved)
+    * Added subsite group titles to subsitelist template
+    * Updated demo pages in theme '_demo' folder
+
+# v3.1.2
+## 03/08/2020
+
+1. [](#bugfix)
+    * Revised Bootstrap CSS loading logic to handle non-existent theme config
+
+# v3.1.1
+## 02/22/2020
+
+1. [](#bugfix)
+    * Updated Pagination Twig to handle wider range of URLs correctly (thanks @oleg-sh)
+
+# v3.1.0
+## 02/19/2020
+
+1. [](#improved)
+    * Removed deprecated course and courselist templates and blueprints (now subsite and subsitelist, i.e. `subsite.md` and `subsitelist.md`).
+
+# v3.0.9
+## 02/14/2020
+
+1. [](#new)
+    * Updated demo pages in theme '_demo' folder
+1. [](#bugfix)
+    * Fixed MultiCourse home page link for blog post pages
+
+# v3.0.8
+## 02/13/2020
+
+1. [](#new)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.0.7
+## 02/06/2020
+
+1. [](#new)
+  * Support for Menu property in Sections pages (thanks to @awrog for the suggestion and initial Twig)
+
+# v3.0.6
+## 01/31/2020
+
+1. [](#new)
+  * Support for Navbar background color for each subsite
+1. [](#improved)
+  * Improved Presentation page blueprint
+  * Updated demo pages in theme '_demo' folder
+
+# v3.0.5
+## 01/28/2020
+
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+
+# v3.0.4
+## 01/27/2020
+
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+
+# v3.0.3
+## 01/27/2020
+
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+
+# v3.0.2
+## 01/26/2020
+
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+
+# v3.0.1
+## 01/26/2020
+
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+  * Updated customized template for embedded Presentations with most recent Presentation Plugin release
+
+# v3.0.0
+## 01/24/2020
+
+1. [](#improved)
+  * Improved placement of CC License and Git Sync Links within pages
+  * Updated demo pages in theme '_demo' folder
+
+# v2.9.9
+## 01/24/2020
+
+1. [](#improved)
+  * Added ordering and direction options for subsite list pages
+  * Added support for CC License display for subsite list pages
+  * Updated demo pages in theme '_demo' folder
+
+# v2.9.8
+## 01/23/2020
+
+1. [](#improved)
+  * Added support of `subsite` and `subsitelist` templates for broader use of multisite (e.g. multicourse) sites
+  * Updated demo pages in theme '_demo' folder
+
+# v2.9.7
+## 01/21/2020
+
+1. [](#improved)
+  * Blog post date format is now determined from system config setting
+  * Vertical centering of footer content improved when minimal page content is present
+  * Updated demo pages in theme '_demo' folder
+1. [](#bugfix)
+  * Restored display of taxonomy tags on blog post pages (Sections pages now use the `filter` taxonomy item, which is also needed to be in Taxonomy `site.yaml` config)
+
+# v2.9.6
+## 01/07/2020
+
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+  * Reduced plugin dependencies (removed automatic installation of Anchors, Archives, Breadcrumbs, Feed and TaxonomyList)
+
+# v2.9.5
+## 01/07/2020
+
+1. [](#bugfix)
+  * Single course home page link now fully works with root install of Grav
+
+# v2.9.4
+## 01/06/2020
+
+1. [](#improved)
+  * Changed default demo content from Blog to Basic Course Hub site
+
+# v2.9.3
+## 01/02/2020
+
+1. [](#improved)
+  * Updated CSS for left/right image alignment (thanks to @OleVik)
+
+# v2.9.2
+## 12/19/2019
+
+1. [](#improved)
+  * Improved handling of Favicons for MultiCourse Hubs.
+
+# v2.9.1
+## 12/19/2019
+
+1. [](#new)
+  * Experimental support for a custom Favicon per course (thanks to @drbfraser for the initial suggestion)
+1. [](#improved)
+  * Added 'wc' prefix to example Web Component shortcode, template, and blueprint
+  * Updated demo pages in theme '_demo' folder
+
+# v2.9.0
+## 12/18/2019
+
+1. [](#new)
+  * Support for custom links (e.g. PDFs) with embedded Presentations
+
+# v2.8.9
+## 12/17/2019
+
+1. [](#new)
+  * Added Anchors Plugin as dependency, for use with the Topics index page
+
+# v2.8.8
+## 12/09/2019
+
+1. [](#new)
+  * Added CSS style for Topics index page
+1. [](#improved)
+  * Updated demo pages in theme '_demo' folder
+
+# v2.8.7
+## 12/08/2019
+
+1. [](#improved)
+  * Changed reference of "Menubar" to "Menu" in theme setting
+
+# v2.8.6
+## 12/08/2019
+
+1. [](#improved)
+    * Reorganized theme options for Git Sync Link and Custom Menu Items (thanks to @MakaryGo for the initial suggestion)
+    * Renamed template/blueprint of PageAccordion to Accordion, PageRSSFeeds to RSSFeeds,  MenubarItem to Menuitem, CustomContentList to CustomPageTypes, and LatestContentItem to LatestCustomPageType
+    * Removed deprecated swipedeck template partials
+    * Updated demo pages in theme '_demo' folder
+
+# v2.8.5
+## 11/29/2019
+
+1. [](#improved)
+    * Streamlined blueprints options and text labels, and removed subsequently unneeded blueprints
+    * Removed unused custompagetypes blueprint and template (deprecated with customcontentlist)
+
+# v2.8.4
+## 11/27/2019
+
+1. [](#improved)
+    * Removed deprecated swipedeck template, blueprint and shortcode
+
+# v2.8.3
+## 11/22/2019
+
+1. [](#improved)
+    * Updated experimental Markdown file Shortcode ([markdownfile url=""]) to support displaying Grav Markdown pages (frontmatter is removed)
+
+# v2.8.2
+## 11/21/2019
+
+1. [](#new)
+    * Added links blueprint
+
+# v2.8.1
+## 11/18/2019
+
+1. [](#bugfix)
+    * Updated Alert modular template to only use checkmarks for unordered lists
+
+# v2.8.0
+## 11/08/2019
+
+1. [](#new)
+    * Added experimental Markdown file Shortcode ([markdownfile url=""]) to embed external Markdown files (thanks to @OleVik for help along the way)
+
+# v2.7.9
+## 10/21/2019
+
+1. [](#new)
+    * Included experimental Web Components ShortCode 'StopNote' ([wcstopnote title="" message=""]), which is made possible by the Web Components Plugin by @btopro.
+    * Included experimental Web Components template and blueprint 'StopNote', which is made possible by the Web Components Plugin by @btopro.
+
+# v2.7.8
+## 10/17/2019
+
+1. [](#improved)
+    * Updated PageRSSFeeds template for TwigFeeds 4.0 Beta
+    * Updated demo pages in theme '_demo' folder
+1. [](#bugfix)
+    * MultiCourse home page link now works with root install of Grav
+
+# v2.7.8-beta.2
+## 10/16/2019
+
+1. [](#bugfix)
+    * MultiCourse home page link now works with root install of Grav
+
+# v2.7.8-beta.1
+## 10/06/2019
+
+1. [](#improved)
+    * Updated PageRSSFeeds template for TwigFeeds 4.0 Beta
+    * Updated demo pages in theme '_demo' folder
+
+# v2.7.7
+## 09/30/2019
+
+1. [](#improved)
+    * Made Course List card column width options more understandable
+1. [](#bugfix)
+    * Fixed display of Sidebar on Course List pages
+
+# v2.7.6
+## 09/18/2019
+
+1. [](#improved)
+    * Added enhanced support for header image paths in modular items
+
+# v2.7.5
+## 09/16/2019
+
+1. [](#improved)
+    * Updated JS to be the same as Quark Open Publishing JS
+
+# v2.7.4
+## 09/13/2019
+
+1. [](#improved)
+    * Set image within Course List cards to be clickable
+
+# v2.7.3
+## 09/12/2019
+
+1. [](#improved)
+    * Revised options for Course List card column widths (3,4,5,8 and 12)
+1. [](#bugfix)    
+    * Support CTRL + click to open links in new tab as expected
+
+# v2.7.2
+## 09/03/2019
+
+1. [](#new)
+    * Added links templates to provide an auto-generated index of all links within a folder
+    * Added new linkbutton template (to display link as a button)
+1. [](#improved)
+    * Added option for Course List card column widths (3-6)
+
+# v2.7.1
+## 08/26/2019
+
+1. [](#improved)
+    * MultiCourse course or coursegroup items are automatically excluded from Navbar
+
+# v2.7.0
+## 08/25/2019
+
+1. [](#improved)
+    * Better handling of MultiCourse course items on Navbar
+    * Removed deprecated theme 'multi_course_hub.enabled' option
+    * Removed deprecated theme 'course_name_term_separator' option
+    * Use system config of home page instead of fixed name of 'home'
+1. [](#bugfix)
+    * Fixed 'dropdown.enabled' setting for active theme (and not just parent bootstrap4 theme)
+
+# v2.6.9
+## 08/12/2019
+
+1. [](#improved)
+    * Restored support for dropdown (i.e. child page) menu items with current page highlight
+1. [](#bugfix)
+    * Removed ShortCode Core Plugin 4.1.2 as a dependency (not needed after Shortcode Core 4.14 update)
+
+# v2.6.8
+## 08/11/2019
+
+1. [](#bugfix)
+    * Set ShortCode Core Plugin 4.1.2 as a dependency (changed blueprint syntax)
+
+# v2.6.7
+## 08/11/2019
+
+1. [](#bugfix)
+    * Set ShortCode Core Plugin 4.1.2 as a dependency to avoid issues with 4.1.3 updated
+
+# v2.6.6
+## 08/10/2019
+
+1. [](#improved)
+    * Added support to hide Git Sync Link for each embedded Presentation
+    * Updated Presentation blueprint Git Sync options
+
+# v2.6.5
+## 08/09/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.6.4
+## 08/08/2019
+
+1. [](#improved)
+    * Fine tuning of automatic Git Sync Link for embedded Presentations
+    * Improved support for custom Git Sync Link text for pages and presentations
+
+# v2.6.3
+## 08/08/2019
+
+1. [](#bugfix)
+    * Fixed automatic Git Sync Link for Presentations in a Presentation List page
+1. [](#improved)
+    * Updated custom sidebars to support multiple courses and presentation lists
+    * Updated demo pages in theme '_demo' folder
+
+# v2.6.2
+## 08/07/2019
+
+1. [](#improved)
+    * Updated custom sidebars to support multiple courses and presentation lists
+    * Updated demo pages in theme '_demo' folder
+
+# v2.6.1
+## 08/05/2019
+
+1. [](#new)
+    * Added example Presentation Hub site pages in theme '_demo' folder
+1. [](#improved)
+    * Adjusted display of Git Sync Link display with embedded Presentations
+
+# v2.6.0
+## 08/01/2019
+
+1. [](#bugfix)
+    * Restored missing square brackets on example Schedule pages
+
+# v2.5.9
+## 07/31/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.5.8
+## 07/28/2019
+
+1. [](#new)
+    * Added Link template and blueprint
+
+# v2.5.7
+## 07/24/2019
+
+1. [](#bugfix)
+    * Support option to hide Git Sync Link for embedded Presentations
+
+# v2.5.6
+## 07/24/2019
+
+1. [](#improved)
+    * Improved Git Sync Link appearance for embedded Presentations
+
+# v2.5.5
+## 07/05/2019
+
+1. [](#bugfix)
+    * Updated Taxonomy List template to support only including child page taxonomy items
+
+# v2.5.4
+## 07/02/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.5.3
+## 06/29/2019
+
+1. [](#bugfix)
+    * Sidebar Taxonomy List only includes child page taxonomy items
+
+# v2.5.2
+## 06/21/2019
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v2.5.1
+## 06/15/2019
+
+1. [](#improved)
+    * Updated theme blueprints YAML for Grav 1.6.10 Admin Panel YAML Linter
+    * Updated demo pages in theme '_demo' folder
+
+# v2.5.0
+## 06/13/2019
+
+1. [](#improved)
+    * Support for direct link to Presentation Markdown file when Presentation images are stored in a child folder
+    * Added custom Git Sync Link Text specific to embedded Presentations
+
+# v2.4.9
+## 06/12/2019
+
+1. [](#improved)
+    * Removed Markdown Font Awesome Plugin dependency
+    * Updated demo pages in theme '_demo' folder
+
+# v2.4.8
+## 06/12/2019
+
+1. [](#new)
+    * Course page `published:false` frontmatter option automatically sets all subsequent course child pages to be unavailable (thanks @ricardo118)
+
 # v2.4.7
 ## 06/10/2019
 
