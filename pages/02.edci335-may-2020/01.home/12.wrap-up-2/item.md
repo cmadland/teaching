@@ -1,6 +1,6 @@
 ---
 title: Wrap-up 2
-published: true
+published: false
 date: '29-06-2019 00:00'
 header_image_alt_text: 'iOS family of devices pile (2015)'
 header_image_credit: 'Blake Patterson, Flickr.com'

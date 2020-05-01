@@ -1,6 +1,6 @@
 ---
 title: 'Week 1 Update 2'
-published: true
+published: false
 date: '09-05-2019 00:00'
 summary:
     enabled: '1'

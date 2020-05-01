@@ -1,6 +1,6 @@
 ---
 title: 'How People Learn'
-published: true
+published: false
 date: '16-05-2019 00:00'
 header_image_alt_text: 'Information architecture'
 header_image_credit: 'CannedTuna, Flickr.com'

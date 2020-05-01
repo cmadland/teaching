@@ -1,6 +1,6 @@
 ---
 title: Home
-published: true
+published: false
 body_classes: 'header-image fullwidth'
 child_type: item
 content:

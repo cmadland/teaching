@@ -1,6 +1,6 @@
 ---
 title: 'Week 3 - Update 1'
-published: true
+published: false
 date: '23-05-2019 00:00'
 header_image_alt_text: Bullseye
 header_image_credit: 'Emilio Küffer, Flickr.com'
