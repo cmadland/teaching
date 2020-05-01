@@ -1,3 +1,26 @@
+# v3.1.7
+## 04/30/2020
+
+1. [](#bugfix)
+    * Restored list item indent within Important Reminders area for correct display of associated badges
+
+# v3.1.6
+## 04/28/2020
+
+1. [](#new)
+    * Added `badge` shortcode for display of badges
+1. [](#improved)
+    * Added support for optional display of badge with `link` page types
+
+# v3.1.5
+## 04/26/2020
+
+1. [](#new)
+    * Added `linktextonly` template for text only display of link items
+    * Added checking for URL value when displaying `link` page types
+1. [](#improved)
+    * Added support for optional display of title links for `embedlycard` page types
+
 # v3.1.4
 ## 03/09/2020
 
