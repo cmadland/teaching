@@ -4,11 +4,11 @@ alert_style: alert-secondary
 published: true
 visible: true
 feed:
-    skip: true
+    skip: false
 ---
 
 # Updates
-Updated Friday, May 1.
+Updated Saturday, June 29.
 
 - My last official post is published.
 - Two items due on Sunday, June 30:

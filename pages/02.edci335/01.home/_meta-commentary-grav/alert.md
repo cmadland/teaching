@@ -7,7 +7,7 @@ header_image_alt_text: ''
 header_image_credit: ''
 header_image_creditlink: ''
 feed:
-    skip: true
+    skip: false
 ---
 
 On the morning of Saturday, June 1, I received an email from a keen Saturday morning learner letting me know that the course site was down and asking whether there was another way to access the materials because they wanted to keep working on Blog Post #3.

@@ -11,7 +11,7 @@ hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
-    skip: true
+    skip: false
 ---
 
 Just a quick update this morning (Tuesday, May 28).

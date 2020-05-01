@@ -4,7 +4,7 @@ alert_style: alert-primary
 published: true
 visible: true
 feed:
-    skip: true
+    skip: false
 ---
 
 # Things to do this week...
