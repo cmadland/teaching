@@ -8,7 +8,7 @@ feed:
 ---
 
 # Updates
-Updated Saturday, June 29.
+Updated Friday, May 1.
 
 - My last official post is published.
 - Two items due on Sunday, June 30:
