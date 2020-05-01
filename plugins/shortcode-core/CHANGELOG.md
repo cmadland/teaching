@@ -1,3 +1,77 @@
+# v4.2.2
+## 03/04/2020
+
+1. [](#improved)
+    * Added second `$options` parameter to `ShortcodeCore->registerAllShortcodes()`, key `ignore` can be used to ignore class names / files from being loaded
+1. [](#bugfix)
+    * Fix shortcodes which do not override `init()` method, added deprecation notice instead [#82](https://github.com/getgrav/grav-plugin-shortcode-core/issues/82)
+    * Fixed error message showing up when updating older versions (<4.2.0) of the plugin [#84](https://github.com/getgrav/grav-plugin-shortcode-core/issues/84)
+
+# v4.2.1
+## 02/14/2020
+
+1. [](#improved)
+    * Improved shortcode loading, all shortcodes should now extend `Grav\Plugin\Shortcodes\Shortcode` class
+1. [](#bugfix)
+    * Fixed `Class 'Grav\Plugin\Shortcodes\Shortcode' not found` error when using some plugins
+    * Fixed fatal error when trying to instantiate bad shortcodes (they will be skipped instead)
+
+# v4.2.0
+## 02/11/2020
+
+1. [](#new)
+    * Pass phpstan level 1 tests
+    * Added autoload support for registering shortcodes with `$grav['shortcode']->registerShortcode($name)`
+    * Moved `ShortcodeObject` classes into `Grav\Plugin\ShortcodeCore` namespace with old alias
+1. [](#improved)
+    * Major code cleanup
+
+# v4.1.7
+## 12/04/2019
+
+1. [](#new)
+    * Added a new `[lorem]` shortcode for quickly generating lorem ipsum dummy content
+    * Updated Core Thunderer Shortcode library to `0.7.3` for PHP 7.4 compatibility
+
+# v4.1.6
+## 10/03/2019
+
+1. [](#improved)
+    * Support markdown in `Figure` shortcode caption attribute
+    * FlexObjects compatibility: changed references to `Page` class to use `PageInterface`
+    * Reworked the `shortcode` twig var to use a class/method approach for better compatibility in modular/page formats
+1. [](#bugfix)
+    * Fix issue with `[language]` when `include_default_lang: false` [#76](https://github.com/getgrav/grav-plugin-shortcode-core/issues/76)
+
+# v4.1.5
+## 09/05/2019
+
+1. [](#improved)
+    * Run `onContentProcessed()` event after all other plugins [#75](https://github.com/getgrav/grav-plugin-shortcode-core/issues/75)
+
+# v4.1.4
+## 08/11/2019
+
+1. [](#new)
+    * Added a new `[details][/details]` shortcode [#72](https://github.com/getgrav/grav-plugin-shortcode-core/pull/72)
+1. [](#improved)
+  * Fixed regression issue introduced in v1.4.3 [#73](https://github.com/getgrav/grav-plugin-shortcode-core/issues/73)
+
+# v4.1.3
+## 08/09/2019
+
+1. [](#improved)
+  * Fix for shortcode objects not being available. For example `[section][/section]` not working previously without `process: twig: true`
+  * `README.md` improvements 
+
+# v4.1.2
+## 06/22/2019
+
+1. [](#new)
+  * Added new `h#` tags for `h1` through `h6` supporting `class` and `id` attributes
+1. [](#improved)
+  * Make `ShortcodeManager::setStates()` more flexible to accept any type of object  
+
 # v4.1.1
 ## 04/23/2019
 

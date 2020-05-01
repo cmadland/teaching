@@ -78,11 +78,10 @@ class PresentationPlugin extends Plugin
      */
     public function onPluginsInitialized()
     {
-        if ($this->config->get('plugins')['presentation']['enabled'] != true) {
+        if ($this->config->get('plugins.presentation.enabled') != true) {
             return;
         }
-        $config = $this->config->get('plugins')['presentation'];
-        if ($this->config->get('system')['debugger']['enabled']) {
+        if ($this->config->get('system.debugger.enabled')) {
             $this->grav['debugger']->startTimer('presentation', 'Presentation');
         }
         if ($this->isAdmin() && $this->config->get('plugins.admin')) {
@@ -96,13 +95,12 @@ class PresentationPlugin extends Plugin
             );
         }
         $this->cache = $this->grav['config']->get('system.cache.enabled');
-        $this->grav['config']->set('system.cache.enabled', false);
         $this->cacheTwig = $this->grav['config']->get('system.pages.never_cache_twig');
-        $this->grav['config']->set('system.pages.never_cache_twig', true);
         $this->enable(
             [
                 'onShortcodeHandlers' => ['onShortcodeHandlers', 0],
-                'onPageContentProcessed' => ['pageIteration', 0],
+                'onPageInitialized' => ['pagePreCache', 0],
+                'onPageContentProcessed' => ['pageIteration', -10],
                 'onTwigExtensions' => ['onTwigExtensions', 0],
                 'onTwigTemplatePaths' => ['templates', 0],
                 'onTwigSiteVariables' => ['twigBaseUrl', 0],
@@ -111,7 +109,7 @@ class PresentationPlugin extends Plugin
                 'onShutdown' => ['onShutdown', 0]
             ]
         );
-        if ($this->config->get('system')['debugger']['enabled']) {
+        if ($this->config->get('system.debugger.enabled')) {
             $this->grav['debugger']->stopTimer('presentation');
         }
     }
@@ -123,12 +121,25 @@ class PresentationPlugin extends Plugin
      */
     public function config()
     {
-        $plugins = (array) $this->config->get('plugins');
-        if (isset($plugins) && $plugins['presentation']['enabled']) {
-            return $plugins['presentation'];
+        if ($this->config->get('plugins.presentation')) {
+            return (array) $this->config->get('plugins.presentation');
         }
         return false;
     }
+
+    /**
+     * Disable caching for related templates
+     *
+     * @return void
+     */
+    public function pagePreCache()
+    {
+        if ($this->grav['page']->template() == 'presentation' || $this->grav['page']->template() == 'slide') {
+            $this->grav['config']->set('system.cache.enabled', false);
+            $this->grav['config']->set('system.pages.never_cache_twig', true);
+        }
+    }
+
 
     /**
      * Construct the page
@@ -139,9 +150,6 @@ class PresentationPlugin extends Plugin
     {
         $grav = $this->grav;
         $config = $this->config();
-        if (!$config['enabled']) {
-            return;
-        }
         if ($grav['page']->template() == 'presentation' || $grav['page']->template() == 'slide') {
             if (!isset($this->grav['twig']->twig_vars['reveal_init'])) {
                 $baseUrl = $this->grav['uri']->rootUrl(true);
@@ -167,18 +175,31 @@ class PresentationPlugin extends Plugin
                     $this->parser,
                     $this->transport
                 );
-                if (isset($config['style']) && !empty($config['style'])) {
-                    $this->parser->processor($config['style'], 'presentation', (array) $grav['page'], 'style');
+                if ($this->config->get('plugins.presentation.style')
+                    && !empty($this->config->get('plugins.presentation.style'))
+                ) {
+                    $this->parser->processor(
+                        $this->config->get('plugins.presentation.style'),
+                        'presentation',
+                        (array) $grav['page'],
+                        'style'
+                    );
                 }
                 $tree = $this->content->buildTree($grav['page']->route());
                 $slides = $this->content->buildContent($tree);
                 $grav['page']->setRawContent($slides);
                 $menu = $this->content->buildMenu($tree);
                 $menu = Utilities::flattenArray($menu, 1);
-                $options = Utilities::parseAmbiguousArrayValues($config['options']);
+                $options = Utilities::parseAmbiguousArrayValues(
+                    $this->config->get('plugins.presentation.options')
+                );
                 $options = json_encode($options, JSON_PRETTY_PRINT);
-                $breakpoints = json_encode($config['breakpoints']);
-                $this->grav['twig']->twig_vars['reveal_init'] = $options;
+                $breakpoints = json_encode(
+                    $this->config->get('plugins.presentation.breakpoints')
+                );
+                /* Deprecated v3.1.0 */
+                // $this->grav['twig']->twig_vars['reveal_init'] = $options;
+                $grav['assets']->addInlineJs('const reveal_init = ' . $options . ';', null, 'presentation');
                 $this->grav['twig']->twig_vars['presentation_menu'] = $menu;
                 $this->grav['twig']->twig_vars['presentation_breakpoints'] = $breakpoints;
                 $grav['assets']->addInlineCss($this->transport->getStyles(), null, 'presentation');
@@ -195,16 +216,19 @@ class PresentationPlugin extends Plugin
     {
         $uri = $this->grav['uri'];
         $page = $this->grav['page'];
-        $config = $this->config();
         $plugins = $this->config->get('plugins');
-        if ($uri->path() == '/' . $config['api_route']) {
+        if ($uri->path() == '/' . $this->config->get('plugins.presentation.api_route')) {
             if ($_GET['action'] == 'poll') {
-                $this->handlePollAPI($uri, $page, $config);
+                $this->handlePollAPI(
+                    $uri,
+                    $page,
+                    (array) $this->config->get('plugins.presentation')
+                );
             }
         }
         if (isset($plugins['admin']) && $plugins['admin']['enabled'] == true) {
             $adminRoute = $this->config->get('plugins')['admin']['route'];
-            if ($uri->path() == $adminRoute . '/' . $config['api_route']) {
+            if ($uri->path() == $adminRoute . '/' . $this->config->get('plugins.presentation.api_route')) {
                 if ($_GET['action'] == 'save') {
                     $this->handleSaveAPI();
                 }
@@ -248,7 +272,7 @@ class PresentationPlugin extends Plugin
      */
     public function handlePollAPI($config)
     {
-        if ($config['sync'] == 'poll') {
+        if (isset($config['sync']) && $config['sync'] == 'poll') {
             set_time_limit(0);
             header('Cache-Control: no-cache, no-store, max-age=0, must-revalidate');
             header('Pragma: no-cache');
@@ -262,6 +286,9 @@ class PresentationPlugin extends Plugin
             include_once __DIR__ . '/API/Poll.php';
             $poll = new Poll($target, 'Poll.json');
             gc_enable();
+            if (!isset($config['token']) || empty($config['token'])) {
+                return;
+            }
             if ($_GET['mode'] == 'set' && isset($_GET['data'])) {
                 Utilities::authorize($config['token']);
                 $poll->remove();
@@ -477,24 +504,22 @@ class PresentationPlugin extends Plugin
     public function onAdminPagesAssetsInitialized()
     {
         $uri = $this->grav['uri'];
-        $config = $this->config();
-        $page = $this->grav['page'];
         $res = Grav::instance()['locator'];
         $path = $res->findResource('plugin://' . $this->name, false);
-        $adminRoute = $this->config->get('plugins')['admin']['route'];
+        $adminRoute = $this->config->get('plugins.admin.route');
         if (!Utils::contains($uri->path(), $adminRoute . '/pages')) {
             return;
         }
-        if ($config['admin_async_save'] !== true) {
+        if ($this->config->get('plugins.presentation.admin_async_save') !== true) {
             return;
         }
         $adminRoute = $uri->rootUrl(true) . $adminRoute;
         $inlineJsConstants = array(
-            'presentationAPIRoute = "' . $adminRoute . '/' . $config['api_route'] . '"',
-            'presentationAPITimeout = ' . ($config['poll_timeout'] ?: 2000) * 2.5,
-            'presentationAPIRetryLimit = ' . ($config['poll_retry_limit'] ?: 10),
-            'presentationAdminAsyncSave = ' . ($config['admin_async_save'] ?: 0),
-            'presentationAdminAsyncSaveTyping = ' . ($config['admin_async_save_typing'] ?: 0)
+            'presentationAPIRoute = "' . $adminRoute . '/' . $this->config->get('plugins.presentation.api_route') . '"',
+            'presentationAPITimeout = ' . ($this->config->get('plugins.presentation.poll_timeout') ?: 2000) * 2.5,
+            'presentationAPIRetryLimit = ' . ($this->config->get('plugins.presentation.poll_retry_limit') ?: 10),
+            'presentationAdminAsyncSave = ' . ($this->config->get('plugins.presentation.admin_async_save') ?: 0),
+            'presentationAdminAsyncSaveTyping = ' . ($this->config->get('plugins.presentation.admin_async_save_typing') ?: 0)
         );
         $inlineJs = '';
         foreach ($inlineJsConstants as $constant) {
@@ -522,12 +547,18 @@ class PresentationPlugin extends Plugin
      */
     public function onAssetsInitialized()
     {
-        $config = $this->config();
-        if ($config['textsizing'] == 'true' && !empty($config['breakpoints'])) {
+        if ($this->config->get('plugins.presentation.textsizing')
+            && $this->config->get('plugins.presentation.breakpoints')
+            && !empty($this->config->get('plugins.presentation.breakpoints'))
+        ) {
             $css = '';
             $element = '.reveal .slides section section, .reveal.center .slides section section';
-            $breakpoints = array_keys($config['breakpoints']);
-            $sizes = array_values($config['breakpoints']);
+            $breakpoints = array_keys(
+                $this->config->get('plugins.presentation.breakpoints')
+            );
+            $sizes = array_values(
+                $this->config->get('plugins.presentation.breakpoints')
+            );
             for ($i = 0; $i < count($breakpoints); $i++) {
                 $css .= '@media screen and ';
                 if ($i == 0) {

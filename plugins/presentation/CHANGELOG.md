@@ -1,3 +1,62 @@
+# v3.1.2
+## 10-02-2020
+
+1. [](#bugfix)
+   - Reduce reliance on config()
+
+# v3.1.1
+## 09-02-2020
+
+1. [](#bugfix)
+   - Handle null-values saved by Admin
+
+# v3.1.0
+## 09-02-2020
+
+1. [](#new)
+   - Enable ParsedownExtra when set in system.yaml
+2. [](#bugfix)
+   - Variable in blueprints.yaml and languages.yaml
+
+# v3.0.2
+## 01-10-2019
+
+1. [](#bugfix)
+   - Testing-parameter is useless, let me have Semantic Versioning!
+
+# v3.0.1
+## 01-10-2019
+
+1. [](#new)
+   - Release 3.0.1
+
+# v3.0.0-beta.1
+## 15-09-2019
+
+1. [](#improved)
+   - Align content processing with Shortcode Core (https://github.com/getgrav/grav-plugin-shortcode-core/issues/75#issuecomment-531596152)
+
+# v2.1.0
+## 09-08-2019
+
+1. [](#improved)
+   - Defer assets loading (#11)
+   - README
+   - Blueprints
+
+# v2.0.3
+## 17-07-2019
+
+1. [](#bugfix)
+   - Blank value fallback in shortcode-processing
+
+# v2.0.2
+## 22-06-2019
+
+1. [](#improved)
+   - Cache-manipulation
+   - Config-retrieval
+
 # v2.0.1
 ## 10-06-2019
 

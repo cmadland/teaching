@@ -11,6 +11,7 @@ use Grav\Common\Grav;
 use Grav\Common\Inflector;
 use Grav\Common\Language\Language;
 use Grav\Common\Page\Interfaces\PageInterface;
+use Grav\Common\Security;
 use Grav\Common\Uri;
 use Grav\Common\Utils;
 use Grav\Framework\Filesystem\Filesystem;
@@ -35,7 +36,8 @@ use RocketTheme\Toolbox\ResourceLocator\UniformResourceLocator;
  * @property-read Data $data
  * @property-read array $files
  * @property-read Data $value
- * @property-read array $errors
+ * @property array $errors
+ * @property array $upload_errors
  * @property-read array $fields
  * @property-read Blueprint $blueprint
  * @property-read PageInterface $page
@@ -133,7 +135,7 @@ class Form implements FormInterface, \ArrayAccess
         }
 
         // If we're on a modular page, find the real page.
-        while ($page && $page->modular()) {
+        while ($page && $page->modularTwig()) {
             $header = $page->header();
             $header->never_cache_twig = true;
             $page = $page->parent();
@@ -157,9 +159,6 @@ class Form implements FormInterface, \ArrayAccess
         if (empty($this->items['id'])) {
             $this->items['id'] = Inflector::hyphenize($this->items['name']);
         }
-        if (empty($this->items['uniqueid'])) {
-            $this->items['uniqueid'] = Utils::generateRandomString(20);
-        }
 
         if (empty($this->items['nonce']['name'])) {
             $this->items['nonce']['name'] = 'form-nonce';
@@ -172,11 +171,19 @@ class Form implements FormInterface, \ArrayAccess
         // Initialize form properties.
         $this->name = $this->items['name'];
         $this->setId($this->items['id']);
-        $this->setUniqueId($this->items['uniqueid']);
+
+        $uniqueid = $this->items['uniqueid'] ?? null;
+        if (null === $uniqueid && !empty($this->items['remember_state'])) {
+            $this->set('remember_redirect', true);
+        }
+        $this->setUniqueId($uniqueid ?? strtolower(Utils::generateRandomString($this->items['uniqueid_len'] ?? 20)));
 
         $this->initialize();
     }
 
+    /**
+     * @return $this
+     */
     public function initialize()
     {
         // Reset and initialize the form
@@ -186,7 +193,11 @@ class Form implements FormInterface, \ArrayAccess
 
         // Remember form state.
         $flash = $this->getFlash();
-        $data = ($flash->exists() ? $flash->getData() : null) ?? $this->header_data;
+        if ($flash->exists()) {
+            $data = $flash->getData() ?? $this->header_data;
+        } else {
+            $data = $this->header_data;
+        }
 
         // Remember data and files.
         $this->setAllData($data);
@@ -196,6 +207,8 @@ class Form implements FormInterface, \ArrayAccess
         // Fire event
         $grav = Grav::instance();
         $grav->fireEvent('onFormInitialized', new Event(['form' => $this]));
+
+        return $this;
     }
 
     protected function setAllFiles(FormFlash $flash)
@@ -250,6 +263,11 @@ class Form implements FormInterface, \ArrayAccess
         $this->setAllData($this->header_data);
         $this->values = new Data();
 
+        // Reset unique id (allow multiple form submits)
+        $uniqueid = $this->items['uniqueid'] ?? null;
+        $this->set('remember_redirect', null === $uniqueid && !empty($this->items['remember_state']));
+        $this->setUniqueId($uniqueid ?? strtolower(Utils::generateRandomString($this->items['uniqueid_len'] ?? 20)));
+
         // Fire event
         $grav = Grav::instance();
         $grav->fireEvent('onFormInitialized', new Event(['form' => $this]));
@@ -292,7 +310,7 @@ class Form implements FormInterface, \ArrayAccess
         $this->setError($message);
     }
 
-    public function set($name, $default, $separator = null)
+    public function set($name, $value, $separator = null)
     {
         switch (strtolower($name)) {
             case 'id':
@@ -301,7 +319,7 @@ class Form implements FormInterface, \ArrayAccess
                 return $this->{$method}();
         }
 
-        return $this->traitSet($name, $default, $separator);
+        return $this->traitSet($name, $value, $separator);
     }
 
     /**
@@ -570,7 +588,7 @@ class Form implements FormInterface, \ArrayAccess
             }
 
             $isMime = strstr($type, '/');
-            $find   = str_replace(['.', '*'], ['\.', '.*'], $type);
+            $find   = str_replace(['.', '*', '+'], ['\.', '.*', '\+'], $type);
 
             if ($isMime) {
                 $match = preg_match('#' . $find . '$#', $mime);
@@ -636,9 +654,14 @@ class Form implements FormInterface, \ArrayAccess
         $upload['file']['name'] = $filename;
         $upload['file']['path'] = $path;
 
+        // Special Sanitization for SVG
+        if (method_exists('Grav\Common\Security', 'sanitizeSVG') && Utils::contains($mime, 'svg', false)) {
+            Security::sanitizeSVG($upload['file']['tmp_name']);
+        }
+
         // We need to store the file into flash object or it will not be available upon save later on.
         $flash = $this->getFlash();
-        $flash->setUrl($url)->setUser($grav['user']);
+        $flash->setUrl($url)->setUser($grav['user'] ?? null);
 
         if ($task === 'cropupload') {
             $crop = $post['crop'];
@@ -838,7 +861,7 @@ class Form implements FormInterface, \ArrayAccess
 
     /**
      * @return string
-     * @deprecated 3.0 Use $this->getName() instead
+     * @deprecated 3.0 Use $form->getName() instead
      */
     public function name(): string
     {
@@ -847,7 +870,7 @@ class Form implements FormInterface, \ArrayAccess
 
     /**
      * @return array
-     * @deprecated 3.0 Use $this->getFields() instead
+     * @deprecated 3.0 Use $form->getFields() instead
      */
     public function fields(): array
     {
@@ -856,7 +879,7 @@ class Form implements FormInterface, \ArrayAccess
 
     /**
      * @return PageInterface
-     * @deprecated 3.0 Use $this->getPage() instead
+     * @deprecated 3.0 Use $form->getPage() instead
      */
     public function page(): PageInterface
     {
@@ -866,7 +889,7 @@ class Form implements FormInterface, \ArrayAccess
     /**
      * Backwards compatibility
      *
-     * @deprecated 3.0
+     * @deprecated 3.0 Calling $form->filter() is not needed anymore (does nothing)
      */
     public function filter(): void
     {
@@ -979,7 +1002,7 @@ class Form implements FormInterface, \ArrayAccess
 
     public function getPagePathFromToken($path)
     {
-        return Utils::getPagePathFromToken($path, $this->page());
+        return Utils::getPagePathFromToken($path, $this->getPage());
     }
 
     /**
@@ -1039,7 +1062,7 @@ class Form implements FormInterface, \ArrayAccess
         $defaults = [
             'name' => $this->items['name'],
             'id' => $this->items['id'],
-            'uniqueid' => $this->items['uniqueid'],
+            'uniqueid' => $this->items['uniqueid'] ?? null,
             'data' => []
         ];
 
@@ -1122,6 +1145,12 @@ class Form implements FormInterface, \ArrayAccess
     {
         // Store updated data into flash.
         $flash = $this->getFlash();
+
+        // Check special case where there are no changes made to the form.
+        if (!$flash->exists() && $data === $this->header_data) {
+            return;
+        }
+
         $this->setAllData($flash->getData() ?? []);
 
         $this->data->merge($data);
