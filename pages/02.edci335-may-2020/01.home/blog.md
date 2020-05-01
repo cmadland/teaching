@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog
 published: true
 body_classes: 'header-image fullwidth'
 child_type: item
@@ -22,4 +22,4 @@ continue_link_as_button: true
 hide_git_sync_repo_link: false
 ---
 
-[plugin:content-inject](/edci335-may-2020/home/_important-reminders)
+[plugin:content-inject](_important-reminders)
