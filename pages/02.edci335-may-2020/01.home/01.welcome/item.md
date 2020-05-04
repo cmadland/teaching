@@ -31,7 +31,7 @@ I'm looking forward to spending the next few months with you talking about how t
 
 This is a busy week, so it is in your best interest to get started early. You will need to:
 
-[plugin:content-inject](_important-reminders)
+[plugin:content-inject](_week-1)
 
 
 ## Getting started
