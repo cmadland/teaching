@@ -28,12 +28,6 @@ Hello everyone, and welcome to EDCI 335, *Learning Design*.
 
 I'm looking forward to spending the next few months with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
 
-
-This is a busy week, so it is in your best interest to get started early. You will need to:
-
-[plugin:content-inject](_week-1)
-
-
 ## Getting started
 
 To begin, please carefully read the syllabus for this course, which will be emailed to you. The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
@@ -49,18 +43,20 @@ You should realize by now that this course is not happening in CourseSpaces, rat
 There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy as outlined on the WordPress resources page.
 
 #### Course Blog
-[Updates will be posted at this link.](https://edtechuvic.ca/edci335/colins-posts).
 
-Course updates, information about weekly readings, learning activities and assessments are posted on the course blog. [Please bookmark the site](https://edtechuvic.ca/edci335/colins-posts) and ***check at least daily***. It is strongly recommended that you subscribe to my post feed so that you will receive updates in Feedly, [here are instructions](https://edtechuvic.ca/edci335/rss-feeds). The URL to my feed is `https://teaching.madland.ca/edci335-may-2020/home.rss`.
 
-I will post regular updates and commentary here on the course blog every Monday morning by 9:00 am Pacific time. You will also be able to see course announcements on the right side of the course blog homepage.
+Course updates, information about weekly readings, learning activities and assessments are posted on the [course blog](https://edtechuvic.ca/edci335/colins-posts). Please bookmark that site and ***check at least daily***. It is strongly recommended that you subscribe to my post feed so that you will receive updates in Feedly, [here are instructions](https://edtechuvic.ca/edci335/rss-feeds). The URL to my feed is `https://teaching.madland.ca/edci335-may-2020/home.rss`.
 
-Syllabus includes information about how to contact me and when you can expect responses. Generally, if you don't receive a response within 24 hours, you should feel free to send a follow-up email, or you can send me a [DM (Direct Message) on Twitter](https://twitter.com/colinmadland)
+I will post regular updates and commentary on the course blog every Monday morning by 9:00 am Pacific time. You will also be able to see course announcements on the right side of the course blog homepage.
+
+The syllabus includes information about how to contact me and when you can expect responses. Generally, if you don't receive a response within 24 hours, you should feel free to send a follow-up email, or you can send me a [DM (Direct Message) on Twitter](https://twitter.com/colinmadland)
 
 #### CourseSpaces
 
 
 !! You will not find any course updates in CourseSpaces. Make sure you check the [course site](https://edtechuvic.ca/edci335)!
+
+[plugin:content-inject](_week-1)
 
 > Close this tab or window to return to the [course site.](https://edtechuvic.ca/edci335)
 
