@@ -48,9 +48,10 @@ You should realize by now that this course is not happening in CourseSpaces, rat
 
 There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy as outlined on the WordPress resources page.
 
-#### Course Blog - [https://edtechuvic.ca/edci335/colins-posts](https://edtechuvic.ca/edci335/colins-posts).
+#### Course Blog
+[Updates will be posted at this link.](https://edtechuvic.ca/edci335/colins-posts).
 
-Course updates, information about weekly readings, learning activities and assessments are posted on the course blog. [Please bookmark the site](https://edtechuvic.ca/edci335) and ***check at least daily***. It is strongly recommended that you subscribe to my post feed so that you will receive updates in Feedly. The URL to my feed is `https://teaching.madland.ca/edci335-may-2020/home.rss`.
+Course updates, information about weekly readings, learning activities and assessments are posted on the course blog. [Please bookmark the site](https://edtechuvic.ca/edci335/colins-posts) and ***check at least daily***. It is strongly recommended that you subscribe to my post feed so that you will receive updates in Feedly, [here are instructions](https://edtechuvic.ca/edci335/rss-feeds). The URL to my feed is `https://teaching.madland.ca/edci335-may-2020/home.rss`.
 
 I will post regular updates and commentary here on the course blog every Monday morning by 9:00 am Pacific time. You will also be able to see course announcements on the right side of the course blog homepage.
 
@@ -59,8 +60,8 @@ Syllabus includes information about how to contact me and when you can expect re
 #### CourseSpaces
 
 
-!! You will not find any course updates in CourseSpaces. Make sure you check here!
+!! You will not find any course updates in CourseSpaces. Make sure you check the [course site](https://edtechuvic.ca/edci335)!
 
-!!!! Please see the [tutorial on RSS feeds](https://edtechuvic.ca/edci335/rss-feeds/) for instructions on how to subscribe to my updates.
+> Close this tab or window to return to the [course site.](https://edtechuvic.ca/edci335)
 
 ---
