@@ -14,6 +14,7 @@ Updated Monday, May the 4th (be with you).
 :fa-check: Read the syllabus that will be emailed to you.<br>
 :fa-check: Read the [welcome to the course](https://edtechuvic.ca/edci335/).<br>
 :fa-check: Read about [privacy and consent](https://edtechuvic.ca/edci335/fippa-privacy-and-consent-resources/).<br>
+:fa-check: Review the opened.ca [Code of Conduct](https://opened.ca/about/code-of-conduct/).</br>
 :fa-check: Sign up for a [WordPress blog.](https://edtechuvic.ca/edci335/how-to-participate/)<br>
 :fa-check: Complete the [Learning Pathways survey](https://edtechuvic.ca/edci335/sharing-your-learning-pathways/).<br>
 :fa-check: Customize your blog.<br>
