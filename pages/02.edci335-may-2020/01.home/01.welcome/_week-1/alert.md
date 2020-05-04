@@ -18,6 +18,6 @@ Updated Monday, May the 4th (be with you).
 :fa-check: Sign up for a [WordPress blog.](https://edtechuvic.ca/edci335/how-to-participate/)<br>
 :fa-check: Complete the [Learning Pathways survey by Friday, May 8](https://edtechuvic.ca/edci335/sharing-your-learning-pathways/).<br>
 :fa-check: Customize your blog.<br>
-:fa-check: Post a self-introduction.<br>
+:fa-check: Post a self-introduction to your blog.<br>
 :fa-check: Set up your [RSS feeds](https://edtechuvic.ca/edci335/rss-feeds/).<br>
 :fa-check: Form your [learning pods by Friday, May 8](https://edtechuvic.ca/edci335/a01-social-spaces/). The password was emailed to you.<br>
