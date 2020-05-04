@@ -18,7 +18,7 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](_important-reminders)
+[plugin:content-inject](_week-1)
 
 ===
 

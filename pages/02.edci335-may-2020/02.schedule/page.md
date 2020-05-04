@@ -8,6 +8,9 @@ cache_enable: false
 
 !!!! Check this page for updates to the schedule.
 
+[plugin:content-inject](../home/welcome/_week-1)
+
+<!--
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
 #### What is learning?<br>
@@ -69,3 +72,4 @@ cache_enable: false
 #### Summary<br>
 :fa-pencil:Interactive Learning Resource - Final Submission
 :fa-pencil:Course Experience Survey
+-->
