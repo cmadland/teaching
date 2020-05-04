@@ -1,8 +1,9 @@
 ---
 title: 'Cooperative Learning'
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false
 ---
-
-
 
 Cooperative learning is a set of teaching and learning strategies that are focussed on encouraging educative social interactions between learners. It is important to not conflate *cooperative learning* with *group projects* as you might remember them from your previous experiences in higher ed. Group projects are often assigned because faculty seem to have a sense that *working together* is a good thing for learners, along with a vague sense that modern jobs all require teamwork. Too often, they amount to repurposing an individual assignment (maybe a research paper) into the same task, but with multiple people handing in one item instead of 3-4. When these tasks are not well structured, the process becomes problematic.
 
