@@ -22,3 +22,6 @@ Please contact me if you would like to set up a web conference or phone call. Pl
 :fa-info:[Course Site](https://edtechuvic.ca/edci335)<br>
 :fa-calendar:[Course Schedule](https://edtechuvic.ca/edci335/schedule)<br>
 :fa-file:[Assignment Details](https://edtechuvic.ca/edci335/assignments)<br>
+
+---
+Header Photo by [Ayla Verschueren](https://unsplash.com/@moob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
