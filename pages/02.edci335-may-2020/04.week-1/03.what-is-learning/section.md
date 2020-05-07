@@ -5,9 +5,10 @@ taxonomy:
     category:
         - docs
     tag:
-        -all
-hide_git_sync_repo_link: false
+        - '-all'
 hide_page_title: true
+show_sidebar: true
+hide_git_sync_repo_link: false
 ---
 
 ### :fa-question-circle: What is learning?
@@ -32,6 +33,7 @@ An implication of this for *your* learning in this and other classes is that you
 :fa-check: **Connect the content to something you already know**. Use phrases like 'This reminds me of...', or 'That's just like...but it's different because...'<br>
 :fa-check: **Practice spaced repetition**. Practice retrieving your new knowledge in different contexts with increasing time intervals in between attempts.<br>
 :fa-check: **Follow these study tips:**<br>
+
 1. With your book/notes/source material closed, write down everything you can about the topic you are needing to recall.
 2. Compare what you wrote with the original source material and identify the gaps in your knowledge.
 3. Use the strategies above to aid in your `consolidation` and `retrieval` of the information in the gaps.
