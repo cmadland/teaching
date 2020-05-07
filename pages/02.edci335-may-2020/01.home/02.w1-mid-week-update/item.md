@@ -1,29 +1,28 @@
 ---
-title: 'Week 1 update'
-published: false
-date: '09-05-2019 00:00'
-header_image_file: /edci335/home/week-01/7329695128_a60970e43e_o.jpg
+title: 'Week 1 Update'
+published: true
+date: '07-05-2020 00:00'
+header_image_file: /edci335-may-2020/home/w1-mid-week-update/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
 header_image_credit: 'Flickr User @serdarkaya'
 header_image_creditlink: 'https://www.flickr.com/photos/serdarkaya/7329695128/in/album-72157630032117384/'
 summary:
-    enabled: '1'
+    enabled: '0'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
-    skip: true
+    skip: false
 ---
 
 Just a couple updates for this first week!
 
-===
 
-Thank you to those who have registered for a blog site. It looks like about half of you so far have decided to sign up at WordPress.com and the other half with UVic. Either one is ok.
+Thank you to those who have registered for a blog site. Keep in mind that your blog privacy settings will determine whether or not your posts can be syndicated to the course site. [See the page called 'Creating a Blog on the OpenETC'](https://edtechuvic.ca/edci335/creating-a-blog-on-the-openetc/) under the section 'Privacy Settings' for details.
 
-If you have set your blog to be private, I won't be able to syndicate your posts automatically to the course site. Please make sure that you add a link to the appropriate assignment dropbox in CourseSpaces for each required post (your first post is due Sunday, May 19).
+Also, please get in the habit of using the category `edci335` on each of your posts. [Click here for instructions for creating categories and applying them to your posts.](https://www.wpbeginner.com/glossary/category/) Let me know if you need assistance!
 
-Also, please get in the habit of using the category `edci335` on each of your posts. [Click here for instructions for creating categories and applying them to your posts.](https://edtechuvic.ca/edci335/getting-started-with-wordpress/) Let me know if you need assistance!
+[plugin:content-inject](../welcome/_week-1)
 
-
+> Close this tab or window to return to the [course site.](https://edtechuvic.ca/edci335)
 ---
