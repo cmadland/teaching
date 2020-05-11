@@ -9,12 +9,6 @@ You may be familiar with the challenge that it is to change someone else's mind.
 
 This is because our ideas, regardless of what they are or how truthful they may be, become thoroughly embedded in very strong connections in our brains, and they are *extremely* persistent. In reality, everybody has misconceptions about the world.
 
-Here is a little quiz for you. Don't worry, it's not part of your grade.
-
-[h5p id="2"]
-
-How did you do? Did you get it on the first try? If you didn't, you may have given yourself an example of a misconception that you hold about the world.
-
 Here's a short video from Derek Muller of the YouTube channel [Veritasium](https://veritasium.com).
 
 [plugin:youtube](https://www.youtube.com/watch?v=eVtCO84MDj8)
@@ -27,7 +21,7 @@ When you think about it though, *learning is changing your mind* about something
 
 Here is another video, this one from Destin Sandlin at [Smarter Every Day](https://smartereveryday.com). As you watch, consider the role of *neuroplasticity* in teaching and learning.
 
-[plugin:youtube](https://www.youtube.com/watch?v=Ybo4Lk3CI98)
+[plugin:youtube](https://www.youtube.com/watch?v=MFzDaBzBlL0)
 
 The difficulty of learning a skill like riding a backwards bike is a good example of how our patterns of thinking can become rigid and inflexible. If you recall the reading from last week about constructivism, you will realize that the cognitive process of integrating new knowledge into older knowledge structures can be a difficult one. One exposure to an idea (like in a lecture, or reading) is rarely enough for a person to develop a deep and accurate *understanding* of the idea.
 
