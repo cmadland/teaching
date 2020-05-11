@@ -18,7 +18,7 @@ feed:
 
 The schedule above is a suggested timeline for this week, but please aim to have everything completed by the evening of ***Sunday, May 17***.
 
-Hi everyone! I hope you are had a great weekend! I spent a good chunk of my weekend planting a garden for the first time in a few years, so that was nice. I'm hoping *finally* to be able to make a batch of salsa from my tomatoes and peppers.
+Hi everyone! I hope you had a great weekend! I spent a good chunk of my weekend planting a garden for the first time in a few years, so that was nice. I'm hoping *finally* to be able to make a batch of salsa from my tomatoes and peppers.
 
 <a class="embedly-card" data-card-controls="0" href="https://twitter.com/colinmadland/status/1259652403332169728?s=20">Here's my Twitter post on the subject.</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
