@@ -15,5 +15,3 @@ course_home: home
 page-inject:
   processed_content: true
 ---
-
-[plugin:content-inject](/edci335/home/_important-reminders)
