@@ -1,7 +1,7 @@
 ---
 alert_style: alert-primary
 title: 'How Grav Saved the Day'
-published: false
+published: true
 visible: true
 header_image_alt_text: ''
 header_image_credit: ''
