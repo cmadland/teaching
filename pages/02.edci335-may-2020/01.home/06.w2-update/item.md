@@ -14,7 +14,7 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](../_week-2)
+[plugin:content-inject](../week-2/_week-2)
 
 
 Good morning from rainy Richmond!
