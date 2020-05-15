@@ -30,3 +30,5 @@ As this is a long weekend in Canada, I hope you are able to get a bit of extra r
 I'm available by email, text, or Slack (details on the syllabus) if you have questions.
 
 [plugin:content-inject](../week-2/_week-2)
+
+! Close this tab to return to the course.
