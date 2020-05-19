@@ -9,7 +9,8 @@ cache_enable: false
 !!!! Check this page for updates to the schedule.
 
 [plugin:content-inject](../home/welcome/_week-1)
-
+[plugin:content-inject](../home/week-2/_week-2)
+[plugin:content-inject](../home/w3/_week-3)
 <!--
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
