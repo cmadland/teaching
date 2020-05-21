@@ -9,7 +9,7 @@ feed:
 
 # May 19-22
 
-:fa-info: Wednesday, May 20 is the last day to drop a course with 100% refund.  
+:fa-info: ~~Wednesday, May 20 is the last day to drop a course with 100% refund.~~  
 :fa-check: Please contact me as soon as possible if you are not yet in a Learning Pod.  
 :fa-book: Read the [*What is Learning* post on the course blog.](https://edtechuvic.ca/edci335/what-is-learning/) *Suggested timeline - Tuesday, May 19*  
 :fa-book: Read the [post 'Designing Learning'](https://edtechuvic.ca/edci335/designing-learning/) and follow the instructions to set up and use hypothes.is. *Suggested timeline - Thursday, May 21*  
