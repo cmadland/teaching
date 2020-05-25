@@ -1,5 +1,5 @@
 ---
-title: Week 4 Update
+title: 'Week 4 Update'
 published: false
 date: '07-06-2019 00:00'
 header_image_alt_text: 'iOS family of devices pile (2015)'

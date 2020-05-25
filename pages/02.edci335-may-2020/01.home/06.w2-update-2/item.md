@@ -14,7 +14,6 @@ feed:
     skip: false
 ---
 
-
 Good morning! I'm writing this on Friday morning, May 15.
 
 Remember to read through the [A01 Blog Feed](https://edtechuvic.ca/edci335/a01-blog-feed/) in the menu and begin to connect with some of your peers by linking to their posts.

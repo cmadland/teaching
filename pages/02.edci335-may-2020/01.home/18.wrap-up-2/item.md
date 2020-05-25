@@ -1,5 +1,5 @@
 ---
-title: Wrap-up 2
+title: 'Wrap-up 2'
 published: false
 date: '29-06-2019 00:00'
 header_image_alt_text: 'iOS family of devices pile (2015)'
