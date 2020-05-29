@@ -20,7 +20,9 @@ I hope it is as sunny where you are as it has been here in Richmond! Each mornin
 
 ![alt-text](IMG_1850.jpg "Large tree with green leaves and magenta flowers")
 
-It blooms quite late in the spring and it very colourful in the morning sun, but I don't know what kind of tree it is...
+It blooms quite late in the spring and it very colourful in the morning sun, but I don't know what kind of tree it is...here is a closer view.
+
+![alt-text](IMG_1859.jpg "Close-up of green leaves and magenta flowers")
 
 Anyways, we are coming to the end of week 4 of the course and I am grateful for the work you are doing! I have read everyone's first post on the various learning theories discussed and also left comments using hypothes.is. Each of you should have received an email with instructions for accessing those comments in the private group that I created. Only you and i can see the comments in those groups.
 
