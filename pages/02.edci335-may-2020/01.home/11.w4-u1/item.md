@@ -24,7 +24,7 @@ It blooms quite late in the spring and it very colourful in the morning sun, but
 
 ![alt-text](IMG_1859.jpg "Close-up of green leaves and magenta flowers")
 
-Anyways, we are coming to the end of week 4 of the course and I am grateful for the work you are doing! I have read everyone's first post on the various learning theories discussed and also left comments using hypothes.is. Each of you should have received an email with instructions for accessing those comments in the private group that I created. Only you and i can see the comments in those groups.
+Anyways, we are coming to the end of week 4 of the course and I am grateful for the work you are doing! I have read everyone's first post on the various learning theories discussed and also [left comments using hypothes.is](https://web.hypothes.is/start). Each of you should have received an email with instructions for accessing those comments in the private group that I created. Only you and i can see the comments in those groups.
 
 You should be well on your way to completing your second post for the course and working with your Learning Pod to begin drafting your [first graded assignment, the learning design blueprint](https://edtechuvic.ca/edci335/learning-design-blueprint/). The blueprint is due on June 14, so you still have lots of time to work on it, but keep in mind that everything takes longer to accomplish when you are working online and remotely, especially if you are working across several time-zones.
 
