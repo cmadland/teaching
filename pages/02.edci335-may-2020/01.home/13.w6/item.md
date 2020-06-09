@@ -2,7 +2,10 @@
 title: 'Week 6'
 published: true
 date: '09-06-2020 06:00'
-header_image: mimi-thian-8kdA2IJsjcU-unsplash.jpg
+hide_page_title: false
+show_sidebar: true
+header_image: true
+header_image_file: /edci335-may-2020/home/w6/1-mimi-thian-8kdA2IJsjcU-unsplash.jpg
 header_image_alt_text: 'two people working on computers'
 header_image_credit: 'Photo by Mimi Thian on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@mimithian'
@@ -12,6 +15,7 @@ hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
+    limit: 10
     skip: false
 ---
 
