@@ -70,7 +70,6 @@ Also due on Sunday is your final blog post of the course. This post should be a 
   <summary>How to embed a WordPress post - Click to expand</summary>
    If you simply paste the URL of a WordPress post on its own line in your post, WordPress will automatically generate a preview of the link in your post. This also works with YouTube links and other social media sites.
 </details>
-
 ---
 
 Please also include at least one link to one of your colleagues posts and include a comment on how their post was helpful or otherwise meaningful to you.
