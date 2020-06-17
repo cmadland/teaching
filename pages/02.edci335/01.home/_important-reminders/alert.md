@@ -7,11 +7,4 @@ feed:
     skip: false
 ---
 
-# Updates
-Updated Saturday, June 29.
-
-- My last official post is published.
-- Two items due on Sunday, June 30:
-  - Final Drafts of Interactive Learning Resources.
-  - Cooperative Group Assessments.
-- Please contact me if you have questions!
+Introduces the practice of learning design and its application to  technology-mediated learning environments. Explores the principles of  learning design, examines how to create learning experiences for others  and teach for understanding. Opportunities to plan, design and develop  an interactive learning experience using technologies specific for  teaching and learning.
