@@ -10,4 +10,4 @@ page-inject:
   processed_content: true
 ---
 
-[plugin:content-inject](/edci335-2020/home/_important-reminders)
+[plugin:content-inject](/edci335-may-2020/home/_important-reminders)

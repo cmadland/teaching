@@ -5,7 +5,4 @@ published: true
 visible: false
 ---
 
-## Things to do by July 31
-:fa-check: Register for a WordPress site.
-:fa-check: Send your site URL to 
-:fa-check: Read Claire Howell Major. (2015). Teaching Online: A Guide to Theory, Research, and Practice. Retrieved from http://ebookcentral.proquest.com/lib/uvic/detail.action?docID=3318874 (pp. 88-105)
+Examines various forms of distributed and open learning and  related topics including its history and evolution. Explores the  intersection of modality, pedagogy and access. Explores communities in  online spaces and work with and across emerging forms of modality such  as blended and multi-access learning. Introduces the concepts of open  access licensing models, which have enabled open education, open  research and open data.

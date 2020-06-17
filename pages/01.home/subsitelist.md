@@ -7,8 +7,6 @@ hide_page_title: true
 
 ## Welcome!
 
-This is the homepage for your new  **Grav MultiCourse Hub** that supports **multiple courses** (i.e. subsites) within a single Grav install.
+This is the landing page for courses I have taught. Each link below is a self-contained course, although there may be hidden content to protect the privacy of learners.
 
-Each course can have its own header image, sidebar and footer - and these items can also be shared across all courses. Using the [Page Inject Plugin](https://github.com/getgrav/grav-plugin-page-inject), content can also be shared between one or more courses.
-
-Want to learn more? Visit the multicourse hub documentation at [learn.hibbittsdesign.org](https://learn.hibbittsdesign.org/opencoursehub/multicourse-hubs).
+!!!! Want to learn more about this site? Visit the multicourse hub documentation at [learn.hibbittsdesign.org](https://learn.hibbittsdesign.org/opencoursehub/multicourse-hubs).

@@ -8,10 +8,21 @@ cache_enable: false
 
 !!!! Check this page for updates to the schedule.
 
-[plugin:content-inject](../home/welcome/_week-1)
+[plugin:content-inject](../home/w1/_week-1)
+
 [plugin:content-inject](../home/week-2/_week-2)
 [plugin:content-inject](../home/w3/_week-3)
+
+[plugin:content-inject](../home/w4/_week-4)
+
+[plugin:content-inject](../home/w5/_week-5)
+
+[plugin:content-inject](../home/w6/_week-6)
+
+[plugin:content-inject](../home/w7/_week-7)
+
 <!--
+
 # [:fa-calendar-o:Week 1 (May 13-19)](http://edtechuvic.ca/edci335/blog/week-1-may-13-20/)
 
 #### What is learning?<br>
