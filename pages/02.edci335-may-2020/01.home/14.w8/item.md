@@ -5,6 +5,7 @@ date: '22-06-2020 06:00'
 hide_page_title: false
 show_sidebar: false
 header_image: true
+header_image_file: /edci335-may-2020/home/w8/jakob-owens-9f-EzRn8Ogo-unsplash.jpg
 header_image_alt_text: 'Guy on the beach who is about to get real sunburnt'
 header_image_credit: 'Photo by Jakob Owens on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@jakobowens1'
@@ -17,8 +18,6 @@ feed:
     limit: 10
     skip: false
 ---
-
-
 
 [plugin:content-inject](../w8/_week-8)
 
