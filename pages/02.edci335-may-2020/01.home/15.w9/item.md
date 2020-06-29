@@ -21,15 +21,9 @@ feed:
 
 [plugin:content-inject](../w9/_week-9)
 
-Good morning everyone, we really are in the critical part of EDCI 335. This week, I've assigned some reading about educational technology that should inform your decisions about what technologies to employ in your interactive learning resource. I hope that in these times of unrest and xenophobia, you will consider the impact of technology on society. I think it is clear that technologies have the power to both unite us and to divide us, sometimes even within the same app. TikTok is a relevant example, where teens and K-Pop fans are uniting to make life difficult for the current resident of the White House...
+Good morning everyone, we really are in the critical part of EDCI 335. This week, I've assigned some reading about educational technology that should inform your decisions about what technologies to employ in your interactive learning resource. I hope that in these times of unrest and xenophobia, you will consider the impact of technology on society. I think it is clear that technologies have the power to both unite us and to divide us, sometimes even within the same app. TikTok is a relevant example, where teens and K-Pop fans are uniting to [make life difficult for the current resident of the White House...](https://twitter.com/actualham/status/1277568382485872640?s=20).
 
-<a class="embedly-card" data-card-controls="0" href="https://twitter.com/actualham/status/1277568382485872640?s=20">Card</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-...yet TikTok is an absolute garbage fire of invasive surveillance technologies.
-
-<a class="embedly-card" data-card-controls="0" href="https://www.boredpanda.com/tik-tok-reverse-engineered-data-information-collecting/">Guy Who Reverse-Engineered TikTok Reveals The Scary Things He Learned, Advises People To Stay Away From It</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+...yet TikTok is an absolute [garbage fire of invasive surveillance technologies.](https://www.boredpanda.com/tik-tok-reverse-engineered-data-information-collecting/)
 
 Just like we need to be thoughtful about how we use technology in our personal lives, we need to be even more thoughtful about how we use technology in contexts where the people we are interacting with may be far more negatively impacted than we might be ourselves.
 
