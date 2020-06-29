@@ -5,7 +5,7 @@ date: '29-06-2020 06:00'
 hide_page_title: false
 show_sidebar: false
 header_image: true
-header_image_file: edci335-may-2020/home/w9/mimi-thian-GXEcTqlZHno-unsplash.jpg
+header_image_file: /edci335-may-2020/home/w9/mimi-thian-GXEcTqlZHno-unsplash.jpg
 header_image_alt_text: 'learners discussing their work'
 header_image_credit: 'Photo by Mimi Thian on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@mimithian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'
