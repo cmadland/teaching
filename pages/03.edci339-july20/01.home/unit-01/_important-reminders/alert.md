@@ -12,8 +12,8 @@ visible: false
 :fa-check: Blog Post 1    
 
 :fa-file: Read the syllabus!  
-:fa-wordpress: Read the posts on [FIPPA](https://edtechuvic.ca/edci339/2020/05/03/fippa-privacy-and-consent-resources/) (Cloud Computing Guidelines) and Passwords.
-Learning Pathways Survey
+:fa-wordpress: Read the posts on [FIPPA](https://edtechuvic.ca/edci339/2020/05/03/fippa-privacy-and-consent-resources/), [Cloud Computing Guidelines](https://coursespaces.uvic.ca/mod/resource/view.php?id=1509072), and [Passphrases](https://teaching.madland.ca/passphrases).
+:fa-form: Learning Pathways Survey, [accessible on the Social Spaces page](https://edtechuvic.ca/edci339/a03-social-spaces/)
 Complete the FIPPA Quiz
 Tell us about you in the Introductions forum.
 Complete Individual Post #1
