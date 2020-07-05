@@ -1,6 +1,6 @@
 ---
 title: 'Going Meta on Forum 1'
-published: true
+published: false
 date: '02-08-2019 2:00'
 header_image_file: /edci339/home/forum-1/julian-howard-CSNK8BXrhZk-unsplash.jpg
 header_image_alt_text: 'Getting to Know Me'

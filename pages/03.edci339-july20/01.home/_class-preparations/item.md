@@ -1,6 +1,6 @@
 ---
 title: 'Class Preparations'
-published: true
+published: false
 ---
 
 ## Jun 6th Class Preparations

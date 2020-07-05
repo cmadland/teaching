@@ -1,6 +1,6 @@
 ---
 title: 'Unit 5 (Aug 3-4)'
-published: true
+published: false
 date: '03-08-2019 9:00'
 header_image_file: /edci339/home/unit-05/prateek-katyal-xv7-GlvBLFw-unsplash.jpg
 header_image_alt_text: 'Neon Signage'

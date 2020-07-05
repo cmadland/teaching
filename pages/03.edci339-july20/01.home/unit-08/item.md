@@ -1,6 +1,6 @@
 ---
 title: 'Unit 8 (August 10-12)'
-published: true
+published: false
 date: '10-08-2019 09:00'
 hide_from_post_list: false
 hide_git_sync_repo_link: true

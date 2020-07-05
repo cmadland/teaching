@@ -1,6 +1,6 @@
 ---
 title: 'Unit 6 - Post #4'
-published: true
+published: false
 date: '06-08-2019 10:00'
 header_image_file: /edci339/home/unit-06/IMG_5277.jpeg
 header_image_alt_text: 'Wildflower Meadows on Raft Mountain'

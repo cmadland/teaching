@@ -11,7 +11,7 @@ hide_git_sync_repo_link: true
 ---
 ---
 title: Welcome
-published: true
+published: false
 date: '09-05-2019 00:00'
 header_image_file: /edci339/home/week-01/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'

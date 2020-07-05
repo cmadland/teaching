@@ -1,7 +1,7 @@
 ---
 title: 'Syllabus Update'
 alert_style: alert-primary
-published: true
+published: false
 visible: false
 ---
 
