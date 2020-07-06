@@ -25,7 +25,7 @@ modular_content:
         by: folder
         dir: dsc
 feed:
-    description: 'Grav CMS Open Matter Course Hub Description'
+    description: 'Updates from Colin'
     limit: 10
 hide_page_title: true
 ---
