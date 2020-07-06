@@ -8,6 +8,7 @@ cache_enable: false
 
 
 [plugin:content-inject](../home/topic-01/_important-reminders)
+[plugin:content-inject](../home/topic-01/_class-preparations)
 
 !!!! Close this tab or window to return to the course.
 
