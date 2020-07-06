@@ -44,3 +44,7 @@ Your [third reading this topic, (Regan & Jesse, 2019)](http://link.springer.com/
 !!!! Did you know? [TurnItIn was recently purchased for $1.75 billion...](https://econproph.com/2019/03/12/thats-no-plagiarism-checker/)
 
 [Once you have completed the readings, please complete Individual Post #1 in CourseSpaces.](https://coursespaces.uvic.ca)
+
+To access the instructions, click on 'Individual Post #1', then read the details on the right side of the page. Click 'New blog post' to add your response. Instructions are also listed below...
+
+[plugin:content-inject](_ip1-instructions)
