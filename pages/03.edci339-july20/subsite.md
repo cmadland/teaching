@@ -1,5 +1,5 @@
 ---
-title: EDCI 339
+title: EDCI 339 - July 2020
 published: true
 visible: false
 course_list_description: null
@@ -9,4 +9,4 @@ page-inject:
   processed_content: true
 ---
 
-[plugin:content-inject](/edci339/home/_important-reminders)
+[plugin:content-inject](/edci339-july20/home/_important-reminders)
