@@ -2,7 +2,10 @@
 title: 'Topic 2 (July 10-15)'
 published: true
 date: '10-07-2020 00:00'
-header_image_alt_text: Open hands with peppers
+hide_page_title: false
+show_sidebar: true
+header_image_file: /edci339-july20/home/topic-2/gabrielle-cepella-RRGxWRrQ_8c-unsplash.jpg
+header_image_alt_text: 'Open hands with peppers'
 header_image_credit: 'Gabrielle Cepella on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/RRGxWRrQ_8c'
 hide_from_post_list: false
