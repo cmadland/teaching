@@ -19,11 +19,6 @@ hide_post_date: true
 hide_post_taxonomy: true
 continue_link_as_button: false
 hide_git_sync_repo_link: false
-modular_content:
-    items: '@self.modular'
-    order:
-        by: folder
-        dir: dsc
 feed:
     description: 'Updates from Colin'
     limit: 10
