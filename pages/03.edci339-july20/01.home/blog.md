@@ -6,7 +6,7 @@ body_classes: 'header-image fullwidth'
 child_type: item
 content:
     items: '@self.children'
-    limit: 7
+    limit: 1
     order:
         by: date
         dir: desc
