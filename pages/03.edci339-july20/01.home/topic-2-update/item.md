@@ -40,6 +40,8 @@ Here is a conversation between Robin DeRosa and Clarissa Sorenson-Unruh that goe
 
 [plugin:youtube](https://www.youtube.com/watch?v=R6Hqjkk-tsI)
 
+I'm looking forward to seeing Individual Post #2 on your blogs!
+
 [details="Click to see/hide the checklist for Topic 2"]
 [plugin:content-inject](_important-reminders)
 
