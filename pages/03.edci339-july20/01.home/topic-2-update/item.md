@@ -17,7 +17,7 @@ feed:
 
 Good morning everyone! Or maybe good afternoon...as some of you mentioned in your introductory posts, an advantage of distributed learning environments like this one is that you can participate on your own time, even though we have a schedule to keep!
 
-In order to keep things on track, it is worth checking in on what you should have completed so far. [Please check the schedule page](https://teaching.madland.ca/edci339-july20/schedule) and make sure that you have completed all of the activities so far. The most important activities so far are Individual Posts 1 and 2.
+In order to keep things on track, it is worth checking in on what you should have completed so far. :fa-link:[Please check the schedule page](https://teaching.madland.ca/edci339-july20/schedule) and make sure that you have completed all of the activities so far. The most important activities so far are Individual Posts 1 and 2.
 
 *Also, if you are not yet plugged into a learning pod, you need to either connect with one today, or get in touch with me as soon as possible. Your first major assignment is due **Friday, July 17**, and it is to be completed with your learning pod.*
 
