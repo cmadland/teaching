@@ -36,7 +36,7 @@ One of the things that you will be sorting out through your pod project is the d
 | learner work is hidden   |   | learner work is considered a contribution to public knowledge and is accessible   |
 | more often accredited   |   | can be non-accredited   |
 
-Here is a conversation between Robin DeRosa and Clarissa Sorenson-Unruh that goes deeper into the unique characteristics of what 'open' is.
+Here is a conversation between :fa-twitter:[Robin DeRosa](https://twitter.com/actualham) and :fa-twitter:[Clarissa Sorenson-Unruh](https://twitter.com/RissaChem) that goes deeper into the unique characteristics of what 'open' is.
 
 [plugin:youtube](https://www.youtube.com/watch?v=R6Hqjkk-tsI)
 
