@@ -1,7 +1,7 @@
 ---
 title: 'Unit 3 Reminders'
 alert_style: alert-secondary
-published: false
+published: true
 visible: false
 ---
 

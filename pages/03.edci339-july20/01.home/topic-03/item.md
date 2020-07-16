@@ -1,10 +1,10 @@
 ---
 title: 'Topic 3 (July 16-21)'
-published: false
+published: true
 date: '16-07-2020 00:00'
-header_image_alt_text: Bullseye
-header_image_credit: 'Emilio Küffer, Flickr.com'
-header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
+header_image_alt_text: coffee cups arranged by hue
+header_image_credit: 'Nathan Dumlao on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/pMW4jzELQCw'
 hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
@@ -14,7 +14,7 @@ feed:
 
 [plugin:content-inject](_important-reminders)
 
-[plugin:content-inject](_writing-prompt)
+
 
 Topic 3 expands on the discussions from topic 1 about privacy and also introduces issues of access for minority and vulnerable populations. Open education has always been primarily been about providing increased access to learning for those who may otherwise have been excluded. Confusion between 'open' and 'distributed' learning comes partly from the fact that open education has its roots in distance (or distributed) education and the two both have the same goal of improving access. Today, however, I find it useful to think of 'open' education as being specifically for people who choose to participate in learning experiences because those experiences are made available on the open web, and they do so for their own personal edification, not for credit.
 
@@ -26,7 +26,7 @@ Part of the reason we began this course in CourseSpaces is to demonstrate this d
 
 Another reason we chose this model is to demonstrate the extent of the data that is generated when you participate in an LMS-based course. Since the course was created, there have been over 5000 'clicks' within the course. Each of those clicks represents something that either one of you or I did in the course.
 
-The report looks like this:
+The report looks like this (multiplied by 250):
 
 ![alt-text](course-data.png "Course data from an LMS")
 
@@ -47,6 +47,10 @@ These three purposes are at the core of faculty work, with most faculty spending
 
 With all that in mind, the readings for Unit 3 reflect these priorities for open education.
 
+[plugin:content-inject](_writing-prompt)
 
+[details="Optional viewing"]
 
-Rissa and Maha - https://www.youtube.com/watch?v=4bjWONvQXY0
+[plugin:youtube](https://www.youtube.com/watch?v=4bjWONvQXY0)
+
+[/details]
