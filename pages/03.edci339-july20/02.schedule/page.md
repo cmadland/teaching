@@ -6,6 +6,11 @@ hide_git_sync_repo_link: false
 cache_enable: false
 ---
 
+[plugin:content-inject](../home/topic-03/_important-reminders)
+[plugin:content-inject](../home/topic-03/_writing-prompt)
+
+---
+
 [plugin:content-inject](../home/topic-2/_important-reminders)
 [plugin:content-inject](../home/topic-2/_writing-prompt)
 
