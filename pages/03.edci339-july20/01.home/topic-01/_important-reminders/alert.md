@@ -1,6 +1,6 @@
 ---
 title: 'Topic 1 Reminders'
-alert_style: alert-primary
+alert_style: alert-secondary
 published: true
 visible: false
 ---

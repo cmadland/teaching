@@ -1,6 +1,6 @@
 ---
 title: 'Topic 1 Readings'
-alert_style: alert-secondary
+alert_style: alert-primary
 published: true
 visible: false
 ---
