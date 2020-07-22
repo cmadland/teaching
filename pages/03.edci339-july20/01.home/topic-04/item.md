@@ -14,7 +14,7 @@ feed:
 
 [plugin:content-inject](_important-reminders)
 
-I aim to have your pod projects assessed this week. I will aim for Friday afternoon or evening.
+I aim to have your pod projects assessed this week. *Hopefully* for Friday afternoon or evening.
 
 !! Remember that I have dropped the requirement to complete the Optional Activities for the portfolio. I will follow up with more details tomorrow.
 
