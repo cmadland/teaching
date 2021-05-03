@@ -9,4 +9,4 @@ page-inject:
   processed_content: true
 ---
 
-[plugin:content-inject](/ldrs663-sp21/home/_course-description)
+[plugin:content-inject](/ldrs663-sp21/_course-description)
