@@ -1,5 +1,5 @@
 ---
-title: EDCI 339
+title: LDRS 663 - Spring 2021
 published: true
 visible: false
 course_list_description: null
@@ -9,4 +9,4 @@ page-inject:
   processed_content: true
 ---
 
-[plugin:content-inject](/edci339/home/_important-reminders)
+[plugin:content-inject](/ldrs663-sp21/home/_course-description)
