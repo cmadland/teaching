@@ -1,6 +1,6 @@
 ---
 title: EDCI 339
-published: false
+published: true
 visible: false
 course_list_description: null
 hide_from_course_list: true
