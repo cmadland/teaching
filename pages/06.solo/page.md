@@ -17,7 +17,7 @@ One thing that you should consider is that my assessment of your work is not an 
 
 SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at a university level.
 
-![](SOLO-Taxonomy.png)
+![](SOLO-taxonomy.png)
 
 Here is another conceptualization of the SOLO Taxonomy:
 
