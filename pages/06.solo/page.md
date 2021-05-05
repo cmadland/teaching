@@ -11,13 +11,13 @@ An important reality of higher education is that I need to provide a single lett
 
 This is a very tall order.
 
-One thing that you should consider is that my assessment of your work is not an assessment of you as a person. It is an assessment of what you have shown me in relation to the outcomes of the course. One way that you can ensure that you are providing reflections and creating work that is of high academic quality is to  use the SOLO Taxonomy.
+One thing that you should consider is that my assessment of your work is not an assessment of you as a person. It is an assessment of what you have shown me in relation to the outcomes of the course. One way that you can ensure that you are providing reflections and creating work that is of high academic quality is to use the SOLO Taxonomy.
 
 ### SOLO Taxonomy
 
-SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at a university level.
+SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to help you (and me) ensure that you are writing at an appropriate level.
 
-![](SOLOTaxonomy.jpg)
+![](SOLO-taxonomy.png)
 
 Here is another conceptualization of the SOLO Taxonomy:
 
