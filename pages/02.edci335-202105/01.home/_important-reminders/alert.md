@@ -1,10 +1,10 @@
 ---
 title: Important Reminders
 alert_style: alert-secondary
-published: false
+published: true
 visible: true
 feed:
     skip: true
 ---
 
-Introduces the practice of learning design and its application to  technology-mediated learning environments. Explores the principles of  learning design, examines how to create learning experiences for others  and teach for understanding. Opportunities to plan, design and develop  an interactive learning experience using technologies specific for  teaching and learning.
+Introduces the practice of learning design and its application to networked and open online learning environments. Explores the principles of learning design and how to create technology-mediated learning experiences for others. Opportunities to plan, design and develop technology-mediated learning experiences taking into account learning theories, communities of inquiry, inclusivity, technologies for learning, essential digital literacies and alignment of outcomes with assessments.
