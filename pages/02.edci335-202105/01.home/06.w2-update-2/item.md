@@ -1,6 +1,6 @@
 ---
 title: 'Week 2 Update 2'
-published: true
+published: false
 date: '15-05-2020 00:00'
 header_image_alt_text: 'Information architecture'
 header_image_credit: 'CannedTuna, Flickr.com'

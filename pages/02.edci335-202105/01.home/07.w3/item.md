@@ -1,6 +1,6 @@
 ---
 title: 'Week 3'
-published: true
+published: false
 date: '19-05-2020 00:00'
 header_image_alt_text: Bullseye
 header_image_credit: 'Emilio Küffer, Flickr.com'

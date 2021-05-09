@@ -1,7 +1,7 @@
 ---
 title: Week 1
 alert_style: alert-primary
-published: true
+published: false
 visible: true
 feed:
     skip: true

@@ -1,6 +1,6 @@
 ---
 title: 'Week 6'
-published: true
+published: false
 date: '09-06-2020 06:00'
 hide_page_title: false
 show_sidebar: true

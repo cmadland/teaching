@@ -1,6 +1,6 @@
 ---
 title: 'Wrapping up'
-published: true
+published: false
 date: '28-07-2020 00:00'
 header_image_alt_text: person walking along a trail
 header_image_credit: 'Photo by Artem Maltsev on Unsplash'

@@ -1,6 +1,6 @@
 ---
 title: 'Week 1 Update'
-published: true
+published: false
 date: '07-05-2020 00:00'
 header_image_file: /edci335-may-2020/home/w1-update-1/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
