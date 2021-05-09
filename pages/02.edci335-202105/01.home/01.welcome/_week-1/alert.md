@@ -7,9 +7,8 @@ feed:
     skip: true
 ---
 
-# May 4 - 11
+# May 10 - 16
 Things to do this week...
-Updated Monday, May the 4th (be with you).
 
 :fa-check: Read the syllabus that will be emailed to you.<br>
 :fa-check: Read the [welcome to the course](https://edtechuvic.ca/edci335/).<br>
@@ -20,4 +19,4 @@ Updated Monday, May the 4th (be with you).
 :fa-check: Customize your blog.<br>
 :fa-check: Post a self-introduction to your blog.<br>
 :fa-check: Set up your [RSS feeds](https://edtechuvic.ca/edci335/rss-feeds/).<br>
-:fa-check: Form your [learning pods by Friday, May 8](https://edtechuvic.ca/edci335/a01-social-spaces/). The password was emailed to you.<br>
+:fa-check: Form your [learning pods by Wednesday, May 12](https://edtechuvic.ca/edci335/a01-social-spaces/). The password was emailed to you.<br>

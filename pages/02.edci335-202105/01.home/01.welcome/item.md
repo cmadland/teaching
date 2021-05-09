@@ -1,10 +1,10 @@
 ---
 title: Welcome
-published: false
-date: '01-05-2020 00:00'
+published: true
+date: '09-05-2021 00:00'
 hide_page_title: false
 show_sidebar: true
-header_image_file: /edci335-may-2020/home/welcome/7329695128_a60970e43e_o.jpg
+header_image_file: /edci335-202105/home/welcome/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
 header_image_credit: 'Flickr User @serdarkaya'
 header_image_creditlink: 'https://www.flickr.com/photos/serdarkaya/7329695128/in/album-72157630032117384/'
@@ -26,7 +26,7 @@ feed:
 
 Hello everyone, and welcome to EDCI 335, *Learning Design*.
 
-I'm looking forward to spending the next few months with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
+I'm looking forward to spending the next several weeks with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
 
 ## Getting started
 
@@ -38,7 +38,7 @@ Make sure you spend a few minutes to familiarize yourself with the layout of thi
 
 ### How to follow this course.
 
-You should realize by now that this course is not happening in CourseSpaces, rather, the entire course is hosted at [edtechuvic.ca/edci335](https://edtechuvic.ca/edci335). This means that the *content* of the site is open on the web. Anyone with a web browser can access this page. You are also *invited* to post your work on an open website using WordPress, but you are not *required* to do so. Please read through the [WordPress Resources page](https://edtechuvic.ca/edci335/wordpress/) for more information.
+You should realize by now that this course is not happening in BrightSpace, rather, the entire course is hosted at [edtechuvic.ca/edci335](https://edtechuvic.ca/edci335). This means that the *content* of the site is open on the web. Anyone with a web browser can access this page. You are also *invited* to post your work on an open website using WordPress, but you are not *required* to do so. Please read through the [WordPress Resources page](https://edtechuvic.ca/edci335/wordpress/) for more information.
 
 There are some people who simply cannot have a web presence. If this is you, I am happy to provide options for you to protect your privacy as outlined on the WordPress resources page.
 
@@ -51,10 +51,10 @@ I will post regular updates and commentary on the course blog every Monday morni
 
 The syllabus includes information about how to contact me and when you can expect responses. Generally, if you don't receive a response within 24 hours, you should feel free to send a follow-up email, or you can send me a [DM (Direct Message) on Twitter](https://twitter.com/colinmadland)
 
-#### CourseSpaces
+#### BrightSpace
 
 
-!! You will not find any course updates in CourseSpaces. Make sure you check the [course site](https://edtechuvic.ca/edci335)!
+!! You will not find any course updates in BrightSpace. Make sure you check the [course site](https://edtechuvic.ca/edci335)!
 
 [plugin:content-inject](_week-1)
 
