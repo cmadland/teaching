@@ -15,7 +15,7 @@ Things to do this week...
 :fa-check: Read the [privacy, FIPPA, and consent tutorial](https://edtechuvic.ca/edci335/fippa-privacy-and-consent-resources/).<br>
 :fa-check: Review the opened.ca [Code of Conduct](https://opened.ca/about/code-of-conduct/), then,</br>
 :fa-check: Sign up for a [WordPress blog.](https://edtechuvic.ca/edci335/how-to-participate/)<br>
-:fa-check: Complete the [Learning Pathways survey by Friday, May 8](https://edtechuvic.ca/edci335/sharing-your-learning-pathways/).<br>
+:fa-check: Complete the [Learning Pathways survey by Wednesday, May 12](https://edtechuvic.ca/edci335/sharing-your-learning-pathways/).<br>
 :fa-check: Customize your blog.<br>
 :fa-check: Post a self-introduction to your blog.<br>
 :fa-check: Set up your [RSS feeds](https://edtechuvic.ca/edci335/rss-feeds/).<br>
