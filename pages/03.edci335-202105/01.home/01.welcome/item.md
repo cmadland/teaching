@@ -45,7 +45,7 @@ There are some people who simply cannot have a web presence. If this is you, I a
 #### Course Blog
 
 
-Course updates, information about weekly readings, learning activities and assessments are posted on the [course blog](https://edtechuvic.ca/edci335/colins-posts). Please bookmark that site and ***check at least daily***. It is strongly recommended that you subscribe to my post feed so that you will receive updates in Feedly, [here are instructions](https://edtechuvic.ca/edci335/rss-feeds). The URL to my feed is `https://teaching.madland.ca/edci335-may-2020/home.rss`.
+Course updates, information about weekly readings, learning activities and assessments are posted on the [course blog](https://edtechuvic.ca/edci335/colins-posts). Please bookmark that site and ***check at least daily***. It is strongly recommended that you subscribe to my post feed so that you will receive updates in Feedly, [here are instructions](https://edtechuvic.ca/edci335/rss-feeds). The URL to my feed is `https://teaching.madland.ca/edci335-202105/home.rss`.
 
 I will post regular updates and commentary on the course blog every Monday morning by 9:00 am Pacific time. You will also be able to see course announcements on the right side of the course blog homepage.
 
