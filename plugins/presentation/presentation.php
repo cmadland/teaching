@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Presentation Plugin
  *
@@ -11,6 +12,7 @@
  * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  * @link       https://github.com/OleVik/grav-plugin-presentation
  */
+
 namespace Grav\Plugin;
 
 use Grav\Common\Grav;
@@ -175,14 +177,14 @@ class PresentationPlugin extends Plugin
                     $this->parser,
                     $this->transport
                 );
-                if ($this->config->get('plugins.presentation.style')
-                    && !empty($this->config->get('plugins.presentation.style'))
-                ) {
+                $styles = $this->config->get('plugins.presentation.style') ??
+                    $this->config->get('plugins.presentation.styles') ??
+                    [];
+                if (!empty($styles) && is_array($styles) && Utils::arrayIsAssociative($styles)) {
                     $this->parser->processor(
-                        $this->config->get('plugins.presentation.style'),
+                        $styles,
                         'presentation',
-                        (array) $grav['page'],
-                        'style'
+                        (array) $grav['page']
                     );
                 }
                 $tree = $this->content->buildTree($grav['page']->route());
@@ -197,12 +199,13 @@ class PresentationPlugin extends Plugin
                 $breakpoints = json_encode(
                     $this->config->get('plugins.presentation.breakpoints')
                 );
-                /* Deprecated v3.1.0 */
-                // $this->grav['twig']->twig_vars['reveal_init'] = $options;
+                $this->grav['twig']->twig_vars['reveal_init'] = $options;
                 $grav['assets']->addInlineJs('const reveal_init = ' . $options . ';', null, 'presentation');
                 $this->grav['twig']->twig_vars['presentation_menu'] = $menu;
                 $this->grav['twig']->twig_vars['presentation_breakpoints'] = $breakpoints;
-                $grav['assets']->addInlineCss($this->transport->getStyles(), null, 'presentation');
+                if ($grav['page']->template() == 'presentation') {
+                    $grav['assets']->addInlineCss($this->transport->getStyles(), null, 'presentation');
+                }
             }
         }
     }
@@ -353,9 +356,9 @@ class PresentationPlugin extends Plugin
     public function onTwigExtensions()
     {
         include_once __DIR__ . '/twig/CallStaticExtension.php';
-        $this->grav['twig']->twig->addExtension(new CallStaticTwigExtension());
+        $this->grav['twig']->twig->addExtension(new PresentationPlugin\CallStaticTwigExtension());
         include_once __DIR__ . '/twig/FileFinderExtension.php';
-        $this->grav['twig']->twig->addExtension(new FileFinderTwigExtension());
+        $this->grav['twig']->twig->addExtension(new PresentationPlugin\FileFinderTwigExtension());
     }
 
     /**
@@ -475,15 +478,21 @@ class PresentationPlugin extends Plugin
     {
         include __DIR__ . '/vendor/autoload.php';
         $inflector = new Inflector();
-        $themes = array('none' => 'None');
+        $options = array('none' => 'None');
         $path = 'user://plugins/presentation/node_modules/reveal.js/css/theme';
         $location = Grav::instance()['locator']->findResource($path, true);
+        if (!$location) {
+            return $options;
+        }
         $files = Utilities::filesFinder($location, ['css']);
+        if (empty($files)) {
+            return $options;
+        }
         foreach ($files as $file) {
             $key = $file->getBasename('.' . $file->getExtension());
-            $themes[$key] = $inflector->titleize($key);
+            $options[$key] = $inflector->titleize($key);
         }
-        return $themes;
+        return $options;
     }
 
     /**
@@ -563,7 +572,7 @@ class PresentationPlugin extends Plugin
                 $css .= '@media screen and ';
                 if ($i == 0) {
                     $css .= '(min-width: 0px) and ';
-                    $css .= '(max-width:' . (intval($breakpoints[$i+1])-1) . 'px) ';
+                    $css .= '(max-width:' . (intval($breakpoints[$i + 1]) - 1) . 'px) ';
                 } else {
                     $css .= '(min-width:' . $breakpoints[$i] . 'px) ';
                 }
