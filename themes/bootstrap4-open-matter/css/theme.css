@@ -23,26 +23,26 @@ body {
 
 /* CSS to better match link colors with Canvas LMS (place in custom.css and uncomment) */
 /*
-a:not(.btn) {
+a:not(.btn):not(.badge):not(.navbar-brand) {
   color: #008EE2;
 }
-a:hover:not(.btn), a:focus:not(.btn) {
+a:hover:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link), a:focus:not(.btn):not(.badge):not(.navbar-brand):not(.nav-link) {
   color: #008EE2;
 }
 .btn-primary {
-    background-color: #3a8ddc!important;
-    border-color: #3a8ddc!important;
+  color: #fff;
+  background-color: #3a8ddc!important;
+  border-color: #3a8ddc!important;
 }
 */
 
-a:not(btn) {
+a:not(.btn, .badge, .navbar-brand, .dropdown-item) {
   color: #1b6ec2;
   text-decoration: none;
 }
 
-a:hover:not(btn), a:focus:not(btn) {
-  color: #12487f;
-  text-decoration: underline;
+a:hover:not(.btn, .badge, .navbar-brand, .nav-link), a:focus:not(.btn, .badge, .navbar-brand, .nav-link) {
+  color: #008EE2;
 }
 
 .page-link {
@@ -51,7 +51,7 @@ a:hover:not(btn), a:focus:not(btn) {
 
 .page-item.active .page-link {
     z-index: 1;
-    color: #fff;
+    color: #fff!important;
     background-color: #1b6ec2;
     border-color: #1b6ec2;
 }
@@ -393,4 +393,21 @@ body.chromeless {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
     background: #666666;
+}
+
+.topics .anchorjs-link {
+    display: none;
+}
+
+div.keeptogether {
+   display: inline-block;
+   width: 100%;
+}
+
+.chromeless-show {
+    display: none;
+}
+
+.chromeless-hide {
+    display: block;
 }

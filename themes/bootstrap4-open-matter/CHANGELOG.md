@@ -1,3 +1,368 @@
+# v3.7.6
+## 04/29/2021
+
+1. [](#new)
+    * Added initial support for NextGen Editor custom media embeds
+
+# v3.7.5
+## 03/23/2021
+
+1. [](#improved)
+    * Better handling of breadcrumbs for MultiCourse Hub pages
+
+# v3.7.4
+## 03/20/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.7.3
+## 03/19/2021
+
+1. [](#improved)
+    * Removed display of Anchors Plugin link icons on Topics pages
+
+# v3.7.2
+## 03/10/2021
+
+1. [](#bugfix)
+    * Fixed incorrect appearance of hover and focus on dropdown menu items
+
+# v3.7.1
+## 03/08/2021
+
+1. [](#bugfix)
+    * Included loading of v4.6 bootstrap.min.js by default
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.7.0
+## 03/02/2021
+
+1. [](#improved)
+    * Updated example CSS customizations for Canvas LMS
+
+# v3.6.9
+## 03/01/2021
+
+1. [](#bugfix)
+    * Fixed incorrect appearance of hover and focus on some elements
+
+# v3.6.8
+## 03/01/2021
+
+1. [](#improved)
+    * Removed Breadcrumbs plugin as dependency
+
+# v3.6.7
+## 03/01/2021
+
+1. [](#improved)
+    * Removed Feed plugin as dependency
+
+# v3.6.6
+## 02/28/2021
+
+1. [](#bugfix)
+    * Removed unneeded dependencies of Archives, TaxonomyList and SimpleSearch plugins
+
+# v3.6.5
+## 02/28/2021
+
+1. [](#improved)
+    * Updated Bootstrap to v4.6
+    * Updated Bootswatch to v4.6
+
+# v3.6.4
+## 02/28/2021
+
+1. [](#improved)
+    * Reduced plugin dependencies, thanks to the new Grav Skeleton build process
+
+# v3.6.3
+## 02/18/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.6.2
+## 02/18/2021
+
+1. [](#improved)
+    * Changed default sort order for Course Subsites List
+
+# v3.6.1
+## 02/18/2021
+
+1. [](#improved)
+    * Changed default for Course Subsites List to 2 cards per row
+
+# v3.6.0
+## 02/17/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.5.9
+## 02/17/2021
+
+1. [](#bugfix)
+    * Fixed several display format issues with iFrame template and blueprint
+    * Fixed incorrect variable name in iFrame template
+
+# v3.5.8
+## 02/16/2021
+
+1. [](#improved)
+    * Updated Default Editor PDF and H5P shortcode syntax to be compatible with NextGen shortcode previews
+
+# v3.5.7
+## 02/15/2021
+
+1. [](#improved)
+    * Updated GoogleSlides shortcode formatting to use Bootstrap responsive embed class
+
+# v3.5.6
+## 02/03/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.5.5
+## 02/02/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.5.4
+## 01/31/2021
+
+1. [](#improved)
+    * Set Course Subsite page blueprint default folder ('home')
+
+# v3.5.3
+## 01/30/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder (numeric prefixes used for home page modular content ordering, thanks to @ricardo118)
+
+# v3.5.2
+## 01/29/2021
+
+1. [](#bugfix)
+    * Removed unneeded <br> tags in Partial templates
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.5.1
+## 01/28/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.5.0
+## 01/26/2021
+
+1. [](#improved)
+    * Updated theme blueprints for Grav 1.7
+
+# v3.4.9
+## 01/25/2021
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.4.8
+## 01/15/2021
+
+1. [](#new)
+    * GoogleSlides shortcode updated to handle double `_` characters in URL (thanks @GeorgesPapas)
+
+# v3.4.7
+## 01/05/2021
+
+1. [](#new)
+    * Initial NextGen Editor support for H5P shortcode
+
+# v3.4.6
+## 12/21/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.4.5
+## 12/20/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.4.4
+## 12/20/2020
+
+1. [](#new)
+    * Initial NextGen Editor support for PDF shortcode
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.4.3
+## 12/19/2020
+
+1. [](#new)
+    * Initial NextGen Editor support for GoogleSlides, Button and Badge shortcodes
+
+# v3.4.2
+## 11/29/2020
+
+1. [](#improved)
+    * Updated theme screenshots
+
+# v3.4.1
+## 11/28/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.4.0
+## 11/09/2020
+
+1. [](#bugfix)
+    * Corrected CSS styling for active page button on RSSFeeds page
+
+# v3.3.9
+## 09/06/2020
+
+1. [](#improved)
+    * Added support for External Links Plugin target with badge shortcode target
+
+# v3.3.8
+## 09/04/2020
+
+1. [](#bugfix)
+    * Corrected CSS styling for button, badge, and navbar-branding elements
+
+# v3.3.7
+## 09/04/2020
+
+1. [](#improved)
+    * Updated Link page blueprint to include badge label, type and url
+
+# v3.3.6
+## 09/03/2020
+
+1. [](#improved)
+    * Added support for badge types and urls in link page types
+
+# v3.3.5
+## 09/03/2020
+
+1. [](#improved)
+    * Added `target` attribute to badge shortcode
+
+# v3.3.4
+## 08/16/2020
+
+1. [](#bugfix)
+    * Fixed issue with modular item display on Blog pages
+
+# v3.3.3
+## 07/24/2020
+
+1. [](#improved)
+    * Adjusted visual appearance of badges for link page types
+
+# v3.3.2
+## 07/24/2020
+
+1. [](#improved)
+    * Added support of link `url` to badges
+    * Adjusted visual appearance of badges
+
+# v3.3.1
+## 07/22/2020
+
+1. [](#bugfix)
+    * Updated templates for latest RC build (v.15)
+
+# v3.3.0
+## 07/22/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.2.9
+## 07/19/2020
+
+1. [](#bugfix)
+    * Fixed Presentation blueprint error (thanks @SteveDaulton)
+    * Fixed Section and Subsection blueprint error
+
+# v3.2.8
+## 07/12/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.2.7
+## 07/10/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.2.6
+## 07/08/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.2.5
+## 07/03/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.2.4
+## 07/03/2020
+
+1. [](#new)
+    * Added GoogleSlides Shortcode ([googleslides="url"]) to display embedded Google Slides
+
+# v3.2.3
+## 06/09/2020
+
+1. [](#improved)
+    * Updated Divs for use with the ShowIfEmbedded and HideIfEmbedded Shortcodes
+
+# v3.2.2
+## 06/08/2020
+
+1. [](#bugfix)
+    * Fixed improperly closed Div within ShowIfEmbedded and HideIfEmbedded Shortcodes
+
+# v3.2.1
+## 06/06/2020
+
+1. [](#new)
+    * Added ShowIfEmbedded and HideIfEmbedded Shortcodes to only show content when embedded (i.e. chromeless) or not
+
+# v3.2.0
+## 06/04/2020
+
+1. [](#new)
+    * Added CSS classes to only show content when chromeless or not chromeless (e.g. '[div class="chromeless-show"]' and [div class="chromeless-hide"]) (thanks @ricardo118)
+    * Added CSS class to force column content to keep together (e.g. '[div class="keeptogether"]'), for use with the Columns Shortcode
+
+# v3.1.9
+## 05/26/2020
+
+1. [](#improved)
+    * Updated demo pages in theme '_demo' folder
+
+# v3.1.8
+## 05/23/2020
+
+1. [](#improved)
+    * Updated inherited theme file paths for multisite compatibility
+
 # v3.1.7
 ## 04/30/2020
 
@@ -9,8 +374,6 @@
 
 1. [](#new)
     * Added `badge` shortcode for display of badges
-1. [](#improved)
-    * Added support for optional display of badge with `link` page types
 
 # v3.1.5
 ## 04/26/2020

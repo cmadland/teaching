@@ -16,7 +16,8 @@ class Bootstrap4OpenMatter extends Theme
             'onThemeInitialized'  => ['onThemeInitialized', 0],
             'onShortcodeHandlers' => ['onShortcodeHandlers', 0],
             'onTwigSiteVariables' => ['onTwigSiteVariables', 0],
-            'onPageInitialized' => ['onPageInitialized', 0]
+            'onPageInitialized' => ['onPageInitialized', 0],
+            'registerNextGenEditorPlugin' => ['registerNextGenEditorPluginShortcodes', 0]
         ];
     }
 
@@ -30,10 +31,25 @@ class Bootstrap4OpenMatter extends Theme
         $this->grav['shortcode']->registerAllShortcodes('user://themes/bootstrap4-open-matter/shortcodes');
     }
 
+    public function registerNextGenEditorPluginShortcodes($event) {
+        $plugins = $event['plugins'];
+
+        $plugins['js'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/badge.js';
+        $plugins['css'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/badge.css';
+        $plugins['js'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/button.js';
+        $plugins['css'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/button.css';
+        $plugins['js'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/googleslides.js';
+        $plugins['js'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/h5p.js';
+        $plugins['js'][] = 'user://themes/bootstrap4-open-matter/nextgen-editor/shortcodes/pdf.js';
+
+        $event['plugins']  = $plugins;
+        return $event;
+    }
+
     public function onTwigSiteVariables()
     {
         if ($this->isAdmin() && ($this->grav['config']->get('plugins.shortcode-core.enabled'))) {
-            $this->grav['assets']->add('user://themes/bootstrap4-open-matter/editor-buttons/admin/js/shortcode-presentation.js');
+            $this->grav['assets']->add('user://themes/bootstrap4-open-matter/editor-buttons/admin/js/shortcode-pdf.js');
             $this->grav['assets']->add('user://themes/bootstrap4-open-matter/editor-buttons/admin/js/shortcode-h5p.js');
         }
     }
