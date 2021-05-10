@@ -10,7 +10,7 @@ feed:
 # May 10 - 16
 Things to do this week...
 
-:fa-check: Read the syllabus that will be emailed to you.<br>
+:fa-check: Read the syllabus that will be sent to you and is available in BrightSpace.<br>
 :fa-check: Read the [welcome to the course](https://edtechuvic.ca/edci335/).<br>
 :fa-check: Read the [privacy, FIPPA, and consent tutorial](https://edtechuvic.ca/edci335/fippa-privacy-and-consent-resources/).<br>
 :fa-check: Review the opened.ca [Code of Conduct](https://opened.ca/about/code-of-conduct/), then,</br>
