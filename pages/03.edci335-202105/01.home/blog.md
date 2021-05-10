@@ -1,6 +1,6 @@
 ---
 title: Blog
-published: false
+published: true
 hide_page_title: true
 show_sidebar: true
 hide_git_sync_repo_link: false
@@ -21,7 +21,7 @@ hide_post_date: false
 hide_post_taxonomy: false
 continue_link_as_button: true
 feed:
-    limit: 10
+    limit: 50
 ---
 
 [plugin:content-inject](_important-reminders)
