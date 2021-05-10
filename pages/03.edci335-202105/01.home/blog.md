@@ -15,7 +15,7 @@ content:
         dir: desc
     pagination: '1'
 hero_scroll: false
-hide_post_summary: true
+hide_post_summary: false
 post_icon: newspaper-o
 hide_post_date: false
 hide_post_taxonomy: false
