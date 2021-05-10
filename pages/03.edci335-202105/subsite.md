@@ -13,3 +13,5 @@ hide_page_title: false
 show_sidebar: true
 hide_git_sync_repo_link: false
 ---
+
+[plugin:content-inject](/edci335-202105/home/_important-reminders)
