@@ -18,7 +18,7 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](week-1)
+[plugin:content-inject](_week-1)
 
 
 
