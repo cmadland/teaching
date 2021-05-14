@@ -10,7 +10,7 @@ feed:
 # May 12-16
 Things to do this week...
 
-:fa-check: If you haven't already, [complete the set up tasks from last week.](https://teaching.madland.ca/edci335-202105/home/welcome)  
+:fa-check: If you haven't already, [complete the set up tasks from earlier this week.](https://teaching.madland.ca/edci335-202105/home/welcome)  
 :fa-book: Read the [Learning Theories post on the course blog.](https://edtechuvic.ca/edci335/learning-theories) *Suggested timeline: Tuesday, May 12*  
 :fa-book: Read the [post 'Why is Learning Hard?'](https://edtechuvic.ca/edci335/why-is-learning-hard/) and consider how learning design might be affected by a learner's bias or motivation. *Suggested timeline: Wednesday, May 14*  
 :fa-book: Read the post [Motivation and Learning.](https://edtechuvic.ca/edci335/motivation/) *Suggested timeline: Thursday, May 15*  
