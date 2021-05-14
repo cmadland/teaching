@@ -5,7 +5,7 @@ date: '09-06-2020 06:00'
 hide_page_title: false
 show_sidebar: true
 header_image: true
-header_image_file: /edci335-may-2020/home/w6/1-mimi-thian-8kdA2IJsjcU-unsplash.jpg
+header_image_file: /edci335-202105/home/w6/1-mimi-thian-8kdA2IJsjcU-unsplash.jpg
 header_image_alt_text: 'two people working on computers'
 header_image_credit: 'Photo by Mimi Thian on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@mimithian'

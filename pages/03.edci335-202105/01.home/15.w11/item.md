@@ -5,7 +5,7 @@ date: '14-07-2020 06:00'
 hide_page_title: false
 show_sidebar: false
 header_image: true
-header_image_file: /edci335-may-2020/home/w11/tanya-trofymchuk-lSwcMi0_7Vs-unsplash.jpg
+header_image_file: /edci335-202105/home/w11/tanya-trofymchuk-lSwcMi0_7Vs-unsplash.jpg
 header_image_alt_text: 'hands with paint on them'
 header_image_credit: 'Photo by Tanya Trofymchuk on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/lSwcMi0_7Vs'

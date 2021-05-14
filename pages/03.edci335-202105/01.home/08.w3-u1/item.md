@@ -22,7 +22,7 @@ As I mentioned previously, you will never lose marks for missing a due date. I s
 
 I would love to meet with you and your learning pod and encourage you to contact me with a few times that would work for us to meet in Zoom to talk about the course, your assignments, using WordPress, or any of the other technologies that are available to you.
 
-One tool that might make it easier to follow the course is a feed reader. We suggest you use [feedly.com](https://feedly.com) and we have published a post outlining how to get started there. You can not only [follow my feed](https://teaching.madland.ca/edci335-may-2020/home.rss) (clicking that link will likely take you to a page of code that doesn't look very meaningful, but if you enter it into Feedly, it will show you my list of posts.)
+One tool that might make it easier to follow the course is a feed reader. We suggest you use [feedly.com](https://feedly.com) and we have published a post outlining how to get started there. You can not only [follow my feed](https://teaching.madland.ca/edci335-202105/home.rss) (clicking that link will likely take you to a page of code that doesn't look very meaningful, but if you enter it into Feedly, it will show you my list of posts.)
 
 You can also [follow my updates directly through the course site](https://edtechuvic.ca/edci335/colins-posts), and [the feed of the whole course](https://edtechuvic.ca/edci335/a01-blog-feed).
 
@@ -38,4 +38,4 @@ Here's a reminder of what you should be working on this week. I'll be reading th
 
 [plugin:content-inject](../w3/_week-3)
 
-[See you in hypothes.is!](https://teaching.madland.ca/edci335-may-2020/home/w3)
+[See you in hypothes.is!](https://teaching.madland.ca/edci335-202105/home/w3)

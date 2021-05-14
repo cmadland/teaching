@@ -5,7 +5,7 @@ date: '12-06-2020 06:00'
 hide_page_title: false
 show_sidebar: true
 header_image: true
-header_image_file: /edci335-may-2020/home/w6-u1/janine-robinson-dSMszKYuddc-unsplash.jpg
+header_image_file: /edci335-202105/home/w6-u1/janine-robinson-dSMszKYuddc-unsplash.jpg
 header_image_alt_text: 'Messages of support for Black Lives Matter'
 header_image_credit: 'Photo by Janine Robinson on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@janinekrob'

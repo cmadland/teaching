@@ -18,7 +18,7 @@ Good morning! I'm writing this on Friday morning, May 15.
 
 Remember to read through the [A01 Blog Feed](https://edtechuvic.ca/edci335/a01-blog-feed/) in the menu and begin to connect with some of your peers by linking to their posts.
 
-A couple of you ([Caroline](https://caroline.opened.ca/2020/05/14/prompt-learning-motivation-and-theory/) and [Roy](https://edci335royymao.opened.ca/promptlearning-experience/)) have published your first posts after your self-introductions, and I thank you for sharing your thoughts. Please make sure that you include links in your posts to your colleagues posts and also to the posts in the course so that other people can follow your thoughts. For example, [I can link to my post from earlier in the week to remind you of some tips I gave for writing your posts.](https://teaching.madland.ca/edci335-may-2020/home/w2-update)
+A couple of you ([Caroline](https://caroline.opened.ca/2020/05/14/prompt-learning-motivation-and-theory/) and [Roy](https://edci335royymao.opened.ca/promptlearning-experience/)) have published your first posts after your self-introductions, and I thank you for sharing your thoughts. Please make sure that you include links in your posts to your colleagues posts and also to the posts in the course so that other people can follow your thoughts. For example, [I can link to my post from earlier in the week to remind you of some tips I gave for writing your posts.](https://teaching.madland.ca/edci335-202105/home/w2-update)
 
 The web is built for connections between people and ideas. [Here is a resource you can use to find out about how to create a hyperlink in WordPress.](https://www.wpbeginner.com/beginners-guide/beginners-guide-on-how-to-add-a-link-in-wordpress/#linkvisualeditor)
 
