@@ -8,7 +8,7 @@ feed:
 ---
 
 # May 12-16
-Things to do this week...
+Things to do...
 
 :fa-check: If you haven't already, [complete the set up tasks from earlier this week.](https://teaching.madland.ca/edci335-202105/home/welcome)  
 :fa-book: Read the [Learning Theories post on the course blog.](https://edtechuvic.ca/edci335/learning-theories) *Suggested timeline: Tuesday, May 12*  
