@@ -1,5 +1,5 @@
 ---
-title: 'Week 1 Update'
+title: 'Update'
 published: false
 date: '07-05-2020 00:00'
 header_image_file: /edci335-202105/home/w1-update-1/7329695128_a60970e43e_o.jpg
