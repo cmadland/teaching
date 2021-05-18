@@ -17,7 +17,7 @@ feed:
 [plugin:content-inject](../week-2/_week-2)
 
 
-Good morning from rainy Richmond!
+Good evening from rainy Richmond!
 
 I've been through each of your self-introduction posts and thoroughly enjoyed meeting you all. I encourage you to jump into the [A01 Blog Feed](https://edtechuvic.ca/edci335/a01-blog-feed/) in the menu and read about who else is in this section.
 
@@ -43,15 +43,14 @@ Many of you have [signed up for a learning pod](https://edtechuvic.ca/edci335/a0
 - they are your first source of assistance with questions about the course;
 - they are your peer reviewers for your blog posts...
 
-I have created another column in the learning pod sign-up sheet to indicate students who have dropped the course, so you don't need to stress about tracking them down to confirm their participation.
 
 !!! Please meet with your learning pods as soon as possible! You can use any tool you would like, but [Zoom is available for all UVic learners.](https://uvic.zoom.us/)
 
 ### Learning Design Blueprint
-As you know, [your blueprints are due June 14](https://edtechuvic.ca/edci335/learning-design-blueprint/). That may seem like a long time from now, but keep in mind that everything takes longer when you are working with a remote team. It is not too early to get started!
+As you know, [your blueprints are due May 30](https://edtechuvic.ca/edci335/learning-design-blueprint/). That may seem like a long time from now, but keep in mind that everything takes longer when you are working with a remote team. It is not too early to get started!
 
 This is your first major assignment for the course and it is worth 20% of your final grade. It will be important for you to complete this assignment and submit it prior to submitting your major project, the `Interactive Learning Resource`. I encourage you to contact me with your questions! I'm here to help you succeed, and the sooner you get your questions answered, the better you will be able to plan your work.
 
 Your blueprint is the planning stage for your learning resource, but don't worry about locking yourself in. Learning design is an iterative process and you will always be going back to adjust your plan as things change.
 
-I'm available by email, text, or Slack (details on the syllabus) if you have questions.
+I'm available by email, text, or Discord (details on the syllabus) if you have questions.

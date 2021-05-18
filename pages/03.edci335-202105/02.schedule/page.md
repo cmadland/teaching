@@ -11,7 +11,7 @@ cache_enable: false
 [plugin:content-inject](../home/welcome/_week-1)
 
 [plugin:content-inject](../home/week-2/_week-2)
-[plugin:content-inject](../home/w3/_week-3)
+[plugin:content-inject](../home/assessment/_schedule)
 
 [plugin:content-inject](../home/w4/_week-4)
 
