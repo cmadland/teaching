@@ -10,7 +10,7 @@ cache_enable: false
 
 [plugin:content-inject](../home/welcome/_week-1)
 
-[plugin:content-inject](../home/week-2/_week-2)
+[plugin:content-inject](../home/learning-motivation-theory/_week-2)
 [plugin:content-inject](../home/assessment/_schedule)
 
 [plugin:content-inject](../home/w4/_week-4)
