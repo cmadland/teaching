@@ -1,7 +1,7 @@
 ---
-title: 'Week 2 Update 1'
-published: false
-date: '13-05-2020 00:00'
+title: 'Tips for using WordPress'
+published: true
+date: '19-05-2021 00:00'
 header_image_alt_text: 'Information architecture'
 header_image_credit: 'CannedTuna, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/cannedtuna/4853380320/'
@@ -14,20 +14,17 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](../week-2/_week-2)
 
 
-Good evening from rainy Richmond!
 
-I've been through each of your self-introduction posts and thoroughly enjoyed meeting you all. I encourage you to jump into the [A01 Blog Feed](https://edtechuvic.ca/edci335/a01-blog-feed/) in the menu and read about who else is in this section.
+Good morning from Richmond!
 
-One of the great advantages of sharing your posts in public is that you are able to share with your family at home as well and also reach out to people who might be influencing you.
 
-### Future posts
+### WordPress Tips
 
 Here are some things to keep in mind generally about using a blog for learning.
 
-:fa-check: Make sure you link to your sources. Even if this isn't formal academic writing, it is still important to acknowledge where you get your ideas. The easiest way to do that is through an [inline link](https://www.wpbeginner.com/beginners-guide/beginners-guide-on-how-to-add-a-link-in-wordpress/#linkvisualeditor). If you want to embed a link to a WordPress site, like on our [Blog List page](https://edtechuvic.ca/edci335/a01-blog-list/) all you need to do is paste the link to the site on its own line, but do not create a hyperlink. It will embed automagically.<br>
+:fa-check: Make sure you link to your sources. Even if this isn't formal academic writing, it is still important to acknowledge where you get your ideas. The easiest way to do that is through an [inline link](https://www.wpbeginner.com/beginners-guide/beginners-guide-on-how-to-add-a-link-in-wordpress/#linkvisualeditor). If you want to embed a link to a WordPress site, like on our [Blog List page](https://edtechuvic.ca/edci335/a01-blog-list/) all you need to do is paste the link to the site on its own line, but do not create a hyperlink. It will embed automagically, and it will send a ping to the link so that it shows up as a comment on the other site. You can see several of these pingbacks on the topic posts in the course.<br>
 :fa-check: Remember to use the category `edci335`.<br>
 :fa-check: Read each other's posts and respond to them by including links in your own posts. <br>
 :fa-check: Confirm that your post is showing up on the [A01 Blog Feed](https://edtechuvic.ca/edci335/a01-blog-feed/) page. Keep in mind that it may take an hour or so to refresh.  
@@ -36,7 +33,7 @@ Here are some things to keep in mind generally about using a blog for learning.
 
 ### Learning Pods
 
-Many of you have [signed up for a learning pod](https://edtechuvic.ca/edci335/a01-social-spaces/), but there are still several who have not. Please make sure that you do this as soon as possible. The learning pods are a critical component of the course design for EDCI335.
+Many of you have [signed up for a learning pod](https://edtechuvic.ca/edci335/a01-social-spaces/), but if you have not, please make sure that you do this as soon as possible. The learning pods are a critical component of the course design for EDCI335.
 
 - they are your best source of community and connection throughout the course;
 - they are your teammates for the major assignments;
