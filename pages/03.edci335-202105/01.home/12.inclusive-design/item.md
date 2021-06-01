@@ -21,7 +21,7 @@ Good morning or evening everyone!
 
 I'm out on the deck this evening with one of my teaching assistants, Dexter.
 
-![alt-text](ta-dex.jpg "Dexter, a dark grey cat laying on pation furniture in the evening")
+![alt-text](ta-dex.jpg "Dexter, a dark grey cat laying on patio furniture in the evening")
 
 Thank you for your work last week! It has been good to see your posts and blueprints come in! I had several great conversations with groups in the planning stages of your blueprints, so I'm confident that they will be well done.
 

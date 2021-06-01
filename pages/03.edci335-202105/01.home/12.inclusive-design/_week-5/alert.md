@@ -1,13 +1,13 @@
 ---
 title: Inclusion
 alert_style: alert-primary
-published: false
+published: true
 visible: true
 feed:
     skip: true
 ---
 
-# June 1 - 7
+# May 31 - June 6
 Things to do this week...
 
 :fa-users: Read this week's posts in the following order - [National #AccessAbility Week](https://edtechuvic.ca/edci335/national-accessability-week/), [Universal Design](https://edtechuvic.ca/edci335/universal-design/), and then [Inclusive Learning Design](https://edtechuvic.ca/edci335/inclusive-learning-design/).  
