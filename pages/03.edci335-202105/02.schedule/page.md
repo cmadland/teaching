@@ -13,10 +13,12 @@ cache_enable: false
 [plugin:content-inject](../home/learning-motivation-theory/_week-2)
 [plugin:content-inject](../home/assessment/_schedule)
 
+[plugin:content-inject](../home/learning-design/_schedule)
+
 [plugin:content-inject](../home/inclusive-design/_week-5)
 
-[plugin:content-inject](../home/interaction/schedule)
+[plugin:content-inject](../home/interaction/_schedule)
 
-[plugin:content-inject](../home/w6/_week-6)
+
 
 [plugin:content-inject](../home/w7/_week-7)
