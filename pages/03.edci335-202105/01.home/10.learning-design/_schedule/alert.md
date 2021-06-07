@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 alert_style: alert-primary
-published: false
+published: true
 visible: true
 feed:
     skip: true
