@@ -19,9 +19,11 @@ feed:
     skip: false
 ---
 
+Summer is almost here (at least it was briefly last week), and I hope you are able to get some beach time in a socially distanced way, kinda like the guy in the header pic who looks white, but is going to be real red by the end of the day...
+
 [plugin:content-inject](../interaction/_schedule)
 
-Summer is almost here (at least it was briefly last week), and I hope you are able to get some beach time in a socially distanced way, kinda like the guy in the header pic who looks white, but is going to be real red by the end of the day...
+
 
 Good morning (or afternoon or whatever...) everyone! I trust you all had a good weekend and are ready for another week! My weekend was pretty busy, but I'm pleased to report that my conferencing last week was a success, even though there was So. Much. Zoom. I'll be pleased when we can get back to conferencing IRL. Kinda like this ad you may have seen...(I do like Extra gum, but don't stand to benefit from sharing this...)
 
