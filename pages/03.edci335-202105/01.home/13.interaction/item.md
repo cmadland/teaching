@@ -19,7 +19,7 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](../w8/_week-8)
+[plugin:content-inject](../interaction/_schedule)
 
 Summer is almost here (at least it was briefly last week), and I hope you are able to get some beach time in a socially distanced way, kinda like the guy in the header pic who looks white, but is going to be real red by the end of the day...
 
