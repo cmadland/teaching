@@ -33,13 +33,13 @@ But, enough of that...we've still got work to do. We are well into the back half
 
 So far, you should have completed the following...
 
-[plugin:content-inject](../ineraction/_completed)
+[plugin:content-inject](../interaction/_completed)
 
 You should know that I mean it when I say that I am grateful for your work in this course. Your blueprints were very well done and it was a pleasure speaking with many of you over the last week about your thoughts on the assignment and to meet many of you for the first time. As I mentioned to each of you, if you have any questions of concerns about the course, or if you are having particular challenges (whether COVID-19 related or not), please let me know. There are many ways we can work together to ensure your success in the course.
 
 This week, we are going to think about `interaction` and how to design for it in your interactive learning resource. Obviously, interactivity should be front-and-centre in a project called '*interactive* learning resource'!
 
-Your list of tasks for the week is at the top of this page and also on the [Schedule page on the course site](https://edtechuvic.ca/edci335/a01-schedule-with-colin/).
+Your list of tasks for the week is at the top of this page and also on the [Schedule page on the course site](https://teaching.madland.ca/edci335-202105/schedule).
 
 As always, please let me know if you have questions!
 
