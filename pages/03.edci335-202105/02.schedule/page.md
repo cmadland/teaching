@@ -13,9 +13,9 @@ cache_enable: false
 [plugin:content-inject](../home/learning-motivation-theory/_week-2)
 [plugin:content-inject](../home/assessment/_schedule)
 
-[plugin:content-inject](../home/w4/_week-4)
+[plugin:content-inject](../home/inclusive-design/_week-5)
 
-[plugin:content-inject](../home/w5/_week-5)
+[plugin:content-inject](../home/interaction/schedule)
 
 [plugin:content-inject](../home/w6/_week-6)
 
