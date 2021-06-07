@@ -7,7 +7,7 @@ feed:
     skip: true
 ---
 
-# May 24 - 30
+# May 25 - 30
 Things to do this week...
 
 :fa-users: Read the [prompt for this week](https://edtechuvic.ca/edci335/prompt-ldii/).  

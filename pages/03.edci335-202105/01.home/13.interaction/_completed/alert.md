@@ -1,7 +1,7 @@
 ---
 title: Work so far
 alert_style: alert-secondary
-published: false
+published: true
 visible: true
 feed:
     skip: true
