@@ -20,7 +20,7 @@ Looks like we have some days of rain ahead of us, so that is perfect for getting
 
 As you finish the DRAFT of your interactive learning resource, please send me a link, or @ me in Notion or google docs if that's appropriate AND send a link to your peer-review partner group. To find your partner group, please use this handy-dandy table that you all created for me at
 
-![alt-text](repercussions.png "image of a sad bear confession saying Sometimes I listen to a drum solo over and over...I'm afraid there will be repercussions.")
+![alt-text](repercussions.png "image of a confession bear saying 'Sometimes I listen to a drum solo over and over...I'm afraid this could have repercussions.'")
 
   (ok...I definitely thought I had the URL on my clipboard...both my sons are drummers and I sent this to them last night and I'm leaving it here...enjoy!)
 
@@ -31,7 +31,7 @@ Please send a link to the pod BELOW yours on the table. So pod 1, please send yo
 
 Please post your review on your own blog and add the categories 'edci335' and 'review'. Your review can be in point form.
 
-Please review the details of this assignment here.
+[Please review the details of this assignment here.](https://edtechuvic.ca/edci335/peer-review/)
 
 If you have not received a link to a resource to review by Monday evening, June 14, please email the pod above you and copy me.
 
