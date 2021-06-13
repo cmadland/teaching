@@ -1,7 +1,7 @@
 ---
 title: 'Peer Review Update'
-published: false
-date: '13-06-2021 00:00'
+published: true
+date: '13-06-2021 09:00'
 header_image_alt_text: 'Paper-based prototype'
 header_image_credit: 'Samuel Mann, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/21218849@N03/6968244538/'
