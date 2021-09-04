@@ -1,6 +1,6 @@
 ---
 title: Blog
-published: false
+published: true
 hide_page_title: true
 show_sidebar: true
 hide_git_sync_repo_link: false
@@ -25,5 +25,3 @@ feed:
 ---
 
 [plugin:content-inject](_important-reminders)
-
-Test

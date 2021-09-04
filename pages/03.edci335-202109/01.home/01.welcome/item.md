@@ -1,7 +1,7 @@
 ---
 title: Welcome
 published: false
-date: '09-05-2021 00:00'
+date: '04-09-2021 00:00'
 hide_page_title: false
 show_sidebar: true
 header_image_file: /edci335-202105/home/welcome/7329695128_a60970e43e_o.jpg
@@ -30,7 +30,7 @@ I'm looking forward to spending the next several weeks with you talking about ho
 
 ## Getting started
 
-Once you receive it, please carefully read the syllabus for this course, which will be available in BrightSpace. The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
+Please carefully read the syllabus for this course, which is available in BrightSpace. The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
 
 ! You are responsible for reading and understanding the syllabus. If you have a question about the course, please check the syllabus first, and if you can't find your answer there, check the course website and your learning pod, and if you still can't get an answer, feel free to reach out to me.
 
