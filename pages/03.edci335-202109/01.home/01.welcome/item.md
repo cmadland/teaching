@@ -1,6 +1,6 @@
 ---
 title: Welcome
-published: false
+published: true
 date: '04-09-2021 00:00'
 hide_page_title: false
 show_sidebar: true
@@ -56,7 +56,6 @@ The syllabus includes information about how to contact me and when you can expec
 
 !! You will not find any course updates in BrightSpace. Make sure you check the [course site](https://edtechuvic.ca/edci335)!
 
-[plugin:content-inject](_week-1)
 
 > Close this tab or window to return to the [course site.](https://edtechuvic.ca/edci335)
 
