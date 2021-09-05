@@ -18,7 +18,7 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](_week-1)
+
 
 
 
@@ -28,7 +28,11 @@ Hello everyone, and welcome to EDCI 335, *Learning Design*.
 
 I'm looking forward to spending the next several weeks with you talking about how to design learning experiences for learners using digital technologies. We'll explore questions about how learning actually works, how technology is influencing society and learning, and how you can evaluate the quality of learning resources that you encounter.
 
+
+
 ## Getting started
+
+[plugin:content-inject](_week-1)
 
 Please carefully read the syllabus for this course, which is available in BrightSpace. The syllabus is the official document that outlines what you will learn (outcomes), how you will demonstrate your learning, and how your grade will be determined (assessments). It also includes links to important University policies such as Academic Integrity, the use of editors, sexualized violence, and resources for learners with learning challenges.
 
