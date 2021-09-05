@@ -4,7 +4,7 @@ published: true
 date: '04-09-2021 00:00'
 hide_page_title: false
 show_sidebar: true
-header_image_file: /edci335-202105/home/welcome/7329695128_a60970e43e_o.jpg
+header_image_file: /edci335-202109/home/welcome/7329695128_a60970e43e_o.jpg
 header_image_alt_text: 'University of Victoria'
 header_image_credit: 'Flickr User @serdarkaya'
 header_image_creditlink: 'https://www.flickr.com/photos/serdarkaya/7329695128/in/album-72157630032117384/'
