@@ -10,6 +10,7 @@ feed:
 # September 20-26
 Things to do...
 
+:fa-users: Join our optional weekly Zoom meeting on [badge label="Monday @3:00 PM" /].
 :fa-check: If you haven't already, [complete the set up tasks from earlier this week.](https://teaching.madland.ca/edci335-202105/home/welcome)  
 :fa-book: Read the [Learning Theories post on the course blog.](https://edtechuvic.ca/edci335/learning-theories) [badge label="Suggested timeline: Tuesday, September 21"/]  
 :fa-book: Read the [post 'Why is Learning Hard?'](https://edtechuvic.ca/edci335/why-is-learning-hard/) and consider how learning design might be affected by a learner's bias or motivation. [badge label="Suggested timeline: Wednesday, September 22"/]  

@@ -32,5 +32,6 @@ The blueprint is a critical component of the course and also your work in the In
 
 If you would like, we can schedule a time to meet in Zoom so you can ask your questions and get responses all at once rather than a bajillion emails.
 
+I hope to see you in our Zoom meeting at 3PM (Pacific time)!
 
 [plugin:content-inject](_week-2)
