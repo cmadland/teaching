@@ -26,7 +26,7 @@ Also, there are still several people who have not submitted the  Learning Pathwa
 
 Also, please get in the habit of using the category `edci335` on each of your posts. [Click here for instructions for creating categories and applying them to your posts.](https://www.wpbeginner.com/glossary/category/) Let me know if you need assistance!
 
-This week, we are going to dig into how people actually learn. You will watch a short, and hopefully entertaining, video about riding bicycles, [read a chapter in one of the course texts](https://edtechbooks.org/lidtfoundations/learning_and_instruction), and, importantly, get started on your [Learning Design Blueprint](https://edtechuvic.ca/edci335/updated-learning-design-blueprint/), which is due [badge label="Sunday, October 10" /] and is worth 20% of your final grade.
+This week, we are going to dig into how people actually learn. You will watch a short, and hopefully entertaining, video about riding bicycles, [read a chapter in one of the course texts](https://edtechbooks.org/lidtfoundations/learning_and_instruction), and, importantly, get started on your [Learning Design Blueprint](https://edtechuvic.ca/edci335/learning-design-blueprint/), which is due [badge label="Sunday, October 10" /] and is worth 20% of your final grade.
 
 The blueprint is a critical component of the course and also your work in the Interactive Learning Resource assignment, so that is why your blueprint `must` be submitted before you submit your Interactive Learning resource.
 
