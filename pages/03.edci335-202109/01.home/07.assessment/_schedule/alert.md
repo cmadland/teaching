@@ -11,7 +11,7 @@ feed:
 Things to do...
 
 :fa-check: If you haven't already, [complete the set up tasks from last week.](https://teaching.madland.ca/edci335-202105/home/welcome)  
-:fa-book: Read the [updated Blueprint assignment](https://edtechuvic.ca/edci335/learning-design-blueprint/) (you can still use the older draft, but this one is meant to clarify a few details) [badge label="Suggested timeline: Tuesday, Sept. 28"/]  
+:fa-book: Read the [Blueprint assignment](https://edtechuvic.ca/edci335/learning-design-blueprint/)  [badge label="Suggested timeline: Tuesday, Sept. 28"/]  
 :fa-book: Read the post [Measuring Learning](https://edtechuvic.ca/edci335/measuring-learning/) [badge label="Suggested timeline: Tuesday, Sept. 28"/]  
 :fa-book: Read the [Alignment and Assessment Triangle](https://edtechuvic.ca/edci335/alignment-and-the-assessment-triangle/) post [badge label="Suggested timeline: Tuesday, Sept. 28"/]  
 :fa-book: Read the post [Assessing Learning](https://edtechuvic.ca/edci335/assessing-learning/) [badge label="Suggested timeline: Wednesday, Sept. 29"/].  
