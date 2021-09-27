@@ -1,7 +1,7 @@
 ---
 title: 'Assessment'
-published: false
-date: '17-05-2021 00:00'
+published: true
+date: '27-09-2021 00:00'
 header_image_alt_text: 'A dog in human clothes'
 header_image_credit: 'Helena Lopes on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/NoRrhQasTy4'
@@ -14,11 +14,11 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](_schedule)
+
 
 Hi everyone!
 
-This should land in your inboxes in time for Tuesday Morning, May 18. I think most of you have signed up for a Learning Pod, and I trust you have been able to connect with each other on that. If there are people you haven't heard from, or if you haven't been able to join a group, please let me know as soon as possible.
+This should land in your inboxes in time for Tuesday Morning, Sept 29. I think most of you have signed up for a Learning Pod, and I trust you have been able to connect with each other on that. If there are people you haven't heard from, or if you haven't been able to join a group, please let me know as soon as possible.
 
 There are a few of you who have joined the course in the last few days and it may take a bit for you to catch up, but that is ok, try to do something related to the course each day!
 
@@ -27,3 +27,5 @@ Last week, we worked through an introduction to the course and the first topic. 
 There is a bunch of reading this week along with some time for planning with your learning pod towards your blueprint, which is due next week. There are no posts for you to publish this week.
 
 If you would like to meet with me as a learning pod to sketch out some plans, please let me know!
+
+[plugin:content-inject](_schedule)
