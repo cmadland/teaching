@@ -1,7 +1,7 @@
 ---
 title: 'Assessment'
 published: true
-date: '27-09-2021 00:00'
+date: '28-09-2021 00:00'
 header_image_alt_text: 'A dog in human clothes'
 header_image_credit: 'Helena Lopes on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/NoRrhQasTy4'
@@ -18,7 +18,7 @@ feed:
 
 Hi everyone!
 
-This should land in your inboxes in time for Tuesday Morning, Sept 29. I think most of you have signed up for a Learning Pod, and I trust you have been able to connect with each other on that. If there are people you haven't heard from, or if you haven't been able to join a group, please let me know as soon as possible.
+This should land in your inboxes in time for Monday evening, Sept 28. I think most of you have signed up for a Learning Pod, and I trust you have been able to connect with each other on that. If there are people you haven't heard from, or if you haven't been able to join a group, please let me know as soon as possible.
 
 There are a few of you who have joined the course in the last few days and it may take a bit for you to catch up, but that is ok, try to do something related to the course each day!
 
