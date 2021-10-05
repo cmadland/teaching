@@ -1,7 +1,7 @@
 ---
-title: 'Week 3'
-published: false
-date: '19-05-2020 00:00'
+title: 'Learning Design'
+published: true
+date: '04-10-2021 00:00'
 header_image_alt_text: Bullseye
 header_image_credit: 'Emilio Küffer, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/emiliokuffer/6384294717/'
@@ -16,7 +16,7 @@ feed:
 
 Hello everyone!
 
-We have a busy week this week with a little more reading than last week, one fewer days, but no blog post due.
+We have a busy week this week with a little more reading than last week, no blog post due, but your blueprint assignment is due.
 
 This week, we introduce the idea of a planning framework to help guide you through the complex process of designing an effective learning resource. We also introduce an interactive tool called `hypothes.is` that we have used to annotate a chapter of the textbook with questions and comments. Please feel free, if you are comfortable doing so in public, to enter your own comments and questions and have a conversation about the chapter. Who knows, maybe the author will notice...
 
