@@ -19,7 +19,7 @@ feed:
 
 Good morning everyone!
 
-This week is a work week! We are going to use a cooperative learning structure called 'Jigsaw' to organize your work. Details are in the prompt for [Learning Design II](https://edtechuvic.ca/edci335/prompt-ldii/).
+This week is a work week! We are going to use a cooperative learning structure called 'Jigsaw' to organize your work. Details are in the prompt for [Learning Design II](https://edtechuvic.ca/edci335/prompt-learning-design-ii/).
 
 The basic process is that you will meet with your learning pod, divide up the topics for the week and decide who will write on what, then each member of your pod will connect with learners from other pods to investigate and write posts about their particular topic. Then, you will reconvene as a learning pod to discuss the best approach to take for your blueprint and interactive learning resource.
 
