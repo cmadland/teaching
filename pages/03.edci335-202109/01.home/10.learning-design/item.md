@@ -1,7 +1,7 @@
 ---
 title: 'Week 4'
-published: false
-date: '25-05-2020 06:00'
+published: true
+date: '12-10-2021 06:00'
 header_image_alt_text: 'Usability testing'
 header_image_credit: 'Luca Mascaro, Flickr.com'
 header_image_creditlink: 'https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/'
@@ -14,7 +14,7 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](_week-4)
+
 
 
 Good morning everyone!
@@ -29,5 +29,6 @@ If you do not yet have a learning pod, please contact me as soon as possible!
 
 !!!! You are encouraged to contact me as a learning pod, or as a jigsaw group if you have questions or concerns about the process or the topic.
 
+[plugin:content-inject](_schedule)
 
 ---
