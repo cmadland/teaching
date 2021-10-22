@@ -1,7 +1,7 @@
 ---
 title: 'Inclusive Design'
-published: false
-date: '01-06-2021 06:00'
+published: true
+date: '21-10-2021 06:00'
 header_image_alt_text: 'Person in  a white shirt and black pants on the beach'
 header_image_credit: 'Allie on Unsplash.com'
 header_image_creditlink: 'https://unsplash.com/photos/7UosiFcoc1M'
@@ -14,20 +14,16 @@ feed:
     skip: false
 ---
 
-[plugin:content-inject](_week-5)
+
 
 
 Good morning or evening everyone!
 
-I'm out on the deck this evening with one of my teaching assistants, Dexter.
-
-![alt-text](ta-dex.jpg "Dexter, a dark grey cat laying on patio furniture in the evening")
-
-Thank you for your work last week! It has been good to see your posts and blueprints come in! I had several great conversations with groups in the planning stages of your blueprints, so I'm confident that they will be well done.
+Thank you for your work last week! It has been good to see your posts and blueprints come in! I had several great conversations with groups about your blueprints, so I'm pleased that they have been so well done.
 
 As you know, deadlines are meant to be guidelines. They are certainly helpful for planning your work, and it can be difficult to catch up if you fall too far behind, however, I will never deduct grades for lateness as I believe that to be an inequitable practice that disproportionately harms some people (parents, people with jobs, people in a pandemic...). I do ask that you keep me up to date so I know when to expect to see your work.
 
-I am admittedly late to the game regarding inclusive design, so the posts in this topic heavily rely on Heidi's (teaching section A02) expertise. I'm grateful for being able to partner with her to teach this course. [I encourage you to go read her post for this topic.](https://edtechuvic.ca/hjames/inclusive-design/)
+I am admittedly late to the game regarding inclusive design, so the posts in this topic heavily rely on Heidi's (teaching section A02) expertise. I'm grateful for being able to partner with her to teach this course, even though she isn't teaching a section this term.
 
 As you read about inclusive and universal design, consider your Interactive Learning Resource, where you will have to design with at least two barriers in mind. The advantage of doing this for people who need it is that everyone generally benefits from inclusive design. Think of curb cuts on sidewalks...
 
@@ -41,6 +37,9 @@ I hope you'll be able to follow the #accessAbility hashtag on Twitter this week 
 
 I have a super busy week as I am presenting at and attending, and helping organize and run the #OTESSA21 conference this week until Thursday (feel free to check out that hashtag on Twitter too!), so I won't be able to join the Tuesday morning fun, but Heidi will be there. I'm looking forward to checking out your blueprints later this week!
 
+[plugin:content-inject](_week-5)
+
 Cheering you on!!
 
 Colin
+
