@@ -1,7 +1,7 @@
 ---
 title: 'Interaction'
-published: false
-date: '07-06-2021 06:00'
+published: true
+date: '27-10-2021 06:00'
 hide_page_title: false
 show_sidebar: false
 header_image: true
@@ -19,19 +19,15 @@ feed:
     skip: false
 ---
 
-Summer is almost here (at least it was briefly last week), and I hope you are able to get some beach time in a socially distanced way, kinda like the guy in the header pic who looks white, but is going to be real red by the end of the day...
+Remember summer? Seems like a long time ago that BC was in the middle of the heat dome...now we have bomb cyclones and atmospheric rivers and burning cargo ships...I hope everyone is keeping well. Seriously, though, if you are having a hard time right now, please reach out, either to me or [to any of the resources available on campus](https://www.uvic.ca/student-wellness/), or other resources available in your local area.
 
 [plugin:content-inject](../interaction/_schedule)
 
+We are well into the back half of EDCI335 and the remainder of the course will likely go very quickly. We have 2 more units where new content will be introduced and discussed followed by Reading Week from November 10-14. After Reading Week, there won't be any more new content and you will have the remainder of the course time to work on 3 major tasks:
 
-
-Good morning (or afternoon or whatever...) everyone! I trust you all had a good weekend and are ready for another week! My weekend was pretty busy, but I'm pleased to report that my conferencing last week was a success, even though there was So. Much. Zoom. I'll be pleased when we can get back to conferencing IRL. Kinda like this ad you may have seen...(I do like Extra gum, but don't stand to benefit from sharing this...)
-
-[plugin:youtube](https://www.youtube.com/watch?v=Gxm7Hu-IHJs)
-
-
-
-But, enough of that...we've still got work to do. We are well into the back half of EDCI335 and the remainder of the course will likely go very quickly. We have 2 more units where new content will be introduced and discussed followed by a week for you all to focus on your interactive learning resource assignments, including a peer review activity.
+:fa-check: Peer review of another group's draft learning resource.
+:fa-check: Polish one of the four posts you have published into a showcase post which will be assessed for grades.
+:fa-check: Revise and complete the Interactive Learning Resource.
 
 So far, you should have completed the following...
 
@@ -41,7 +37,7 @@ You should know that I mean it when I say that I am grateful for your work in th
 
 This week, we are going to think about `interaction` and how to design for it in your interactive learning resource. Obviously, interactivity should be front-and-centre in a project called '*interactive* learning resource'!
 
-Your list of tasks for the week is at the top of this page and also on the [Schedule page on the course site](https://teaching.madland.ca/edci335-202105/schedule).
+Your list of tasks for the week is at the top of this page and also on the [Schedule page on the course site](https://teaching.madland.ca/edci335-202109/schedule).
 
 As always, please let me know if you have questions!
 
