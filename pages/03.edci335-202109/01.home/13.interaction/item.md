@@ -5,7 +5,7 @@ date: '27-10-2021 06:00'
 hide_page_title: false
 show_sidebar: false
 header_image: true
-header_image_file: /edci335-202105/home/w8/jakob-owens-9f-EzRn8Ogo-unsplash.jpg
+header_image_file: /edci335-202109/home/w8/jakob-owens-9f-EzRn8Ogo-unsplash.jpg
 header_image_alt_text: 'Guy on the beach who is about to get real sunburnt'
 header_image_credit: 'Photo by Jakob Owens on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@jakobowens1'
@@ -25,9 +25,9 @@ Remember summer? Seems like a long time ago that BC was in the middle of the hea
 
 We are well into the back half of EDCI335 and the remainder of the course will likely go very quickly. We have 2 more units where new content will be introduced and discussed followed by Reading Week from November 10-14. After Reading Week, there won't be any more new content and you will have the remainder of the course time to work on 3 major tasks:
 
-:fa-check: Peer review of another group's draft learning resource.
-:fa-check: Polish one of the four posts you have published into a showcase post which will be assessed for grades.
-:fa-check: Revise and complete the Interactive Learning Resource.
+:fa-check: Peer review of another group's draft learning resource.  
+:fa-check: Polish one of the four posts you have published into a showcase post which will be assessed for grades.  
+:fa-check: Revise and complete the Interactive Learning Resource.  
 
 So far, you should have completed the following...
 
