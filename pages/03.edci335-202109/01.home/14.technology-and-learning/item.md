@@ -11,7 +11,7 @@ hide_from_post_list: false
 continue_link: true
 hide_git_sync_repo_link: true
 feed:
-    skip: true
+    skip: false
 ---
 
 In a course about designing learning for networked and digital environments, we finally get around to thinking about technology! There are four posts for you to read, plus a few other suggested readings. There are many ways to think about the impact of technology on education, and far too much to consider in just one course. It seems almost silly to say that the COVID pandemic has brought into the light a whole host of problems with using and abusing technology in higher ed. The pandemic and its impacts have been very disproportionately distributed with learners bearing the brunt of gaps in how higher ed instructors are prepared to teach.
