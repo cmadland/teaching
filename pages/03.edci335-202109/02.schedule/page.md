@@ -15,4 +15,5 @@ cache_enable: false
 [plugin:content-inject](../home/learning-design/_schedule)
 [plugin:content-inject](../home/inclusive-design/_week-5)
 [plugin:content-inject](../home/interaction/_schedule)
+[plugin:content-inject](../home/technology-and-learning/_schedule)
 [plugin:content-inject](../home/final-week/_schedule)
