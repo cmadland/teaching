@@ -49,10 +49,10 @@ For some of you, my feedback on your work has led to you revising and resubmitti
 
 As you finish the requirements of this course (and maybe other courses too), here are some final tips based on questions that have come in in the last few days.
 
-:fa-check: you need to have completed all four individual posts and published them on your own blog under the category `edci335`. Please check the [course Feeds page](https://edtechuvic.ca/edci335/a01-feeds) to ensure your posts are there. 
-:fa-check: choose ***ONE*** of those posts for me to assess as part of your portfolio. You ***MAY*** choose to revise and expand your post, but you are not required to do this. Expanding on your post might include finding another scholarly, peer-reviewed article or two on the topic from the library, or maybe engaging with the community on Twitter about the topic, and then revising your post to include a broader perspective. Please don't exceed 500-700 words. If you have already published your final post, you can continue editing it...I will never know.  
+:fa-check: you need to have completed all four individual posts and published them on your own blog under the category `edci335`. Please check the [course Feeds page](https://edtechuvic.ca/edci335/a01-feeds) to ensure your posts are there.  
+:fa-check: choose ***ONE*** of those posts for me to assess as part of your portfolio. You ***MAY*** choose to revise and expand your post, but you are not required to do this. Expanding on your post might include finding another scholarly, peer-reviewed article or two on the topic from the library, or maybe engaging with the community on Twitter about the topic, and then revising your post to include a broader perspective. Please don't exceed 500-700 words. If you have already published your final post, you can continue editing it...I will never know.   
 :fa-check: make sure there is a link to your pod's interactive learning resource in the menu of your own site, and that there are links to your individual sites on your interactive learning resource site.  
-:fa-question: The rubric that I use for grading is published in the course syllabus, on the last page. [For a more visual representation, please see this page.](https://teaching.madland.ca/solo)
+:fa-question: The rubric that I use for grading is published in the course syllabus, on the last page. [For a more visual representation, please see this page.](https://teaching.madland.ca/solo)  
 
 The official course end date is Friday, December 3, and grade are due December 10, so please make every effort to ensure your work is complete by December 3 (end of day Pacific time), but let me know if you will be prevented from doing so.
 
