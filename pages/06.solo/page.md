@@ -5,7 +5,7 @@ hide_page_title: false
 hide_git_sync_repo_link: false
 ---
 
-An important reality of higher education is that I need to provide a single letter to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If I am going to be fair about it, I need to consider where you are starting relative to where you end up, I need to understand your individual context, and I need to be able to determine that letter by researching your work.
+An important reality of higher education is that I need to provide a single number between 0 and 100 to the university that encapsulates the effort, successes, failures, struggles, discoveries and messiness of your work during this course. If I am going to be fair about it, I need to consider where you are starting relative to where you end up, I need to understand your individual context, and I need to be able to determine that number by researching your work.
 
 ***Assessment is research.*** You need to show me evidence that you have met the outcomes of the course in alignment with the parameters of the assignment, and you need to do so in a way that shows you can think clearly, write persuasively, and extend your learning beyond the boundaries of the course.
 
