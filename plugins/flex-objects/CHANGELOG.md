@@ -1,3 +1,122 @@
+# v1.1.6
+## 11/29/2021
+
+2. [](#bugfix)
+    * Fixed regression `Call to a member function getRoute() on null` when using CLI [#151](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/151)
+
+# v1.1.5
+## 11/24/2021
+
+1. [](#new)
+    * Added method `ObjectController::checkAuthorizations()` to check if one of the actions is true
+2. [](#bugfix)
+    * Fixed regression when calling flex router with a path
+
+# v1.1.4
+## 11/16/2021
+
+1. [](#new)
+    * Require **Grav 1.7.25**
+1. [](#improved)
+    * Changed flex router not to trigger `onPageNotFound` event
+    * Changed flex router to be called also with empty path
+    * If ACL check for the object fails, display unauthorized page instead of 404
+1. [](#bugfix)
+    * Fixed unescaped messages in JSON responses
+    * Fixed `Call to a member function getName() on null` when using file field [#149](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/149)
+
+# v1.1.3
+## 10/26/2021
+
+1. [](#improved)
+    * Updated JS dependencies to latest
+    * Optimized import of certain JS dependencies
+    * Dev: Moved away from deprecated UglifyJsPlugin in favor of TerserPlugin
+    * Use active form from the Form plugin to get page metadata
+    * Added page header `flex.access.override: true`, which allows flex to replace page `access` when user is allowed to perform action in flex
+1. [](#bugfix)
+    * Fixed flex object page access for super users when permission was denied
+
+# v1.1.2
+## 09/14/2021
+
+1. [](#new)
+    * Require **Grav 1.7.21**, optionally **Error 1.8.0**, **Login 3.5.2** and **Form 5.1.1**
+    * Added file upload/delete support to frontend forms
+    * Support proper error, login and unauthorized pages if all requirements are met
+    * Added page header `flex.router: [ROUTER]` which triggers `flex.router.[ROUTER]` event for child routes of the page
+    * Added `flex.[type].task.create.after`, `flex.[type].task.update.after` and `flex.[type].task.delete.after` events for frontend
+
+# v1.1.1
+## 09/01/2021
+
+1. [](#bugfix)
+    * Fixed XSS in page admin
+    * Fixed check for bad folder name, prevent bad characters
+
+# v1.1.0
+## 08/31/2021
+
+1. [](#new)
+   * Require **Grav 1.7.19** and **Form 5.1.0**
+   * Added basic frontend editing support
+   * Added `onBeforeFlexFormInitialize` event to help to initialize the frontend form
+1. [](#bugfix)
+   * Fixed error in admin when field validation fails
+
+# v1.0.16
+## 07/19/2021
+
+1. [](#new)
+   * Added basic new modal support for all flex types
+1. [](#bugfix)
+   * Fixed authorization check for user configuration
+
+# v1.0.15
+## 06/16/2021
+
+1. [](#improved)
+   * Better checks against missing Flex Type inside tasks
+   * Better authorization checks, falls back to directory level authorization checks if objects do not support authorization
+1. [](#bugfix)
+   * Fixed missing handling of child_type in Flex Pages [getgrav/grav-plugin-admin#2087](https://github.com/getgrav/grav-plugin-admin/issues/2087)
+   * Added support for multiple `Exports` in a dropdown
+   * Admin is no longer a dependency of Flex Objects [#130](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/130)
+   * Fixed authorization checks during page creation for users who have limited access to some pages [getgrav/grav#3382](https://github.com/getgrav/grav/issues/3382)
+   * Fixed permission check when moving a page [getgrav/grav#3382](https://github.com/getgrav/grav/issues/3382)
+
+# v1.0.14
+## 06/07/2021
+
+1. [](#improved)
+   * Added enhanced copy modal from Pages list [getgrav/grav-plugin-admin#2139](https://github.com/getgrav/grav-plugin-admin/issues/2139)
+
+# v1.0.13
+## 06/03/2021
+
+1. [](#bugfix)
+   * Fixed expert mode for Flex Pages
+
+# v1.0.12
+## 06/02/2021
+
+1. [](#bugfix)
+   * Fixed logic to get form blueprints and object, prevents events from being fired twice
+   * Fixed breadcrumb item in Pages list not translating HTML entities [#127](https://github.com/trilbymedia/grav-plugin-flex-objects/issues/127)
+
+# v1.0.11
+## 05/24/2021
+
+1. [](#improved)
+   * Allow file uploads to send data such as `data[media_order]`
+
+# v1.0.10
+## 05/19/2021
+
+1. [](#bugfix)
+   * Fixed `Add Folder` not updating the page list until cache is cleared
+   * Fixed broken error message translations
+
 # v1.0.9
 ## 04/29/2021
 

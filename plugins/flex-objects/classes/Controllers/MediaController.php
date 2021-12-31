@@ -56,7 +56,8 @@ class MediaController extends AbstractController
             $field = null;
         }
 
-        $files = $this->getRequest()->getUploadedFiles();
+        $request = $this->getRequest();
+        $files = $request->getUploadedFiles();
         if ($field && isset($files['data'])) {
             $files = $files['data'];
             $parts = explode('.', $field);
@@ -89,11 +90,16 @@ class MediaController extends AbstractController
         $object->checkUploadedMediaFile($file, $filename, $field);
 
         try {
+            // TODO: This only merges main level data, but is good for ordering (for now).
+            $data = $flash->getData() ?? [];
+            $data = array_replace($data, (array)$this->getPost('data'));
+
             $crop = $this->getPost('crop');
             if (is_string($crop)) {
                 $crop = json_decode($crop, true, 512, JSON_THROW_ON_ERROR);
             }
 
+            $flash->setData($data);
             $flash->addUploadedFile($file, $field, $crop);
             $flash->save();
         } catch (Exception $e) {
@@ -119,7 +125,7 @@ class MediaController extends AbstractController
             'code'    => 200,
             'status'  => 'success',
             'message' => $this->translate('PLUGIN_ADMIN.FILE_UPLOADED_SUCCESSFULLY'),
-            'filename' => $filename,
+            'filename' => htmlspecialchars($filename, ENT_QUOTES | ENT_HTML5, 'UTF-8'),
             'metadata' => $metadata
         ];
 
@@ -158,7 +164,7 @@ class MediaController extends AbstractController
         $response = [
             'code'    => 200,
             'status'  => 'success',
-            'message' => $this->translate('PLUGIN_ADMIN.FILE_DELETED') . ': ' . $filename
+            'message' => $this->translate('PLUGIN_ADMIN.FILE_DELETED') . ': ' . htmlspecialchars($filename, ENT_QUOTES | ENT_HTML5, 'UTF-8')
         ];
 
         return $this->createJsonResponse($response);
@@ -218,7 +224,7 @@ class MediaController extends AbstractController
             'code'    => 200,
             'status'  => 'success',
             'message' => $this->translate('PLUGIN_ADMIN.FILE_UPLOADED_SUCCESSFULLY'),
-            'filename' => $filename,
+            'filename' => htmlspecialchars($filename, ENT_QUOTES | ENT_HTML5, 'UTF-8'),
             'metadata' => $metadata
         ];
 
@@ -263,7 +269,7 @@ class MediaController extends AbstractController
         $response = [
             'code'    => 200,
             'status'  => 'success',
-            'message' => $this->translate('PLUGIN_ADMIN.FILE_DELETED') . ': ' . $filename
+            'message' => $this->translate('PLUGIN_ADMIN.FILE_DELETED') . ': ' . htmlspecialchars($filename, ENT_QUOTES | ENT_HTML5, 'UTF-8')
         ];
 
         return $this->createJsonResponse($response);

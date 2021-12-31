@@ -1,5 +1,5 @@
 /* PrismJS 1.23.0
-https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+apacheconf+bash+coffeescript+css-extras+diff+docker+git+go+java+json+json5+less+lua+markdown+markup-templating+php+php-extras+python+regex+ruby+sass+scss+sql+twig+yaml&plugins=line-highlight+line-numbers+command-line+toolbar+copy-to-clipboard */
+http://localhost:8080/download.html#themes=prism&languages=ecscript+markup+css+clike+javascript+apacheconf+bash+coffeescript+css-extras+diff+docker+git+go+java+json+json5+less+lua+markdown+markup-templating+php+php-extras+python+regex+ruby+sass+scss+sql+twig+yaml&plugins=line-highlight+line-numbers+command-line+toolbar+copy-to-clipboard */
 /**
  * prism.js default theme for JavaScript, CSS and HTML
  * Based on dabblet (http://dabblet.com)
@@ -327,12 +327,12 @@ div.code-toolbar > .toolbar button {
 	-ms-user-select: none;
 }
 
-div.code-toolbar > .toolbar a,
-div.code-toolbar > .toolbar button,
-div.code-toolbar > .toolbar span {
+div.code-toolbar .toolbar-item > a,
+div.code-toolbar .toolbar-item > button,
+div.code-toolbar .toolbar-item > span {
 	color: #bbb;
 	font-size: .8em;
-	padding: 0 .5em;
+	padding: 2px .5em;
 	background: #f5f2f0;
 	background: rgba(224, 224, 224, 0.2);
 	box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
