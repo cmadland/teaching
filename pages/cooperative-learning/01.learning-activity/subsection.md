@@ -8,5 +8,6 @@ show_sidebar: true
 
 <div class="wp">
   This is a heading in a div element
+    
   This is some text in a div element.
 </div>
