@@ -19,10 +19,20 @@ SOLO stands for *Structure of the Observed Learning Outcome* and is a gauge to h
 
 ![](SOLO-taxonomy.png)
 
-Here is another conceptualization of the SOLO Taxonomy:
+#### Pre-Structural  {-}
+A pre-structural response completely ***misses the point*** of the assessment.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Structure_of_Observed_Learning_Outcomes_(SOLO)\_Taxonomy.png#/media/File:Structure_of_Observed_Learning_Outcomes_(SOLO)\_Taxonomy.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png/1200px-Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png" alt="Structure of Observed Learning Outcomes (SOLO) Taxonomy.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Dajbelshaw&amp;action=edit&amp;redlink=1" class="new" title="User:Dajbelshaw (page does not exist)">Doug Belshaw</a>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60807631">Link</a></p>
+#### Uni-Structural  {-}
+A uni-strucutral response displays knowledge or ability in ***one dimension of the construct***.
 
+#### Multi-Structural  {-}
+A multi-structural response displays knowledge or ability in ***multiple dimensions of the construct***, but each dimension is ***disconnected*** from the others.
+
+#### Relational  {-}
+A relational response displays knowledge or ability in ***multiple dimensions of the construct, and how they are related to each other***.
+
+#### Extended Abstract  {-}
+An extended abstract response displays knowledge or ability in ***multiple dimensions of the construct, how thy are related to each other, and how that construct can be applied to help us understand different constructs***.
 If you are providing responses at a `pre- or uni-structural` level in a university course, you are going to have a bad time. `Multi-structural` responses will lead to grades in the 'C' range. At minimum, your responses should be `unambiguously relational` for a grade in the 'B' range and `extended abstract` for a grade in the 'A' range.
 
 The UVic Undergraduate Grading Scale, available on the syllabus for this course, describes 'A' work as
